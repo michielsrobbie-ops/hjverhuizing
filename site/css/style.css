@@ -339,6 +339,15 @@ ul,ol{margin:0 0 1em;padding-left:1.25em}
 .consent .btn-row .btn{flex:1;min-height:44px;padding:.5em 1em}
 .consent .btn--light{background:#fff;color:var(--navy);border-color:var(--line)}
 .consent .btn--light:hover{background:var(--mist);color:var(--navy);border-color:var(--line)}
+/* mobiel: compacte cookiemelding, zodat de knoppen in de hero zichtbaar blijven; ruimte onderaan voor de WhatsApp-knop */
+@media (max-width:560px){
+  .consent{left:8px;bottom:8px;width:calc(100% - 16px);padding:12px 14px}
+  .consent h2{font-size:1rem;margin-bottom:.2em}
+  .consent p{font-size:.84rem;line-height:1.4;margin-bottom:10px}
+  .consent .btn-row{gap:8px;flex-wrap:nowrap}
+  .consent .btn-row .btn{min-height:42px;padding:.35em .6em;font-size:.9rem}
+  .bottom .wrap{padding-bottom:88px}
+}
 
 /* tekstpagina's */
 .legal{max-width:780px}
