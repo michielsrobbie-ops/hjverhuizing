@@ -85,6 +85,8 @@
   // conversie: alleen op de bedankpagina en alleen direct na een verzonden formulier
   if (location.pathname === "/bedankt/" && store.sget("hj_lead")) {
     track("generate_lead", { formulier: store.sget("hj_lead") });
+    // Google Ads-conversie "Offerteaanvraag website (bedankpagina)" in account 846-437-8947
+    track("conversion", { send_to: "AW-16718229948/R8GHCPrczrIdELzj76M-", value: 1.0, currency: "EUR" });
     store.sdel("hj_lead");
   }
 
