@@ -1,0 +1,120 @@
+<style>
+.hjkb{--navy:#182038;--orange:#e87020;--tint:#fdf1e7;--mist:#eef1f6;--line:#d5dae4;color:var(--navy);line-height:1.65}
+.hjkb *{box-sizing:border-box}
+.hjkb p{margin:0 0 1.1em;max-width:68ch}
+.hjkb h2{margin:2.2em 0 .6em;font-size:1.6em;line-height:1.2;color:var(--navy)}
+.hjkb h3{margin:0 0 .25em;font-size:1.1em;line-height:1.3;color:var(--navy)}
+.hjkb a{color:var(--navy);text-decoration:underline;text-decoration-color:var(--orange);text-decoration-thickness:2px;text-underline-offset:3px}
+.hjkb a:hover{color:var(--orange)}
+.hjkb a:focus-visible,.hjkb summary:focus-visible{outline:3px solid var(--orange);outline-offset:3px}
+.hjkb .hjkb-lead{font-size:1.2em;line-height:1.55}
+.hjkb .hjkb-figure{margin:1.8em 0;background:var(--mist);border-radius:14px;overflow:hidden}
+.hjkb .hjkb-figure svg{display:block;width:100%;height:auto}
+.hjkb .hjkb-figure figcaption{padding:.8em 1.2em 1em;font-size:.9em;background:#fff;border:1px solid var(--line);border-top:0;border-radius:0 0 14px 14px}
+.hjkb .hjkb-cases{list-style:none;margin:1.2em 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:1.4em 2em}
+.hjkb .hjkb-cases li{display:grid;grid-template-columns:52px 1fr;gap:.9em;align-items:start;margin:0}
+.hjkb .hjkb-cases svg{width:52px;height:52px}
+.hjkb .hjkb-cases p{margin:0;font-size:.97em}
+.hjkb .hjkb-check{list-style:none;margin:1em 0 0;padding:0;border-top:2px solid var(--navy);max-width:68ch}
+.hjkb .hjkb-check li{position:relative;margin:0;padding:.85em 0 .85em 2.2em;border-bottom:1px solid var(--line)}
+.hjkb .hjkb-check li::before{content:"";position:absolute;left:.2em;top:1.15em;width:1em;height:.55em;border-left:3px solid var(--orange);border-bottom:3px solid var(--orange);transform:rotate(-45deg)}
+.hjkb .hjkb-tablewrap{overflow-x:auto;margin:1.2em 0}
+.hjkb table{width:100%;min-width:520px;border-collapse:collapse;font-size:.97em}
+.hjkb th,.hjkb td{text-align:left;vertical-align:top;padding:.75em .9em;border-bottom:1px solid var(--line)}
+.hjkb thead th{background:var(--navy);color:#fff;border-bottom:0}
+.hjkb thead th:last-child{background:var(--orange);color:var(--navy)}
+.hjkb tbody th{font-weight:600;width:28%}
+.hjkb tbody td:last-child{background:var(--tint)}
+.hjkb .hjkb-cta{margin:2.4em 0;padding:1.6em 1.6em 1.7em;background:var(--navy);color:#fff;border-radius:14px;border-left:10px solid var(--orange)}
+.hjkb .hjkb-cta h2{margin:0 0 .4em;color:#fff}
+.hjkb .hjkb-cta p{color:#fff}
+.hjkb .hjkb-actions{display:flex;flex-wrap:wrap;gap:.8em;margin-top:1.2em}
+.hjkb .hjkb-btn{display:inline-block;padding:.75em 1.3em;border-radius:8px;font-weight:700;text-decoration:none;background:var(--orange);color:var(--navy)}
+.hjkb .hjkb-btn:hover{background:#fff;color:var(--navy)}
+.hjkb .hjkb-btn-ghost{background:transparent;color:#fff;border:2px solid #fff}
+.hjkb .hjkb-btn-ghost:hover{background:#fff;color:var(--navy)}
+.hjkb details{max-width:68ch;border-bottom:1px solid var(--line)}
+.hjkb details:first-of-type{border-top:2px solid var(--navy)}
+.hjkb summary{cursor:pointer;padding:.9em 2em .9em 0;font-weight:700;position:relative;list-style:none}
+.hjkb summary::-webkit-details-marker{display:none}
+.hjkb summary::after{content:"+";position:absolute;right:.2em;top:.55em;font-size:1.5em;font-weight:400;color:var(--orange);transition:transform .2s}
+.hjkb details[open] summary::after{transform:rotate(45deg)}
+.hjkb details p{margin:0 0 1em}
+.hjkb .hjkb-lift{animation:hjkb-ride 7s ease-in-out infinite}
+.hjkb .hjkb-box{animation:hjkb-box 7s linear infinite}
+.hjkb .hjkb-arrived{animation:hjkb-arrived 7s linear infinite}
+@keyframes hjkb-ride{0%,12%{transform:translate(0,0)}48%,62%{transform:translate(310px,-155px)}94%,100%{transform:translate(0,0)}}
+@keyframes hjkb-box{0%,54%{opacity:1}58%,96%{opacity:0}100%{opacity:1}}
+@keyframes hjkb-arrived{0%,54%{opacity:0}58%,92%{opacity:1}100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.hjkb .hjkb-lift{animation:none;transform:translate(155px,-77px)}.hjkb .hjkb-box{animation:none}.hjkb .hjkb-arrived{animation:none;opacity:0}.hjkb summary::after{transition:none}}
+</style>
+<p>Een verhuislift is nodig zodra een meubelstuk niet veilig via de trap of de lift van het gebouw naar binnen kan. Dat geldt vaker dan mensen denken: bij een bovenwoning in de binnenstad, een smalle draaitrap of een grote hoekbank is de lift meestal de snelste en veiligste weg.</p>
+<p>In dit artikel leest u wanneer een verhuislift loont, wat er op straat en aan de gevel voor nodig is en waarom zelf huren niet altijd de goedkoopste keuze is.</p>
+<figure>
+<svg viewBox="0 0 720 360" role="img" aria-label="Tekening van een verhuislift die een verhuisdoos langs de gevel naar een raam op de bovenste verdieping brengt">
+<rect width="720" height="360" fill="#eef1f6"/>
+<rect x="0" y="332" width="720" height="28" fill="#d5dae4"/>
+<rect x="462" y="34" width="216" height="16" rx="3" fill="#e87020"/>
+<rect x="470" y="50" width="200" height="282" fill="#fff" stroke="#182038" stroke-width="4"/>
+<rect x="495" y="72" width="56" height="52" fill="#fdf1e7" stroke="#e87020" stroke-width="4"/>
+<rect x="590" y="72" width="56" height="52" fill="#eef1f6" stroke="#182038" stroke-width="4"/>
+<rect x="495" y="152" width="56" height="52" fill="#eef1f6" stroke="#182038" stroke-width="4"/>
+<rect x="590" y="152" width="56" height="52" fill="#eef1f6" stroke="#182038" stroke-width="4"/>
+<rect x="495" y="232" width="56" height="52" fill="#eef1f6" stroke="#182038" stroke-width="4"/>
+<rect x="600" y="244" width="40" height="88" fill="#182038"/>
+<circle cx="632" cy="290" r="3" fill="#e87020"/>
+<g><rect x="508" y="94" width="30" height="26" fill="#e87020" stroke="#182038" stroke-width="3"/><path d="M508 104h30M523 94v10" stroke="#182038" stroke-width="3" fill="none"/></g>
+<line x1="150" y1="300" x2="505" y2="122" stroke="#182038" stroke-width="12" stroke-linecap="round"/>
+<line x1="150" y1="300" x2="505" y2="122" stroke="#eef1f6" stroke-width="4" stroke-dasharray="3 13"/>
+<rect x="96" y="294" width="96" height="22" rx="4" fill="#182038"/>
+<rect x="60" y="300" width="40" height="6" rx="3" fill="#182038"/>
+<circle cx="120" cy="322" r="10" fill="#182038"/><circle cx="120" cy="322" r="4" fill="#eef1f6"/>
+<circle cx="170" cy="322" r="10" fill="#182038"/><circle cx="170" cy="322" r="4" fill="#eef1f6"/>
+<line x1="200" y1="312" x2="214" y2="332" stroke="#182038" stroke-width="5" stroke-linecap="round"/>
+<g>
+<path d="M166 276h44v8h-44z" fill="#182038"/>
+<path d="M166 276v-30M210 276v-30" stroke="#182038" stroke-width="3"/>
+<g><rect x="173" y="250" width="30" height="26" fill="#e87020" stroke="#182038" stroke-width="3"/><path d="M173 260h30M188 250v10" stroke="#182038" stroke-width="3" fill="none"/></g>
+</g>
+</svg>
+<figcaption>De lift staat op straat en brengt meubels en dozen buitenom naar het raam of balkon. Het trappenhuis blijft vrij.</figcaption>
+</figure>
+<h2>Wanneer is een verhuislift nodig?</h2>
+<p>Er zijn vier situaties waarin wij bijna altijd een lift adviseren.</p>
+<ul>
+<li><svg viewBox="0 0 52 52" aria-hidden="true"><rect width="52" height="52" rx="10" fill="#fdf1e7"/><path d="M10 40h9v-8h8v-8h8v-8h8" fill="none" stroke="#182038" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><path d="M36 30l6 6M42 30l-6 6" stroke="#e87020" stroke-width="4" stroke-linecap="round"/></svg><h3>Smalle of steile trap</h3><p>Draaitrappen en de steile trappen van oudere panden laten weinig draairuimte. Een kast die beneden past, loopt halverwege vast.</p></li>
+<li><svg viewBox="0 0 52 52" aria-hidden="true"><rect width="52" height="52" rx="10" fill="#fdf1e7"/><path d="M10 26v10h32V26" fill="none" stroke="#182038" stroke-width="4" stroke-linejoin="round"/><rect x="15" y="16" width="22" height="13" rx="3" fill="#e87020" stroke="#182038" stroke-width="3"/><path d="M13 36v5M39 36v5" stroke="#182038" stroke-width="4" stroke-linecap="round"/></svg><h3>Grote of zware stukken</h3><p>Hoekbanken, boxsprings, wasmachines, Amerikaanse koelkasten en piano's. Zwaar tillen op een trap is het moment waarop schade en blessures ontstaan.</p></li>
+<li><svg viewBox="0 0 52 52" aria-hidden="true"><rect width="52" height="52" rx="10" fill="#fdf1e7"/><rect x="15" y="9" width="22" height="34" fill="#fff" stroke="#182038" stroke-width="4"/><path d="M21 17h4M29 17h2M21 25h4M29 25h2M21 33h4" stroke="#182038" stroke-width="4"/><rect x="28" y="14" width="5" height="6" fill="#e87020"/></svg><h3>Bovenwoning of appartement</h3><p>Vanaf de eerste verdieping scheelt een lift al veel loopwerk. In een flat is de personenlift vaak te klein voor grote meubels.</p></li>
+<li><svg viewBox="0 0 52 52" aria-hidden="true"><rect width="52" height="52" rx="10" fill="#fdf1e7"/><path d="M26 9l14 5v11c0 9-6 15-14 18-8-3-14-9-14-18V14z" fill="#fff" stroke="#182038" stroke-width="4" stroke-linejoin="round"/><path d="M20 26l5 5 8-10" fill="none" stroke="#e87020" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg><h3>Kwetsbaar trappenhuis</h3><p>Pas gestuukte muren, een nieuwe trapleuning of een gedeelde hal waar u geen krassen wilt achterlaten.</p></li>
+</ul>
+<h2>Wat is er nodig om een lift te plaatsen?</h2>
+<p>Niet elke woning is geschikt. Deze vier punten bekijken wij vooraf, het liefst ter plaatse.</p>
+<ul>
+<li><strong>Ruimte op straat.</strong> De lift staat schuin tegen de gevel en heeft beneden een vrije strook nodig. Geparkeerde auto's, bomen en lantaarnpalen bepalen of dat lukt.</li>
+<li><strong>Een raam of balkon dat ver genoeg open kan.</strong> Soms moet een raam of balkonhek tijdelijk los. Dat doen wij zelf en zetten het daarna weer vast.</li>
+<li><strong>Een vlakke, stevige ondergrond.</strong> Bestrating is prima. Een zacht gazon of een helling vraagt om een andere opstelling.</li>
+<li><strong>Werkbaar weer.</strong> Bij harde wind is werken met een lift niet veilig. Dan schuiven we op of kiezen we een andere route.</li>
+</ul>
+<p style="margin-top:1.2em">Staat de lift op de stoep of de rijbaan, dan kan een melding of ontheffing bij de gemeente nodig zijn. Dat verschilt per gemeente en per straat, dus vraag het op tijd na.</p>
+<h2>Met of zonder lift: het verschil</h2>
+<table>
+<thead><tr><th scope="col"></th><th scope="col">Via de trap</th><th scope="col">Met verhuislift</th></tr></thead>
+<tbody>
+<tr><th scope="row">Tempo</th><td>Elk stuk apart naar boven dragen, vaak met twee of drie man</td><td>Meerdere dozen of een compleet meubel per rit</td></tr>
+<tr><th scope="row">Kans op schade</th><td>Muren, leuningen en hoeken van meubels raken snel iets</td><td>Meubels gaan buitenom en raken het trappenhuis niet</td></tr>
+<tr><th scope="row">Grote meubels</th><td>Vaak eerst uit elkaar halen</td><td>Gaan meestal in één stuk naar binnen</td></tr>
+<tr><th scope="row">Wat het vraagt</th><td>Veel tilwerk en tijd</td><td>Ruimte op straat en een geschikt raam of balkon</td></tr>
+</tbody>
+</table>
+<h2>Zelf een verhuislift huren of laten doen?</h2>
+<p>Een lift huren kan, maar reken het goed door. U betaalt de huur, vaak ook het brengen en ophalen, en u moet hem zelf veilig opstellen en bedienen. Wie dat voor het eerst doet, is daar al snel een uur mee bezig voordat de eerste doos omhooggaat.</p>
+<p>Schakelt u een verhuizer in, dan komt de lift mee met mensen die er dagelijks mee werken. Zij weten hoe een bank op het plateau moet liggen en wanneer een raam eruit moet. Past een kast daarna nog steeds niet, dan halen wij hem uit elkaar en zetten hem boven weer op. Lees meer over onze <a href="https://hjverhuizing.nl/diensten/demontage-service/">(de)montageservice</a>.</p>
+<h2>Twijfelt u of een lift bij u kan staan?</h2>
+<p>Wij komen vrijblijvend kijken in de regio Zwolle, Kampen en de Noord-Veluwe. U hoort ter plaatse of een lift nodig is en wat de verhuizing kost.</p>
+<a href="https://hjverhuizing.nl/contact/">Offerte aanvragen</a><a href="tel:+31648577705">Bel 06 48577705</a>
+<h2>Veelgestelde vragen over de verhuislift</h2>
+<details><summary>Vanaf welke verdieping loont een verhuislift?</summary><p>Vanaf de eerste verdieping kan het al lonen, zeker bij een smalle trap of grote meubels. Hoe hoger de woning en hoe meer spullen, hoe groter de tijdwinst.</p></details>
+<details><summary>Kan een verhuislift ook aan de achterkant van de woning staan?</summary><p>Ja, als de lift daar kan komen en er genoeg ruimte is om hem op te stellen. Bij een achtertuin zonder achterom lukt dat meestal niet.</p></details>
+<details><summary>Moet ik zelf iets regelen voor de lift?</summary><p>Zorg dat de plek voor de gevel op de verhuisdag vrij is en dat het raam of balkon bereikbaar is. Is er een ontheffing van de gemeente nodig, vraag die dan ruim van tevoren aan.</p></details>
+<details><summary>Is mijn inboedel verzekerd als hij met de lift omhooggaat?</summary><p>Ja. Uw inboedel is tijdens de hele verhuizing verzekerd, ook op de lift.</p></details>
+<p style="margin-top:1.4em">Verder lezen: <a href="https://hjverhuizing.nl/diensten/particuliere-verhuizing/">particuliere verhuizing</a>, <a href="https://hjverhuizing.nl/verhuisbedrijf-zwolle/">verhuisbedrijf Zwolle</a> en <a href="https://hjverhuizing.nl/verhuisbedrijf-kampen/">verhuisbedrijf Kampen</a>.</p>

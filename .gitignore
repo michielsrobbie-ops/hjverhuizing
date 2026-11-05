@@ -1,0 +1,9 @@
+# Uploadpakket voor Hostinger (wordt opnieuw gemaakt uit site/)
+*.zip
+
+# Interne klantnotities - niet in een publieke repo
+docs/
+
+.DS_Store
+__pycache__/
+*.pyc

@@ -1,0 +1,123 @@
+<style>
+.hjkb{--navy:#182038;--orange:#e87020;--tint:#fdf1e7;--mist:#eef1f6;--line:#d5dae4;color:var(--navy);line-height:1.65}
+.hjkb *{box-sizing:border-box}
+.hjkb p{margin:0 0 1.1em;max-width:68ch}
+.hjkb h2{margin:2em 0 .5em;font-size:1.6em;line-height:1.2;color:var(--navy)}
+.hjkb a{color:var(--navy);text-decoration:underline;text-decoration-color:var(--orange);text-decoration-thickness:2px;text-underline-offset:3px}
+.hjkb a:hover{color:var(--orange)}
+.hjkb a:focus-visible,.hjkb summary:focus-visible,.hjkb input:focus-visible{outline:3px solid var(--orange);outline-offset:3px}
+.hjkb .hjkb-lead{font-size:1.2em;line-height:1.55}
+.hjkb .hjkb-figure{margin:1.8em 0;background:var(--mist);border-radius:14px;overflow:hidden}
+.hjkb .hjkb-figure svg{display:block;width:100%;height:auto}
+.hjkb .hjkb-figure text{font-family:inherit;font-size:22px;font-weight:700;fill:#182038}
+.hjkb .hjkb-figure figcaption{padding:.8em 1.2em 1em;font-size:.9em;background:#fff;border:1px solid var(--line);border-top:0;border-radius:0 0 14px 14px}
+.hjkb .hjkb-step{max-width:68ch;padding-left:1em;border-left:6px solid var(--orange)}
+.hjkb .hjkb-step h2{margin-bottom:.2em}
+.hjkb .hjkb-step p{margin:0}
+.hjkb .hjkb-todo{list-style:none;margin:.8em 0 0;padding:0;max-width:68ch;border-top:2px solid var(--navy)}
+.hjkb .hjkb-todo li{margin:0;border-bottom:1px solid var(--line)}
+.hjkb .hjkb-todo label{display:grid;grid-template-columns:1.6em 1fr;gap:.6em;padding:.8em 0;cursor:pointer}
+.hjkb .hjkb-todo input{width:1.25em;height:1.25em;margin:.2em 0 0;accent-color:var(--orange)}
+.hjkb .hjkb-todo input:checked+span{text-decoration:line-through;text-decoration-color:var(--orange);opacity:.6}
+.hjkb .hjkb-cta{margin:2.4em 0;padding:1.6em 1.6em 1.7em;background:var(--navy);color:#fff;border-radius:14px;border-left:10px solid var(--orange)}
+.hjkb .hjkb-cta h2{margin:0 0 .4em;color:#fff}
+.hjkb .hjkb-cta p{color:#fff}
+.hjkb .hjkb-actions{display:flex;flex-wrap:wrap;gap:.8em;margin-top:1.2em}
+.hjkb .hjkb-btn{display:inline-block;padding:.75em 1.3em;border-radius:8px;font-weight:700;text-decoration:none;background:var(--orange);color:var(--navy)}
+.hjkb .hjkb-btn:hover{background:#fff;color:var(--navy)}
+.hjkb .hjkb-btn-ghost{background:transparent;color:#fff;border:2px solid #fff}
+.hjkb .hjkb-btn-ghost:hover{background:#fff;color:var(--navy)}
+.hjkb details{max-width:68ch;border-bottom:1px solid var(--line)}
+.hjkb details:first-of-type{border-top:2px solid var(--navy)}
+.hjkb summary{cursor:pointer;padding:.9em 2em .9em 0;font-weight:700;position:relative;list-style:none}
+.hjkb summary::-webkit-details-marker{display:none}
+.hjkb summary::after{content:"+";position:absolute;right:.2em;top:.55em;font-size:1.5em;font-weight:400;color:var(--orange);transition:transform .2s}
+.hjkb details[open] summary::after{transform:rotate(45deg)}
+.hjkb details p{margin:0 0 1em}
+.hjkb .hjkb-van{animation:hjkb-drive 9s ease-in-out infinite}
+@keyframes hjkb-drive{0%,8%{transform:translateX(0)}78%,100%{transform:translateX(520px)}}
+@media (prefers-reduced-motion:reduce){.hjkb .hjkb-van{animation:none;transform:translateX(260px)}.hjkb summary::after{transition:none}}
+</style>
+<p>Een verhuizing loopt goed als u acht weken vooraf begint en elke week een paar dingen afhandelt. Deze checklist zet alles op volgorde, van de huur opzeggen tot de sleutels inleveren.</p>
+<p>U kunt de punten hieronder aanvinken terwijl u leest. De vinkjes blijven staan tot u de pagina sluit, dus print de lijst of maak een schermafbeelding als u hem wilt bewaren.</p>
+<figure>
+<svg viewBox="0 0 720 230" role="img" aria-label="Tijdlijn van acht weken voor de verhuizing tot de verhuisdag, met een verhuiswagen die naar de nieuwe woning rijdt">
+<rect width="720" height="230" fill="#eef1f6"/>
+<path d="M620 128V84l34-28 34 28v44z" fill="#fff" stroke="#182038" stroke-width="4" stroke-linejoin="round"/>
+<path d="M612 88l42-36 42 36" fill="none" stroke="#e87020" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="646" y="100" width="16" height="28" fill="#182038"/>
+<line x1="50" y1="130" x2="690" y2="130" stroke="#182038" stroke-width="6" stroke-linecap="round"/>
+<g fill="#fff" stroke="#182038" stroke-width="5"><circle cx="70" cy="130" r="10"/><circle cx="215" cy="130" r="10"/><circle cx="360" cy="130" r="10"/><circle cx="505" cy="130" r="10"/></g>
+<circle cx="654" cy="130" r="12" fill="#e87020" stroke="#182038" stroke-width="5"/>
+<text x="70" y="180" text-anchor="middle">8 weken</text>
+<text x="215" y="180" text-anchor="middle">4 weken</text>
+<text x="360" y="180" text-anchor="middle">2 weken</text>
+<text x="505" y="180" text-anchor="middle">1 week</text>
+<text x="700" y="180" text-anchor="end">Verhuisdag</text>
+<g>
+<rect x="40" y="78" width="52" height="34" rx="3" fill="#182038"/>
+<path d="M92 90h16l10 12v10H92z" fill="#e87020" stroke="#182038" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="56" cy="114" r="8" fill="#182038" stroke="#eef1f6" stroke-width="3"/>
+<circle cx="102" cy="114" r="8" fill="#182038" stroke="#eef1f6" stroke-width="3"/>
+</g>
+</svg>
+<figcaption>Vijf momenten om naartoe te werken. Hoe eerder u begint, hoe rustiger de laatste week.</figcaption>
+</figure>
+<h2>Acht weken vooraf: vastleggen</h2><p>Eerst de dingen met een termijn. Wie hier te laat mee is, betaalt dubbele huur of vindt geen verhuizer meer op de gewenste dag.</p>
+<ul>
+<li><label><input type="checkbox">Zeg de huur op of spreek de opleverdatum af. De opzegtermijn staat in uw huurcontract en is vaak een maand.</label></li>
+<li><label><input type="checkbox">Vraag een offerte aan bij een verhuisbedrijf en leg de datum vast. Zaterdagen en het einde van de maand zijn het eerst vol.</label></li>
+<li><label><input type="checkbox">Vraag vrij voor de verhuisdag. Kijk in uw cao of u recht heeft op verhuisverlof.</label></li>
+<li><label><input type="checkbox">Meet uw grootste meubels en de deuren, trap en lift van de nieuwe woning. Past iets niet, dan weet u dat nu en niet op de dag zelf.</label></li>
+<li><label><input type="checkbox">Begin met opruimen. Wat niet meegaat, hoeft u ook niet in te pakken.</label></li>
+</ul>
+<p style="margin-top:1em">Past een bank of kast niet via de trap? Lees dan <a href="https://hjverhuizing.nl/verhuislift-nodig/">wanneer een verhuislift nodig is</a>.</p>
+<h2>Vier weken vooraf: adres en aansluitingen</h2><p>Nu volgt het papierwerk. Het is veel, maar elk punt kost maar een paar minuten.</p>
+<ul>
+<li><label><input type="checkbox">Geef uw verhuizing door aan de gemeente. Dat kan vanaf vier weken voor de verhuisdatum tot uiterlijk vijf dagen erna.</label></li>
+<li><label><input type="checkbox">Verhuis energie, water, internet en televisie naar het nieuwe adres. Voor internet is de wachttijd soms een paar weken.</label></li>
+<li><label><input type="checkbox">Geef uw nieuwe adres door aan werkgever, bank, verzekeraars, huisarts, tandarts, school en abonnementen.</label></li>
+<li><label><input type="checkbox">Pas uw inboedelverzekering aan. De premie hangt af van de woning en het adres.</label></li>
+<li><label><input type="checkbox">Laat uw post tijdelijk doorsturen, zodat u niets mist van afzenders die u bent vergeten.</label></li>
+<li><label><input type="checkbox">Zorg voor verhuisdozen, tape en beschermmateriaal. Bekijk onze <a href="https://hjverhuizing.nl/diensten/verhuisbenodigdheden/">verhuisbenodigdheden</a>.</label></li>
+</ul>
+<h2>Twee weken vooraf: inpakken</h2><p>Begin met wat u niet dagelijks gebruikt en werk kamer voor kamer.</p>
+<ul>
+<li><label><input type="checkbox">Pak boeken, seizoenskleding, servies voor gasten en de zolder of schuur in.</label></li>
+<li><label><input type="checkbox">Schrijf op elke doos de kamer waar hij heen moet en of er breekbare spullen in zitten.</label></li>
+<li><label><input type="checkbox">Regel een plek voor de verhuiswagen bij beide adressen. Vraag bij de gemeente na of u een ontheffing nodig heeft.</label></li>
+<li><label><input type="checkbox">Regel opvang voor kinderen en huisdieren op de verhuisdag.</label></li>
+<li><label><input type="checkbox">Haal grote kasten en bedden uit elkaar, of laat dat doen met onze <a href="https://hjverhuizing.nl/diensten/demontage-service/">(de)montageservice</a>.</label></li>
+<li><label><input type="checkbox">Eet de vriezer en de voorraadkast leeg.</label></li>
+</ul>
+<p style="margin-top:1em">Liever niet zelf inpakken? Met de <a href="https://hjverhuizing.nl/diensten/in-en-uitpak-service/">in- en uitpakservice</a> doen wij het voor u.</p>
+<h2>De laatste week: afronden</h2><p>Alles wat u tot het laatst nodig heeft, gaat nu in dozen. Houd één tas apart voor de dag zelf.</p>
+<ul>
+<li><label><input type="checkbox">Ontdooi de vriezer minstens een dag voor de verhuizing en maak hem droog.</label></li>
+<li><label><input type="checkbox">Koppel de wasmachine af, laat de slangen leeglopen en zet de trommel vast met de transportbouten.</label></li>
+<li><label><input type="checkbox">Leg apart wat niet in de wagen mag: papieren, medicijnen, opladers, sleutels en wat gereedschap.</label></li>
+<li><label><input type="checkbox">Bevestig de begintijd en beide adressen bij de verhuizer.</label></li>
+<li><label><input type="checkbox">Spreek de oplevering van de oude woning af. Moet die leeg en bezemschoon zijn, bekijk dan onze <a href="https://hjverhuizing.nl/diensten/ontruiming/">ontruiming</a>.</label></li>
+</ul>
+<h2>Op de verhuisdag</h2><p>Het zware werk is voor de verhuizers. Voor u blijven er vier dingen over.</p>
+<ul>
+<li><label><input type="checkbox">Noteer de meterstanden op beide adressen en maak er een foto van.</label></li>
+<li><label><input type="checkbox">Loop met de verhuizers door de woning en wijs aan wat breekbaar is en wat niet meegaat.</label></li>
+<li><label><input type="checkbox">Controleer na het laden elke kamer, kast, zolder en schuur.</label></li>
+<li><label><input type="checkbox">Lever de sleutels in en laat de oplevering op papier bevestigen.</label></li>
+</ul>
+<h2>De eerste week in uw nieuwe woning</h2><p>Nog drie punten en de verhuizing is rond.</p>
+<ul>
+<li><label><input type="checkbox">Geef de meterstanden door aan uw energie- en waterleverancier.</label></li>
+<li><label><input type="checkbox">Controleer uw meubels en dozen op schade en meld het meteen als u iets ziet.</label></li>
+<li><label><input type="checkbox">Verhuizing nog niet doorgegeven aan de gemeente? Dat kan tot uiterlijk vijf dagen na de verhuisdatum.</label></li>
+</ul>
+<h2>Staat de datum al vast?</h2>
+<p>Dan is dit het moment om een verhuizer te regelen. Wij komen vrijblijvend langs in de regio Zwolle, Kampen en de Noord-Veluwe en maken een offerte op maat.</p>
+<a href="https://hjverhuizing.nl/contact/">Offerte aanvragen</a><a href="tel:+31648577705">Bel 06 48577705</a>
+<h2>Veelgestelde vragen over de voorbereiding</h2>
+<details><summary>Wanneer moet ik beginnen met de voorbereiding?</summary><p>Acht weken vooraf is ruim genoeg. Heeft u minder tijd, begin dan met de huur, de verhuizer en de gemeente en pak de rest daarna op.</p></details>
+<details><summary>Wanneer geef ik mijn verhuizing door aan de gemeente?</summary><p>Vanaf vier weken voor de verhuisdatum tot uiterlijk vijf dagen erna. U doet dat bij de gemeente waar u gaat wonen, meestal online met DigiD.</p></details>
+<details><summary>Wat moet ik zelf nog doen als ik een verhuisbedrijf inschakel?</summary><p>Het papierwerk en het inpakken, tenzij u dat laatste ook uitbesteedt. Het tillen, vervoeren en op de juiste plek zetten doen de verhuizers.</p></details>
+<details><summary>Ik moet binnen twee weken verhuizen. Kan dat nog?</summary><p>Vaak wel. Bel ons dan direct, zodat wij kunnen kijken wat er in de planning past. Lees meer over een <a href="https://hjverhuizing.nl/diensten/spoedverhuizing/">spoedverhuizing</a>.</p></details>
+<p style="margin-top:1.4em">Verder lezen: <a href="https://hjverhuizing.nl/diensten/particuliere-verhuizing/">particuliere verhuizing</a> en <a href="https://hjverhuizing.nl/diensten/seniorenverhuizing/">seniorenverhuizing</a>.</p>

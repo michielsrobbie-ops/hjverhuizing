@@ -1,0 +1,5475 @@
+{
+ "245": {
+  "type": "page",
+  "slug": "over-ons",
+  "title": "Over ons",
+  "parent": "0",
+  "date": "2021-04-29 03:36:58",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Over ons"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Home",
+     "Over ons"
+    ]
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "counter",
+    "n": 250,
+    "suffix": "+",
+    "title": "Verhuizingen"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuizing-1.jpeg",
+    "alt": "verhuizing"
+   },
+   {
+    "t": "eyebrow",
+    "text": "HJ Verhuizing"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw vakkundige partner in de regio"
+   },
+   {
+    "t": "text",
+    "html": "<p><strong>HJ Verhuizing</strong> is gegroeid van lokale start naar een professionele organisatie met een vakkundig team. Wij ontzorgen klanten door de hele provincie <strong>Overijssel</strong> en de omliggende regio's. Terwijl de regie en kwaliteit bij de oprichters liggen, zorgt ons team op locatie voor een zorgeloze en vlekkeloze uitvoering van uw verhuisdag.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Persoonlijk & Betrokken",
+    "html": "<p>Geen groot anoniem bedrijf, maar direct contact met de verhuizers die het werk uitvoeren.</p>",
+    "icon": "far fa-smile"
+   },
+   {
+    "t": "box",
+    "title": "Snel & Flexibel",
+    "html": "<p>Wij passen ons aan uw planning aan en zorgen voor een zorgeloze verhuisdag zonder verrassingen.</p>",
+    "icon": "fas fa-shipping-fast"
+   },
+   {
+    "t": "btn",
+    "text": "Contact",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Diensten"
+   },
+   {
+    "t": "text",
+    "html": "<p><strong>Staat uw gewenste dienst er niet tussen?</strong> Neem gerust contact met ons op voor de mogelijkheden.</p>"
+   },
+   {
+    "t": "faq",
+    "items": [
+     {
+      "q": "Particuliere Verhuizing",
+      "a": "<p>Zorgeloos overstappen naar uw nieuwe thuis met onze vakkundige en persoonlijke aanpak.</p>"
+     },
+     {
+      "q": "Zakelijke Verhuizing",
+      "a": "<p>Efficiënte kantoorverhuizingen met een strakke planning om downtime te minimaliseren.</p>"
+     },
+     {
+      "q": "Spoed Verhuizing",
+      "a": "<p>Directe hulp en snelle actie in de regio Zwolle voor urgente verhuisbehoeften.</p>"
+     },
+     {
+      "q": "Senioren Verhuizing",
+      "a": "<p>Een verhuizing met extra aandacht, geduld en volledige ontzorging van begin tot eind.</p>"
+     },
+     {
+      "q": "Ontruiming",
+      "a": "<p>Discreet en vakkundig bezemschoon opleveren van woningen en bedrijfspanden.</p>"
+     },
+     {
+      "q": "Verhuisbenodigdheden",
+      "a": "<p>Hoogwaardige dozen en materialen om uw inboedel veilig en onbeschadigd te vervoeren.</p>"
+     },
+     {
+      "q": "In- en Uitpak Service",
+      "a": "<p>Bespaar tijd en voorkom schade; onze professionals pakken alles zorgvuldig voor u in.</p>"
+     },
+     {
+      "q": "(De)montage Service",
+      "a": "<p>Wij demonteren en monteren uw meubels vakkundig, zodat u direct kunt gaan wonen.</p>"
+     }
+    ]
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   }
+  ]
+ },
+ "246": {
+  "type": "page",
+  "slug": "diensten",
+  "title": "Diensten",
+  "parent": "0",
+  "date": "2021-04-29 03:36:59",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2023/12/closeup-man-carrying-cardboard-boxes-while-relocating-into-new-apartment-scaled.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Diensten"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Home",
+     "Diensten"
+    ]
+   },
+   {
+    "t": "section",
+    "bg": ""
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE WERKWIJZE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Vakkundige verhuizing met een persoonlijke aanpak"
+   },
+   {
+    "t": "text",
+    "html": "<p>HJ Verhuizing staat voor kwaliteit en betrouwbaarheid. Ons team van ervaren verhuizers begrijpt dat uw inboedel meer is dan alleen spullen; het zijn uw herinneringen. Wij werken dagelijks in de wijde regio rondom <strong>Zwolle, Kampen en de Veluwe</strong>, maar verzorgen ook met plezier verhuizingen in plaatsen als <strong>Meppel, Nunspeet en Raalte</strong>. Of u nu lokaal verhuist of naar de andere kant van het land, ons team regelt het zware werk met de grootste zorg</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Contacteer ons",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2024/06/002.jpg",
+    "alt": ""
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2024/06/75-scaled.jpg",
+    "alt": ""
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze diensten"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Particuliere Verhuizing",
+    "html": "<p>Zorgeloos overstappen naar uw nieuwe thuis met onze vakkundige en persoonlijke aanpak.</p>",
+    "icon": "fas fa-home"
+   },
+   {
+    "t": "box",
+    "title": "Zakelijke Verhuizing",
+    "html": "<p>Efficiënte kantoorverhuizingen met een strakke planning om downtime te minimaliseren.</p>",
+    "icon": "fas fa-hotel"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Spoedverhuizing",
+    "html": "<p>Directe hulp en snelle actie in de regio Zwolle voor urgente verhuisbehoeften.</p>",
+    "icon": "fas fa-stopwatch"
+   },
+   {
+    "t": "box",
+    "title": "Seniorenverhuizing",
+    "html": "<p>Een verhuizing met extra aandacht, geduld en volledige ontzorging van begin tot eind.</p>",
+    "icon": "fas fa-blind"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Ontruiming",
+    "html": "<p>Discreet en vakkundig bezemschoon opleveren van woningen en bedrijfspanden.</p>",
+    "icon": "fas fa-boxes"
+   },
+   {
+    "t": "box",
+    "title": "Verhuisbenodigdheden",
+    "html": "<p>Hoogwaardige dozen en materialen om uw inboedel veilig en onbeschadigd te vervoeren.</p>",
+    "icon": "fas fa-tape"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "In- en Uitpak Service",
+    "html": "<p>Bespaar tijd en voorkom schade; onze professionals pakken alles zorgvuldig voor u in.</p>",
+    "icon": "fas fa-box-open"
+   },
+   {
+    "t": "box",
+    "title": "(De)montage Service",
+    "html": "<p>Wij demonteren en monteren uw meubels vakkundig, zodat u direct kunt gaan wonen.</p>",
+    "icon": "fas fa-tools"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Testimonials"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Wat onze klanten zeggen"
+   },
+   {
+    "t": "reviews",
+    "items": [
+     {
+      "text": "\"Uitstekende Verhuisservice!\n\nIk ben ontzettend blij dat ik dit verhuisbedrijf heb ingehuurd. Ze hebben alles voor mij overgenomen en de verhuizing verliep vlekkeloos. Zonder hun hulp had ik niet geweten hoe ik het moest doen. Hun professionaliteit en efficiëntie hebben de stress van verhuizen volledig weggenomen. Absoluut een aanrader!\"",
+      "name": "Gislaine van leeuwaarde"
+     },
+     {
+      "text": "\"Mijn kantoor door de jongens zakelijk laten verhuizen. Top werk dank je mannen.\"",
+      "name": "Chris Breunis"
+     },
+     {
+      "text": "\"Goede communicatie en duidelijke afspraken. Alles netjes verhuisd zonder enige schade. Bedankt voor de service 💪\"",
+      "name": "Robin Magendans"
+     }
+    ]
+   }
+  ]
+ },
+ "247": {
+  "type": "page",
+  "slug": "contact",
+  "title": "Contact",
+  "parent": "0",
+  "date": "2021-04-29 03:36:59",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2023/12/closeup-man-carrying-cardboard-boxes-while-relocating-into-new-apartment-scaled.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Contact"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Home",
+     "Contact"
+    ]
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "map",
+    "q": "Kerkstraat 40, 8051GN Hattem"
+   },
+   {
+    "t": "eyebrow",
+    "text": "Contact "
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Contacteer ons"
+   },
+   {
+    "t": "text",
+    "html": "<p><strong>Zoekt u een specifieke verhuisservice op maat?</strong> Wij denken graag met u mee voor een oplossing die bij u past.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Adres",
+    "html": "<p>Kerkstraat 40  <br>8051GN Hattem</p>",
+    "icon": "mdi mdi-map-marker-radius"
+   },
+   {
+    "t": "box",
+    "title": "E-mail",
+    "html": "<p>info@hjverhuizing.nl</p>",
+    "icon": "mdi mdi-email"
+   },
+   {
+    "t": "box",
+    "title": "Telefoon",
+    "html": "<p>+31 6 48577705</p>",
+    "icon": "mdi mdi-phone-in-talk"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuisdag?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Ons vakkundige team staat voor u klaar. Vul uw gegevens in en wij nemen binnen 24 uur contact met u op voor een verhuizing op maat.</p>"
+   },
+   {
+    "t": "eyebrow",
+    "text": "Divider"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": true
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "text",
+      "label": "Onderwerp",
+      "req": false
+     },
+     {
+      "type": "text",
+      "label": "Bedrijf",
+      "req": false
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "offerte Aanvragen"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   }
+  ]
+ },
+ "497": {
+  "type": "page",
+  "slug": "home",
+  "title": "Home",
+  "parent": "0",
+  "date": "2021-04-28 11:05:52",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2024/06/003-1.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h1",
+    "text": "Uw vakkundig verhuisbedrijf regio Zwolle",
+    "hl": "verhuisbedrijf"
+   },
+   {
+    "t": "text",
+    "html": "<p>HJ Verhuizing: uw vakkundige partner voor particuliere en zakelijke verhuizingen. Regio Zwolle &amp; Noord-Veluwe; wij regelen het zware werk met zorg en precisie.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Contacteer ons",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Ontvang een prijsopgave op maat"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "text",
+      "label": "Postcode",
+      "req": true
+     },
+     {
+      "type": "text",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     }
+    ],
+    "button": "Ja, ik wil een prijsopgave"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "counter",
+    "n": 250,
+    "suffix": "+",
+    "title": "verhuizingen"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2024/06/002.jpg",
+    "alt": ""
+   },
+   {
+    "t": "eyebrow",
+    "text": "Wie zijn wij?"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "De gezichten achter HJ Verhuizing"
+   },
+   {
+    "t": "text",
+    "html": "<p>Bij HJ Verhuizing staan wij, twee gedreven ondernemers, klaar om uw verhuizing soepel te laten verlopen. Met een sterke focus op persoonlijke service bieden wij snelle, flexibele en efficiënte oplossingen in de regio Zwolle en omstreken. Wij denken niet alleen met u mee, maar steken ook echt de handen uit de mouwen om uw inboedel veilig naar de nieuwe plek te brengen.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Persoonlijk & Betrokken",
+    "html": "<p>Geen groot anoniem bedrijf, maar direct contact met de verhuizers die het werk uitvoeren.</p>",
+    "icon": "far fa-smile"
+   },
+   {
+    "t": "box",
+    "title": "Snel & Flexibel",
+    "html": "<p>Wij passen ons aan uw planning aan en zorgen voor een zorgeloze verhuisdag zonder verrassingen.</p>",
+    "icon": "fas fa-shipping-fast"
+   },
+   {
+    "t": "btn",
+    "text": "Over ons",
+    "url": "https://hjverhuizing.nl/over-ons/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuisbedrijf-zwolle.jpeg",
+    "alt": "verhuisbedrijf zwolle"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze diensten"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Particuliere Verhuizing",
+    "html": "<p>Zorgeloos overstappen naar uw nieuwe thuis met onze vakkundige en persoonlijke aanpak.</p>",
+    "icon": "fas fa-home"
+   },
+   {
+    "t": "box",
+    "title": "Zakelijke Verhuizing",
+    "html": "<p>Efficiënte kantoorverhuizingen met een strakke planning om downtime te minimaliseren.</p>",
+    "icon": "fas fa-hotel"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "SpoedVerhuizing",
+    "html": "<p>Directe hulp en snelle actie in de regio Zwolle voor urgente verhuisbehoeften.</p>",
+    "icon": "fas fa-stopwatch"
+   },
+   {
+    "t": "box",
+    "title": "SeniorenVerhuizing",
+    "html": "<p>Een verhuizing met extra aandacht, geduld en volledige ontzorging van begin tot eind.</p>",
+    "icon": "fas fa-blind"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Ontruiming",
+    "html": "<p>Discreet en vakkundig bezemschoon opleveren van woningen en bedrijfspanden.</p>",
+    "icon": "fas fa-boxes"
+   },
+   {
+    "t": "box",
+    "title": "Verhuisbenodigdheden",
+    "html": "<p>Hoogwaardige dozen en materialen om uw inboedel veilig en onbeschadigd te vervoeren.</p>",
+    "icon": "fas fa-tape"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "In- en Uitpak Service",
+    "html": "<p>Bespaar tijd en voorkom schade; onze professionals pakken alles zorgvuldig voor u in.</p>",
+    "icon": "fas fa-box-open"
+   },
+   {
+    "t": "box",
+    "title": "(De)montage Service",
+    "html": "<p>Wij demonteren en monteren uw meubels vakkundig, zodat u direct kunt gaan wonen.</p>",
+    "icon": "fas fa-tools"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/zwolle-verhuisdienst.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": ""
+   },
+   {
+    "t": "eyebrow",
+    "text": "Testimonials"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Wat onze klanten zeggen?"
+   },
+   {
+    "t": "reviews",
+    "items": [
+     {
+      "text": "\"Uitstekende Verhuisservice!\n\nIk ben ontzettend blij dat ik dit verhuisbedrijf heb ingehuurd. Ze hebben alles voor mij overgenomen en de verhuizing verliep vlekkeloos. Zonder hun hulp had ik niet geweten hoe ik het moest doen. Hun professionaliteit en efficiëntie hebben de stress van verhuizen volledig weggenomen. Absoluut een aanrader!\"",
+      "name": "Gislaine van leeuwaarde"
+     },
+     {
+      "text": "\"Mijn kantoor door de jongens zakelijk laten verhuizen. Top werk dank je mannen.\"",
+      "name": "Chris Breunis"
+     },
+     {
+      "text": "\"Goede communicatie en duidelijke afspraken. Alles netjes verhuisd zonder enige schade. Bedankt voor de service 💪\"",
+      "name": "Robin Magendans"
+     }
+    ]
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuisservice-zwolle.jpeg",
+    "alt": "verhuisservice zwolle"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   }
+  ]
+ },
+ "1577": {
+  "type": "page",
+  "slug": "particuliere-verhuizing",
+  "title": "Particuliere Verhuizing",
+  "parent": "246",
+  "date": "2023-12-28 10:44:10",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/zwolle-verhuisservice.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Particuliere verhuizing"
+   },
+   {
+    "t": "text",
+    "html": "<p>Een nieuwe woning is het begin van een fris hoofdstuk. Bij HJ Verhuizing begrijpen we dat uw inboedel meer is dan een verzameling spullen; het zijn uw kostbare herinneringen. Ons vakkundige team staat klaar om uw verhuiservaring soepel, efficiënt en volledig stressvrij te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg",
+    "alt": "deventer verhuisbedrijf"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom kiezen voor het team van HJ Verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Vakkundige Verhuizers:</strong> Ons team is getraind om met uiterste zorg om te gaan met alles, van breekbaar glaswerk tot omvangrijke meubels.</p></li><li><p><strong>Transparante Offertes:</strong> Eerlijkheid duurt het langst. Wij werken met heldere offertes zonder verrassingen achteraf.</p></li><li><p><strong>Maximale Flexibiliteit:</strong> Geen verhuizing is gelijk. Wij passen onze planning aan op uw agenda, ook in het weekend.</p></li><li><p><strong>Schadevrij Verhuizen:</strong> Wij maken uitsluitend gebruik van modern materiaal, zoals professionele verhuiswagens, beschermende dekens en stevig inpakmateriaal.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze werkwijze: Volledige ontzorging"
+   },
+   {
+    "t": "text",
+    "html": "<p>Bij HJ Verhuizing hanteren we een gestructureerde aanpak om verhuisstress te minimaliseren. We bereiden elke klus zorgvuldig voor met een haalbare planning die we vooraf met u bespreken.</p><p><strong>Vlot en efficiënt</strong> Onze verhuizers werken nauwkeurig en snel. Moet er 's avonds worden doorgewerkt om de planning te halen? Dan doen we dat. Wij zijn pas tevreden als u met een glimlach in uw nieuwe woning staat.</p><p><strong>Betaalbaar maatwerk</strong> Kwaliteit hoeft niet de hoofdprijs te kosten. Door onze doelgerichte aanpak minimaliseren we het aantal werkuren. Wij kijken naar uw budget en bieden een oplossing die past bij uw financiële situatie.</p>"
+   },
+   {
+    "t": "box",
+    "title": "Zoekt u een partner die de volledige regie van uw particuliere verhuizing uit handen neemt?",
+    "html": "<p>Advies op maat: Persoonlijk contact staat bij ons centraal. We luisteren naar uw wensen en plannen een eerste gesprek in.\n\n<br><br>Vrijblijvende offerte: Ontdek onze scherpe tarieven en vakkundige aanpak.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuisbedrijf-zwolle.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   }
+  ]
+ },
+ "1583": {
+  "type": "page",
+  "slug": "bedrijfsverhuizing",
+  "title": "Bedrijfsverhuizing",
+  "parent": "246",
+  "date": "2023-12-28 10:49:09",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/zwolle-verhuisdienst.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Bedrijfsverhuizing"
+   },
+   {
+    "t": "text",
+    "html": "<p>Een bedrijfsverhuizing is een cruciale stap voor uw onderneming. HJ Verhuizing zorgt voor een vlekkeloze overgang naar uw nieuwe locatie, zodat u zich volledig kunt richten op de groei van uw bedrijf.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuisservice-meppel.jpeg",
+    "alt": "verhuisservice meppel"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom kiezen voor de zakelijke service van HJ Verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Gespecialiseerd Team:</strong> Onze verhuizers hebben ruime ervaring met kantoormeubilair, bedrijfsinventaris en waardevolle apparatuur.</p></li><li><p><strong>Minimale Downtime:</strong> Wij werken snel en efficiënt om de onderbreking van uw bedrijfsprocessen tot een minimum te beperken.</p></li><li><p><strong>Strategische Planning:</strong> Samen met u stellen we een gedetailleerd plan op dat perfect aansluit bij uw bedrijfsvoering.</p></li><li><p><strong>Maximale Flexibiliteit:</strong> Wij werken 's avonds of in het weekend door als dat nodig is voor de continuïteit van uw onderneming.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze aanpak: Coördinatie en Veiligheid"
+   },
+   {
+    "t": "text",
+    "html": "<p>Bij een zakelijke verhuizing draait alles om een strakke regie. Wij werken volgens een strikt tijdschema en zorgen voor een logische verplaatsing van uw inventaris, bijvoorbeeld per afdeling.</p><p><strong>Veilig transport</strong> De veiligheid van uw werknemers en uw kostbare inventaris staat voorop. Met ons moderne verhuismateriaal garanderen wij een onbeschadigde aankomst op uw nieuwe werkplek door heel <strong>Overijssel</strong>.</p>"
+   },
+   {
+    "t": "box",
+    "title": "Uitgebreide Nazorg",
+    "html": "<p>Monteren en plaatsen van kantoormeubilair.\n\n<br><br>Ophangen van whiteboards en schermen.<br><br>\n\nKleine herstelwerkzaamheden aan muren.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   }
+  ]
+ },
+ "1595": {
+  "type": "page",
+  "slug": "spoedverhuizing",
+  "title": "SpoedVerhuizing",
+  "parent": "246",
+  "date": "2023-12-28 10:53:29",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing"
+   },
+   {
+    "t": "text",
+    "html": "<p>Moet u onverwacht snel verhuizen door een zakelijke kans of persoonlijke situatie? Geen paniek. Het team van HJ Verhuizing staat klaar om uw spoedverhuizing vakkundig en razendsnel uit te voeren.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuisbedrijf-zwolle.jpeg",
+    "alt": "verhuisbedrijf zwolle"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom HJ Verhuizing bij spoed?"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Onmiddellijke Respons:</strong> Wij begrijpen de tijdsdruk. Ons team schakelt direct om de planning voor u rond te krijgen.</p></li><li><p><strong>Binnen 24 uur mogelijk:</strong> Of u nu over een paar dagen of morgen al moet verhuizen; wij bieden de flexibiliteit die u nu nodig heeft.</p></li><li><p><strong>Vakkundige Uitvoering:</strong> Snelheid gaat bij ons nooit ten koste van uw spullen. Onze ervaren verhuizers werken efficiënt én uiterst voorzichtig.</p></li><li><p><strong>Direct Comfort:</strong> Naast het transport kunnen wij direct meubels monteren, zodat u direct rust vindt in uw nieuwe woning.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Georganiseerd verhuizen, zelfs onder tijdsdruk"
+   },
+   {
+    "t": "text",
+    "html": "<p>Een plotselinge verhuizing brengt veel stress met zich mee. Door het vakkundige team van HJ Verhuizing in te schakelen, brengt u direct structuur in de chaos. Wij nemen de regie in handen, zorgen voor het juiste verhuismateriaal en garanderen een veilige overgang naar uw nieuwe plek in de regio.</p>"
+   },
+   {
+    "t": "box",
+    "title": "Direct een verhuizer nodig?",
+    "html": "<p>Wacht niet langer en voorkom onnodige stress. Neem direct contact op met onze specialisten voor een snelle prijsopgave en beschikbaarheid.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   }
+  ]
+ },
+ "1600": {
+  "type": "page",
+  "slug": "seniorenverhuizing",
+  "title": "Seniorenverhuizing",
+  "parent": "246",
+  "date": "2023-12-28 11:03:29",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Senioren verhuizing"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen op latere leeftijd vraagt om meer dan alleen spierkracht; het vraagt om begrip, geduld en een persoonlijke aanpak. Het vakkundige team van HJ Verhuizing staat klaar om senioren in de gehele provincie Overijssel te ondersteunen bij elke stap naar hun nieuwe thuis.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/senioren-verhuis.jpeg",
+    "alt": "senioren verhuis"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom kiezen voor de zorg van ons team?"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Persoonlijke begeleiding:</strong> Vanaf het eerste contact bieden wij een vast aanspreekpunt en oprechte aandacht.</p></li><li><p><strong>Comfortabele planning:</strong> Wij begrijpen dat rust belangrijk is. Onze flexibele planning is volledig afgestemd op uw tempo en gemak.</p></li><li><p><strong>Eerbied voor uw bezittingen:</strong> Wij behandelen uw kostbare herinneringen en kwetsbare items met de grootst mogelijke zorg.</p></li><li><p><strong>Tijdelijke opslag:</strong> Is de nieuwe woning nog niet direct klaar? Wij bieden veilige opslagmogelijkheden voor uw inboedel.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Een volledig zorgeloze overgang"
+   },
+   {
+    "t": "text",
+    "html": "<p>Een verhuizing kan emotioneel en hectisch zijn. Bij HJ Verhuizing kunt u ervoor kiezen om de verhuizing volledig uit handen te geven. Van professionele inpakservice tot het vakkundig demonteren en monteren van uw meubels; ons team neemt de last letterlijk van uw schouders.</p><p><strong>Transparant en eerlijk</strong> Geen enkele verhuizing is hetzelfde. Daarom werken wij niet met standaardtarieven, maar met een offerte op maat die past bij uw specifieke situatie en budget. Zo weet u vooraf precies waar u aan toe bent, zonder verrassingen achteraf.</p>"
+   },
+   {
+    "t": "box",
+    "title": "Persoonlijk advies nodig?",
+    "html": "<p>Zoekt u een partner die met zorg en aandacht verhuist? Ons team komt graag bij u langs voor een vrijblijvend gesprek om uw wensen door te nemen.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   }
+  ]
+ },
+ "1613": {
+  "type": "page",
+  "slug": "in-en-uitpak-service",
+  "title": "In- en Uitpak Service",
+  "parent": "246",
+  "date": "2023-12-28 11:05:32",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "In- en Uitpakservice"
+   },
+   {
+    "t": "text",
+    "html": "<p>Ziet u op tegen de honderden dozen die ingepakt moeten worden? Het inpakken van uw inboedel is vaak de meest tijdrovende klus van een verhuizing. Het vakkundige team van HJ Verhuizing neemt dit werk graag volledig van u over, zodat u zich kunt focussen op uw nieuwe start.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuisservice-hattem.jpeg",
+    "alt": "verhuisservice hattem"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom kiezen voor onze professionele inpakkers?"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Maximale Tijdsbesparing:</strong> Terwijl u zich bezighoudt met werk of gezin, pakt ons ervaren team uw volledige inboedel vlot en georganiseerd in.</p></li><li><p><strong>Professionele Bescherming:</strong> Wij gebruiken uitsluitend hoogwaardige materialen. Kwetsbaar servies, kunst en elektronica worden met uiterste zorg en volgens de juiste technieken verpakt om schade te voorkomen.</p></li><li><p><strong>Structuur en Overzicht:</strong> Elke doos wordt duidelijk gelabeld per kamer. Zo weet u op de nieuwe locatie in Overijssel precies waar alles staat.</p></li><li><p><strong>Direct Thuis door Uitpakservice:</strong> Wij kunnen op uw nieuwe adres ook alles weer voor u uitpakken. We plaatsen de spullen in de juiste kasten, zodat u diezelfde avond nog heerlijk kunt wonen.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze werkwijze: Van consultatie tot inruimen"
+   },
+   {
+    "t": "text",
+    "html": "<p>Bij HJ Verhuizing werken we volgens een helder plan om u volledig te ontzorgen:</p><ol><li><p><strong>Persoonlijk Plan:</strong> We bespreken vooraf uw wensen. Wat wilt u zelf doen en wat laat u aan ons team over?</p></li><li><p><strong>Vakkundig Inpakken:</strong> Op de afgesproken dag komt ons team langs met alle benodigde materialen en pakt alles veilig in.</p></li><li><p><strong>Veilig Transport:</strong> Uw zorgvuldig ingepakte inboedel wordt met onze moderne wagens naar uw nieuwe bestemming gebracht.</p></li><li><p><strong>Gestructureerd Uitpakken:</strong> Op de nieuwe locatie pakken we de dozen uit en zetten we alles direct op de gewenste plek.</p></li></ol>"
+   },
+   {
+    "t": "box",
+    "title": "Wilt u ook zorgeloos verhuizen?",
+    "html": "<p>Onze in- en uitpakservice is de ultieme manier om stress te vermijden. Ons team staat voor u klaar met persoonlijke aandacht en professionaliteit.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   }
+  ]
+ },
+ "1624": {
+  "type": "page",
+  "slug": "demontage-service",
+  "title": "(De)montage Service",
+  "parent": "246",
+  "date": "2023-12-28 11:08:02",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "(De)montageservice"
+   },
+   {
+    "t": "text",
+    "html": "<p>Ziet u op tegen het uit elkaar halen van die grote kledingkast of het ingewikkelde bureau? Het demonteren en monteren van meubels is vaak een tijdrovende puzzel. Bij HJ Verhuizing lossen we die puzzel vakkundig voor u op, zodat uw meubels weer kaarsrecht in uw nieuwe woning staan.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/zwolle-verhuisdienst.jpeg",
+    "alt": "zwolle verhuisdienst"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom kiezen voor ons vakkundige team?"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Bouwkundige Kennis:</strong> Een van onze eigenaren heeft een achtergrond in de bouw. Hierdoor hebben we diepgaande kennis van materialen en constructies. Geen meubelstuk is ons te complex.</p></li><li><p><strong>Tijdsbesparing &amp; Gemak:</strong> Terwijl u zich focust op de inrichting, zorgen onze monteurs voor een snelle en efficiënte (de)montage. Geen gedoe met handleidingen of zoekgeraakte schroefjes.</p></li><li><p><strong>Veiligheid voorop:</strong> Wij labelen en verpakken elk onderdeel en elk schroefje zorgvuldig. Zo garanderen we dat alles op de nieuwe locatie in Overijssel weer moeiteloos en stevig in elkaar past.</p></li><li><p><strong>Complete Ontzorging:</strong> Wij regelen het hele proces: van het vakkundig uit elkaar halen in uw oude woning tot het perfect afstellen van de deurtjes in uw nieuwe pand.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Hoe werkt onze montageservice?"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Inventarisatie:</strong> We kijken vooraf welke meubels extra aandacht nodig hebben. Zo komen we op de dag zelf met het juiste gereedschap en plan van aanpak.</p></li><li><p><strong>Vakkundige Demontage:</strong> Ons team gaat zorgvuldig te werk, met oog voor de kwetsbaarheid van het materiaal.</p></li><li><p><strong>Veilig Transport:</strong> Alle onderdelen worden beschermd vervoerd door heel Overijssel.</p></li><li><p><strong>Perfecte Montage:</strong> In uw nieuwe woning zetten we alles weer in elkaar. We gaan pas weg als elk meubelstuk stabiel en naar uw wens staat.</p></li></ul>"
+   },
+   {
+    "t": "box",
+    "title": "Uw meubels zorgeloos laten monteren?",
+    "html": "<p>Of het nu gaat om een complete kantoorinrichting of uw favoriete bedframe: ons team staat klaar met de juiste expertise en gereedschap. Bespaar uzelf de moeite en kies voor de zekerheid van een vakman.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   }
+  ]
+ },
+ "1735": {
+  "type": "page",
+  "slug": "verhuisbedrijf-zwolle",
+  "title": "Verhuisbedrijf Zwolle",
+  "parent": "0",
+  "date": "2023-12-28 14:10:07",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Vakkundig Verhuisbedrijf Zwolle: Zorgeloos Verhuizen"
+   },
+   {
+    "t": "text",
+    "html": "<p>Bent u op zoek naar een betrouwbaar verhuisbedrijf in Zwolle? Of u nu verhuist naar een modern appartement in Stadshagen, een karakteristiek pand in Assendorp of een kantoor in de binnenstad; HJ Verhuizing is uw vakkundige partner in de regio.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "map",
+    "q": "zwolle"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuisbedrijf-hattem.jpeg",
+    "alt": ""
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom kiezen voor HJ Verhuizing in Zwolle?"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Bouwkundige Expertise:</strong> Dankzij onze achtergrond in de bouw zijn wij dé specialist in Zwolle voor complexe (de)montage van meubels en kantoorinrichtingen.</p></li><li><p><strong>Professionele Verhuislift:</strong> Veel woningen in de Zwolse binnenstad hebben smalle trappunten. Onze moderne verhuislift zorgt voor een veilig en schadevrij transport van uw zwaarste items.</p></li><li><p><strong>Lokale Kennis:</strong> Wij kennen Zwolle op ons duimpje. Van parkeervergunningen in het centrum tot de snelste routes door de wijken; wij regelen de logistiek.</p></li><li><p><strong>Complete Ontzorging:</strong> Naast transport bieden wij een volledige inpakservice en woningontruiming, zodat u zich kunt focussen op uw nieuwe start in de hoofdstad van Overijssel.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze Diensten in Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Als veelzijdig verhuisbedrijf in Zwolle bieden wij oplossingen voor elke situatie:</p><ol><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/particuliere-verhuizing/\">Particuliere Verhuizingen</a>:</strong> Persoonlijke zorg voor uw volledige inboedel.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/seniorenverhuizing/\">Seniorenverhuizingen</a>:</strong> Extra aandacht en geduld bij het verhuizen naar een zorgwoning of kleiner appartement.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/bedrijfsverhuizing/\">Zakelijke Verhuizingen</a>:</strong> Efficiënte kantoorverhuizingen met minimale downtime voor uw bedrijf.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/ontruiming/\">Woningontruiming</a>:</strong> Discrete en bezemschone oplevering van uw oude woning.</p></li></ol>"
+   },
+   {
+    "t": "box",
+    "title": "Klaar voor een vakkundige start in Zwolle?",
+    "html": "<p>Voorkom verhuisstress en kies voor de zekerheid van een vakman. Ons team staat klaar om uw verhuizing tot in de puntjes te verzorgen. Vraag vandaag nog een vrijblijvende offerte aan en ontdek onze persoonlijke aanpak.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Veelgestelde vragen over verhuizen in Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Toch nog een andere vraag of direct een prijs weten? Bel ons op 06-48577705 of vraag direct uw offerte aan.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "faq",
+    "items": [
+     {
+      "q": "Wat kost een vakkundige verhuizing in Zwolle?",
+      "a": "<p>De prijs voor een verhuizing in Zwolle is altijd maatwerk. Factoren zoals de omvang van uw inboedel, de bereikbaarheid van de woning en extra wensen zoals (de)montage bepalen het tarief. Bij HJ Verhuizing werken we met eerlijke, transparante prijzen en krijgt u altijd een vrijblijvende offerte vooraf. Zo weet u precies waar u aan toe bent, zonder verrassingen achteraf.</p>"
+     },
+     {
+      "q": "Hoe ver van tevoren moet ik mijn verhuizing aanvragen?",
+      "a": "<p>Omdat steeds meer mensen kiezen voor onze vakkundige aanpak, loopt onze planning vaak snel vol. We raden daarom aan om zo vroeg mogelijk contact met ons op te nemen voor uw gewenste verhuisdatum. Heeft u echter een <a href=\"https://hjverhuizing.nl/diensten/spoedverhuizing/\"><strong>spoedverhuizing</strong></a>? Schroom dan niet om ons direct te bellen op <strong>06-48577705</strong>. We kijken altijd vakkundig hoe we in onze planning kunnen schuiven om u toch zo snel mogelijk te helpen.</p>"
+     },
+     {
+      "q": "Is mijn inboedel verzekerd tijdens de verhuizing?",
+      "a": "<p>Absoluut. Hoewel wij door onze bouwkundige achtergrond en uiterst voorzichtige werkwijze vrijwel altijd schadevrij werken, is uw kostbare inboedel tijdens het transport en de verhuizing volledig verzekerd. Wij behandelen uw eigendommen met de grootste zorg, alsof ze van onszelf zijn. Dat is de zekerheid van een vakkundig verhuisbedrijf.</p>"
+     },
+     {
+      "q": "Beschikken jullie over een verhuislift?",
+      "a": "<p>Ja, wij zetten een moderne verhuislift in voor woningen met nauwe trappunten, appartementen of zware objecten die niet via de trap naar boven kunnen. Dit bespaart veel tijd en minimaliseert het risico op schade aan uw muren en meubilair in Zwolle. Onze verhuizers zijn vakkundig getraind om de lift veilig te bedienen.</p>"
+     },
+     {
+      "q": "Kunnen jullie ook meubels (de)monteren?",
+      "a": "<p>Dat is onze specialiteit. Dankzij onze ervaring in de bouwsector hebben wij diepgaand bouwkundig inzicht.<a href=\"https://hjverhuizing.nl/diensten/demontage-service/\"> Wij demonteren complexe meubelstukken vakkundig en zetten ze in uw nieuwe woning weer stevig in elkaar.</a></p>"
+     },
+     {
+      "q": "Kan ik ook zelf meehelpen?",
+      "a": "<p>Bij HJ Verhuizing zijn we flexibel. Als u de kosten wilt drukken door zelf in te pakken of mee te helpen met sjouwen, is dat in overleg altijd mogelijk. Wij zorgen voor de vakkundige begeleiding en het veilige transport.</p>"
+     },
+     {
+      "q": "Heeft HJ Verhuizing ook een handige verhuischecklist?",
+      "a": "<p>Zeker! Een vakkundige voorbereiding is het halve werk. Naast onze persoonlijke begeleiding raden we u aan om de <a href=\"https://www.consumentenbond.nl/binaries/content/assets/cbhippowebsite/tests/verhuizen/verhuischecklist-2021.pdf\">verhuischecklist van de Consumentenbond</a> te gebruiken. Zo weet u zeker dat u niks over het hoofd ziet voor, tijdens en na uw verhuizing</p>"
+     }
+    ]
+   }
+  ]
+ },
+ "1744": {
+  "type": "page",
+  "slug": "verhuisbedrijf-hattem",
+  "title": "Verhuisbedrijf Hattem",
+  "parent": "0",
+  "date": "2023-12-28 14:14:49",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Verhuisbedrijf Hattem: Uw Hanzestad-specialist"
+   },
+   {
+    "t": "text",
+    "html": "<p>Gaat u verhuizen naar het karakteristieke Hattem? Of u nu kiest voor de historische binnenstad of een van de moderne wijken, verhuizen in deze Hanzestad vraagt om een vakkundige aanpak. Het team van HJ Verhuizing zorgt voor een zorgeloze overgang naar uw nieuwe woning of bedrijfspand.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "map",
+    "q": "hattem"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuis-zwolle.jpeg",
+    "alt": "verhuis zwolle"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom HJ Verhuizing de juiste keuze is in Hattem"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Lokale Expertise:</strong> Wij kennen de uitdagingen van de Hattemse binnenstad. Nauwe straatjes en lastige parkeersituaties zijn voor ons dagelijkse kost; wij regelen de logistiek tot in de puntjes.</p></li><li><p><strong>Veilige Verhuislift Service:</strong> Veel woningen in Hattem hebben smalle trapgaten. Met onze professionele verhuislift brengen we uw zware meubels veilig en schadevrij naar de juiste verdieping.</p></li><li><p><strong>Vakkundig Team:</strong> Onze verhuizers zijn niet alleen sterk, maar ook technisch onderlegd. Dankzij onze achtergrond in de bouw kunnen wij ook complexe (de)montageklussen direct voor u oplossen.</p></li><li><p><strong>Flexibel &amp; Betrouwbaar:</strong> Wij passen ons aan uw agenda aan. Of u nu in het weekend wilt verhuizen of een spoedklus heeft, op ons team kunt u rekenen.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze diensten in regio Hattem"
+   },
+   {
+    "t": "text",
+    "html": "<p>Vanuit onze nabijgelegen basis bedienen wij Hattem met een breed scala aan diensten:</p><ul><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/particuliere-verhuizing/\">Particuliere Verhuizingen</a>:</strong> Van een klein appartement tot een vrijstaande woning.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/bedrijfsverhuizing/\">Bedrijfsverhuizingen</a>:</strong> Efficiënte verplaatsing van uw kantoor of bedrijfsinventaris met minimale downtime.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/ontruiming/\">Woningontruiming</a>:</strong> Discrete en respectvolle ontruiming van panden, inclusief bezemschone oplevering.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/in-en-uitpak-service/\">Inpakservice</a>:</strong> Laat het inpakwerk aan ons over; wij gebruiken de beste materialen voor maximale bescherming.</p></li></ul>"
+   },
+   {
+    "t": "box",
+    "title": "Direct een prijsopgave voor uw verhuizing in Hattem?",
+    "html": "<p>Zoekt u een verhuizer die persoonlijk contact combineert met een strakke, professionele uitvoering? Ons team staat klaar om u te ontzorgen. Vraag vandaag nog een vrijblijvende offerte aan en ontdek onze scherpe tarieven.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Veelgestelde vragen over verhuizen in Hattem"
+   },
+   {
+    "t": "text",
+    "html": "<p>Toch nog een andere vraag of direct een prijs weten? Bel ons op 06-48577705 of vraag direct uw offerte aan.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "faq",
+    "items": [
+     {
+      "q": "Wat kost een vakkundige verhuizing in Hattem?",
+      "a": "<p>De prijs voor een verhuizing in Hattem is altijd maatwerk. Factoren zoals de omvang van uw inboedel, de bereikbaarheid van de woning en extra wensen zoals (de)montage bepalen het tarief. Bij HJ Verhuizing werken we met eerlijke, transparante prijzen en krijgt u altijd een vrijblijvende offerte vooraf. Zo weet u precies waar u aan toe bent, zonder verrassingen achteraf.</p>"
+     },
+     {
+      "q": "Hoe ver van tevoren moet ik mijn verhuizing aanvragen?",
+      "a": "<p>Omdat steeds meer mensen kiezen voor onze vakkundige aanpak, loopt onze planning vaak snel vol. We raden daarom aan om zo vroeg mogelijk contact met ons op te nemen voor uw gewenste verhuisdatum. Heeft u echter een <a href=\"https://hjverhuizing.nl/diensten/spoedverhuizing/\"><strong>spoedverhuizing</strong></a>? Schroom dan niet om ons direct te bellen op <strong>06-48577705</strong>. We kijken altijd vakkundig hoe we in onze planning kunnen schuiven om u toch zo snel mogelijk te helpen.</p>"
+     },
+     {
+      "q": "Is mijn inboedel verzekerd tijdens de verhuizing?",
+      "a": "<p>Absoluut. Hoewel wij door onze bouwkundige achtergrond en uiterst voorzichtige werkwijze vrijwel altijd schadevrij werken, is uw kostbare inboedel tijdens het transport en de verhuizing volledig verzekerd. Wij behandelen uw eigendommen met de grootste zorg, alsof ze van onszelf zijn. Dat is de zekerheid van een vakkundig verhuisbedrijf.</p>"
+     },
+     {
+      "q": "Beschikken jullie over een verhuislift?",
+      "a": "<p>Ja, wij zetten een moderne verhuislift in voor woningen met nauwe trappunten, appartementen of zware objecten die niet via de trap naar boven kunnen. Dit bespaart veel tijd en minimaliseert het risico op schade aan uw muren en meubilair in Hattem. Onze verhuizers zijn vakkundig getraind om de lift veilig te bedienen.</p>"
+     },
+     {
+      "q": "Kunnen jullie ook meubels (de)monteren?",
+      "a": "<p>Dat is onze specialiteit. Dankzij onze ervaring in de bouwsector hebben wij diepgaand bouwkundig inzicht.<a href=\"https://hjverhuizing.nl/diensten/demontage-service/\"> Wij demonteren complexe meubelstukken vakkundig en zetten ze in uw nieuwe woning weer stevig in elkaar.</a></p>"
+     },
+     {
+      "q": "Kan ik ook zelf meehelpen?",
+      "a": "<p>Bij HJ Verhuizing zijn we flexibel. Als u de kosten wilt drukken door zelf in te pakken of mee te helpen met sjouwen, is dat in overleg altijd mogelijk. Wij zorgen voor de vakkundige begeleiding en het veilige transport.</p>"
+     },
+     {
+      "q": "Heeft HJ Verhuizing ook een handige verhuischecklist?",
+      "a": "<p>Zeker! Een vakkundige voorbereiding is het halve werk. Naast onze persoonlijke begeleiding raden we u aan om de <a href=\"https://www.consumentenbond.nl/binaries/content/assets/cbhippowebsite/tests/verhuizen/verhuischecklist-2021.pdf\">verhuischecklist van de Consumentenbond</a> te gebruiken. Zo weet u zeker dat u niks over het hoofd ziet voor, tijdens en na uw verhuizing</p>"
+     }
+    ]
+   }
+  ]
+ },
+ "1755": {
+  "type": "page",
+  "slug": "verhuisbedrijf-wezep",
+  "title": "Verhuisbedrijf Wezep",
+  "parent": "0",
+  "date": "2023-12-28 15:18:49",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Verhuisbedrijf Wezep: Vakkundig Verhuizen"
+   },
+   {
+    "t": "text",
+    "html": "<p><strong>Bent u op zoek naar een verhuisbedrijf in Wezep dat begrijpt dat uw inboedel meer is dan alleen een vrachtwagen vol dozen? HJ Verhuizing is uw vakkundige partner in de regio. Met onze bouwkundige achtergrond en persoonlijke aanpak zorgen wij voor een zorgeloze overgang naar uw nieuwe woning in Wezep of Hattemerbroek.</strong></p><h3> </h3>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "map",
+    "q": "wezep"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/zwolle-verhuisservice.jpeg",
+    "alt": "zwolle verhuisservice"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw Vakkundige Verhuizer om de Hoek"
+   },
+   {
+    "t": "text",
+    "html": "<p>Omdat onze hoofdzetel in Hattem gevestigd is, zijn wij binnen enkele minuten in Wezep. Wij kennen de wijken, van de karakteristieke straten in <strong>Wezep-Noord</strong> tot de moderne woningen in <strong>Wezep-West</strong> en de groene lanen bij de bosrand. Deze lokale kennis stelt ons in staat om elke verhuizing efficiënt en zonder logistieke verrassingen te plannen.</p><h3>Waarom Kiezen voor HJ Verhuizing in Wezep?</h3><ul><li><p><strong>Bouwkundig Inzicht:</strong> Wij kijken met een technisch oog naar uw verhuizing. Onze achtergrond in de bouw maakt ons specialisten in het vakkundig (de)monteren van complexe meubels die niet zomaar door een deur of trapgat passen.</p></li><li><p><strong>Professionele Verhuislift:</strong> Voor de appartementen in Wezep of woningen met nauwe trappen zetten wij onze moderne verhuislift in. Dit voorkomt schade aan uw muren en rugklachten bij onze verhuizers.</p></li><li><p><strong>Transparantie &amp; Vertrouwen:</strong> Wij werken niet met verborgen kosten. U ontvangt een heldere offerte, zodat u precies weet waar u aan toe bent voor uw verhuizing in de regio Oldebroek.</p></li><li><p><strong>Persoonlijk Plan:</strong> Geen enkele verhuizing is hetzelfde. Wij maken een plan op maat dat naadloos aansluit op uw behoeften en planning.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze Diensten in de Regio Wezep"
+   },
+   {
+    "t": "text",
+    "html": "<p>Wij bieden een breed scala aan diensten om uw verhuisdag soepel te laten verlopen:</p><ol><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/particuliere-verhuizing/\">Particuliere Verhuizingen</a>:</strong> Van compacte appartementen tot grote vrijstaande woningen.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/seniorenverhuizing/\">Seniorenverhuizingen</a>:</strong> Wij bieden extra ondersteuning en geduld bij het verhuizen naar seniorencomplexen of zorginstellingen in Wezep.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/ontruiming/\">Woningontruiming</a>:</strong> Discrete en snelle ontruiming met een bezemschone oplevering.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/bedrijfsverhuizing/\">Bedrijfsverhuizingen</a>:</strong> Minimale downtime voor uw onderneming door een strakke planning.</p></li></ol>"
+   },
+   {
+    "t": "box",
+    "title": "Vraag nu uw Gratis Offerte aan",
+    "html": "<p>Wilt u vakkundig en schadevrij verhuizen in Wezep? Laat het zware werk over aan de professionals van HJ Verhuizing. Wij komen graag bij u langs voor een vrijblijvende taxatie op locatie.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Veelgestelde vragen over verhuizen in Wezep"
+   },
+   {
+    "t": "text",
+    "html": "<p>Toch nog een andere vraag of direct een prijs weten? Bel ons op 06-48577705 of vraag direct uw offerte aan.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "faq",
+    "items": [
+     {
+      "q": "Wat kost een vakkundige verhuizing in Wezep?",
+      "a": "<p>De prijs voor een verhuizing in Wezep is altijd maatwerk. Factoren zoals de omvang van uw inboedel, de bereikbaarheid van de woning en extra wensen zoals (de)montage bepalen het tarief. Bij HJ Verhuizing werken we met eerlijke, transparante prijzen en krijgt u altijd een vrijblijvende offerte vooraf. Zo weet u precies waar u aan toe bent, zonder verrassingen achteraf.</p>"
+     },
+     {
+      "q": "Hoe ver van tevoren moet ik mijn verhuizing aanvragen?",
+      "a": "<p>Omdat steeds meer mensen kiezen voor onze vakkundige aanpak, loopt onze planning vaak snel vol. We raden daarom aan om zo vroeg mogelijk contact met ons op te nemen voor uw gewenste verhuisdatum. Heeft u echter een <a href=\"https://hjverhuizing.nl/diensten/spoedverhuizing/\"><strong>spoedverhuizing</strong></a>? Schroom dan niet om ons direct te bellen op <strong>06-48577705</strong>. We kijken altijd vakkundig hoe we in onze planning kunnen schuiven om u toch zo snel mogelijk te helpen.</p>"
+     },
+     {
+      "q": "Is mijn inboedel verzekerd tijdens de verhuizing?",
+      "a": "<p>Absoluut. Hoewel wij door onze bouwkundige achtergrond en uiterst voorzichtige werkwijze vrijwel altijd schadevrij werken, is uw kostbare inboedel tijdens het transport en de verhuizing volledig verzekerd. Wij behandelen uw eigendommen met de grootste zorg, alsof ze van onszelf zijn. Dat is de zekerheid van een vakkundig verhuisbedrijf.</p>"
+     },
+     {
+      "q": "Beschikken jullie over een verhuislift?",
+      "a": "<p>Ja, wij zetten een moderne verhuislift in voor woningen met nauwe trappunten, appartementen of zware objecten die niet via de trap naar boven kunnen. Dit bespaart veel tijd en minimaliseert het risico op schade aan uw muren en meubilair in Wapenveld. Onze verhuizers zijn vakkundig getraind om de lift veilig te bedienen.</p>"
+     },
+     {
+      "q": "Kunnen jullie ook meubels (de)monteren?",
+      "a": "<p>Dat is onze specialiteit. Dankzij onze ervaring in de bouwsector hebben wij diepgaand bouwkundig inzicht.<a href=\"https://hjverhuizing.nl/diensten/demontage-service/\"> Wij demonteren complexe meubelstukken vakkundig en zetten ze in uw nieuwe woning weer stevig in elkaar.</a></p>"
+     },
+     {
+      "q": "Kan ik ook zelf meehelpen?",
+      "a": "<p>Bij HJ Verhuizing zijn we flexibel. Als u de kosten wilt drukken door zelf in te pakken of mee te helpen met sjouwen, is dat in overleg altijd mogelijk. Wij zorgen voor de vakkundige begeleiding en het veilige transport.</p>"
+     },
+     {
+      "q": "Heeft HJ Verhuizing ook een handige verhuischecklist?",
+      "a": "<p>Zeker! Een vakkundige voorbereiding is het halve werk. Naast onze persoonlijke begeleiding raden we u aan om de <a href=\"https://www.consumentenbond.nl/binaries/content/assets/cbhippowebsite/tests/verhuizen/verhuischecklist-2021.pdf\">verhuischecklist van de Consumentenbond</a> te gebruiken. Zo weet u zeker dat u niks over het hoofd ziet voor, tijdens en na uw verhuizing</p>"
+     }
+    ]
+   }
+  ]
+ },
+ "1763": {
+  "type": "page",
+  "slug": "verhuisbedrijf-kampen",
+  "title": "Verhuisbedrijf Kampen",
+  "parent": "0",
+  "date": "2023-12-28 15:22:50",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Verhuisbedrijf Kampen: Zorgeloos verhuizen in de Hanzestad"
+   },
+   {
+    "t": "text",
+    "html": "<p>Plant u een verhuizing naar het karakteristieke Kampen? De historische binnenstad met haar prachtige monumenten vraagt om een verhuizer die de weg weet en beschikt over de juiste materialen. HJ Verhuizing is uw specialist voor een zorgeloze en schadevrije verhuizing in Kampen.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "map",
+    "q": "kampen"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/zwolle-verhuisservice.jpeg",
+    "alt": "zwolle verhuisservice"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom HJ Verhuizing in Kampen?"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Specialist in de Binnenstad:</strong> De smalle straten en historische panden van Kampen zijn prachtig, maar logistiek uitdagend. Wij hebben de ervaring om uw inboedel veilig door de stad te manoeuvreren.</p></li><li><p><strong>Inzet van de Verhuislift:</strong> Veel woningen in Kampen hebben smalle trappunten. Onze professionele verhuislift is onmisbaar om uw zware meubels veilig en vlot naar de juiste verdieping te brengen.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/demontage-service/\">Vakkundige (De)montage</a>:</strong> Dankzij onze bouwkundige achtergrond halen wij ook de meest complexe kasten of bedden vakkundig uit elkaar en zetten ze in uw nieuwe woning weer stevig in elkaar.</p></li><li><p><strong>Transparante Aanpak:</strong> U weet vooraf precies waar u aan toe bent. Onze tarieven zijn helder en eerlijk, zonder verborgen kosten achteraf.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze Diensten in regio Kampen"
+   },
+   {
+    "t": "text",
+    "html": "<p>Naast <strong><a href=\"https://hjverhuizing.nl/diensten/particuliere-verhuizing/\">particuliere verhuizingen</a></strong> biedt ons vakkundige team extra ondersteuning waar dat nodig is:</p><ol><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/seniorenverhuizing/\">Seniorenverhuizingen</a>:</strong> Rustige en respectvolle verhuizing met oog voor detail en extra zorg.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/ontruiming/\">Woningontruiming</a>:</strong> Discrete ontruiming en bezemschone oplevering van het pand.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/bedrijfsverhuizing/\">Zakelijke Verhuizingen</a>:</strong> Efficiënte verplaatsing van uw kantoor of bedrijfsinventaris in de regio Kampen.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/in-en-uitpak-service/\">Inpakservice</a>:</strong> Wij verpakken uw kwetsbare items in professionele materialen voor maximaal behoud.</p></li></ol>"
+   },
+   {
+    "t": "box",
+    "title": "Direct een offerte voor uw verhuizing in Kampen?",
+    "html": "<p>Laat het zware werk en de logistieke planning over aan de professionals van HJ Verhuizing. Wij zorgen voor een vlekkeloze start op uw nieuwe adres in Kampen.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Veelgestelde vragen over verhuizen in Kampen"
+   },
+   {
+    "t": "text",
+    "html": "<p>Toch nog een andere vraag of direct een prijs weten? Bel ons op 06-48577705 of vraag direct uw offerte aan.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "faq",
+    "items": [
+     {
+      "q": "Wat kost een vakkundige verhuizing in Kampen?",
+      "a": "<p>De prijs voor een verhuizing in Kampen is altijd maatwerk. Factoren zoals de omvang van uw inboedel, de bereikbaarheid van de woning en extra wensen zoals (de)montage bepalen het tarief. Bij HJ Verhuizing werken we met eerlijke, transparante prijzen en krijgt u altijd een vrijblijvende offerte vooraf. Zo weet u precies waar u aan toe bent, zonder verrassingen achteraf.</p>"
+     },
+     {
+      "q": "Hoe ver van tevoren moet ik mijn verhuizing aanvragen?",
+      "a": "<p>Omdat steeds meer mensen kiezen voor onze vakkundige aanpak, loopt onze planning vaak snel vol. We raden daarom aan om zo vroeg mogelijk contact met ons op te nemen voor uw gewenste verhuisdatum. Heeft u echter een <a href=\"https://hjverhuizing.nl/diensten/spoedverhuizing/\"><strong>spoedverhuizing</strong></a>? Schroom dan niet om ons direct te bellen op <strong>06-48577705</strong>. We kijken altijd vakkundig hoe we in onze planning kunnen schuiven om u toch zo snel mogelijk te helpen.</p>"
+     },
+     {
+      "q": "Is mijn inboedel verzekerd tijdens de verhuizing?",
+      "a": "<p>Absoluut. Hoewel wij door onze bouwkundige achtergrond en uiterst voorzichtige werkwijze vrijwel altijd schadevrij werken, is uw kostbare inboedel tijdens het transport en de verhuizing volledig verzekerd. Wij behandelen uw eigendommen met de grootste zorg, alsof ze van onszelf zijn. Dat is de zekerheid van een vakkundig verhuisbedrijf.</p>"
+     },
+     {
+      "q": "Beschikken jullie over een verhuislift?",
+      "a": "<p>Ja, wij zetten een moderne verhuislift in voor woningen met nauwe trappunten, appartementen of zware objecten die niet via de trap naar boven kunnen. Dit bespaart veel tijd en minimaliseert het risico op schade aan uw muren en meubilair in Kampen. Onze verhuizers zijn vakkundig getraind om de lift veilig te bedienen.</p>"
+     },
+     {
+      "q": "Kunnen jullie ook meubels (de)monteren?",
+      "a": "<p>Dat is onze specialiteit. Dankzij onze ervaring in de bouwsector hebben wij diepgaand bouwkundig inzicht.<a href=\"https://hjverhuizing.nl/diensten/demontage-service/\"> Wij demonteren complexe meubelstukken vakkundig en zetten ze in uw nieuwe woning weer stevig in elkaar.</a></p>"
+     },
+     {
+      "q": "Kan ik ook zelf meehelpen?",
+      "a": "<p>Bij HJ Verhuizing zijn we flexibel. Als u de kosten wilt drukken door zelf in te pakken of mee te helpen met sjouwen, is dat in overleg altijd mogelijk. Wij zorgen voor de vakkundige begeleiding en het veilige transport.</p>"
+     },
+     {
+      "q": "Heeft HJ Verhuizing ook een handige verhuischecklist?",
+      "a": "<p>Zeker! Een vakkundige voorbereiding is het halve werk. Naast onze persoonlijke begeleiding raden we u aan om de <a href=\"https://www.consumentenbond.nl/binaries/content/assets/cbhippowebsite/tests/verhuizen/verhuischecklist-2021.pdf\">verhuischecklist van de Consumentenbond</a> te gebruiken. Zo weet u zeker dat u niks over het hoofd ziet voor, tijdens en na uw verhuizing</p>"
+     }
+    ]
+   }
+  ]
+ },
+ "1771": {
+  "type": "page",
+  "slug": "verhuisbedrijf-oldebroek",
+  "title": "Verhuisbedrijf Oldebroek",
+  "parent": "0",
+  "date": "2023-12-28 15:25:10",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Verhuisbedrijf Oldebroek: Uw inboedel in vertrouwde handen"
+   },
+   {
+    "t": "text",
+    "html": "<p><strong>Zoekt u een verhuisbedrijf in Oldebroek of Wezep dat verder gaat dan alleen sjouwen? Bij HJ Verhuizing combineren we jarenlange ervaring met bouwkundig inzicht om uw verhuizing soepel, veilig en volledig schadevrij te laten verlopen.</strong></p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "map",
+    "q": "oldebroek"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuizing-1.jpeg",
+    "alt": "verhuizing"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom HJ Verhuizing in regio Oldebroek?"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong><a href=\"https://hjverhuizing.nl/contact/\">Lokale Expertise</a>:</strong> Vanuit onze hoofdzetel in Hattem zijn wij dagelijks actief in de gemeente Oldebroek. Wij kennen de weg en zijn snel ter plaatse.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/demontage-service/\">Bouwkundige (De)montage</a>:</strong> Heeft u complexe meubelstukken die niet door het trapgat passen of die vakkundig gedemonteerd moeten worden? Onze achtergrond in de bouw zorgt ervoor dat wij elk meubelstuk veilig uit- en weer in elkaar zetten.</p></li><li><p><strong>Professionele Verhuislift:</strong> Voor de lastige hoekjes of hogere verdiepingen zetten wij onze moderne verhuislift in. Dit bespaart tijd en voorkomt schade aan uw muren en inboedel.</p></li><li><p><strong>Transparant &amp; Betrouwbaar:</strong> Geen verrassingen achteraf. Wij werken met heldere afspraken en eerlijke tarieven, zodat u precies weet waar u aan toe bent.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze diensten voor uw verhuizing op de Veluwe"
+   },
+   {
+    "t": "text",
+    "html": "<p>Of u nu binnen Oldebroek verhuist of van buiten de regio naar deze mooie gemeente komt, wij bieden een totaaloplossing:</p><ol><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/particuliere-verhuizing/\">Particuliere Verhuizingen</a>:</strong> Van kleine appartementen tot grote gezinswoningen en boerderijen.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/seniorenverhuizing/\">Seniorenverhuizingen</a>:</strong> Wij bieden extra zorg en geduld bij verhuizingen naar bijvoorbeeld verzorgingstehuizen.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/ontruiming/\">Woningontruiming</a>:</strong> Discrete en snelle ontruiming, waarbij we de woning bezemschoon opleveren.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/\">Transport van Kostbaarheden</a>:</strong> Speciaal vervoer voor kwetsbare items zoals antiek of grote instrumenten.</p></li></ol>"
+   },
+   {
+    "t": "box",
+    "title": "Vraag nu uw vrijblijvende offerte aan",
+    "html": "<p>Bent u klaar voor een zorgeloze verhuizing in Oldebroek? Wij komen graag bij u langs voor een vakkundige inschatting van de werkzaamheden.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Veelgestelde vragen over verhuizen in Oldebroek"
+   },
+   {
+    "t": "text",
+    "html": "<p>Toch nog een andere vraag of direct een prijs weten? Bel ons op 06-48577705 of vraag direct uw offerte aan.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "faq",
+    "items": [
+     {
+      "q": "Wat kost een vakkundige verhuizing in Oldebroek?",
+      "a": "<p>De prijs voor een verhuizing in Oldebroek is altijd maatwerk. Factoren zoals de omvang van uw inboedel, de bereikbaarheid van de woning en extra wensen zoals (de)montage bepalen het tarief. Bij HJ Verhuizing werken we met eerlijke, transparante prijzen en krijgt u altijd een vrijblijvende offerte vooraf. Zo weet u precies waar u aan toe bent, zonder verrassingen achteraf.</p>"
+     },
+     {
+      "q": "Hoe ver van tevoren moet ik mijn verhuizing aanvragen?",
+      "a": "<p>Omdat steeds meer mensen kiezen voor onze vakkundige aanpak, loopt onze planning vaak snel vol. We raden daarom aan om zo vroeg mogelijk contact met ons op te nemen voor uw gewenste verhuisdatum. Heeft u echter een <a href=\"https://hjverhuizing.nl/diensten/spoedverhuizing/\"><strong>spoedverhuizing</strong></a>? Schroom dan niet om ons direct te bellen op <strong>06-48577705</strong>. We kijken altijd vakkundig hoe we in onze planning kunnen schuiven om u toch zo snel mogelijk te helpen.</p>"
+     },
+     {
+      "q": "Is mijn inboedel verzekerd tijdens de verhuizing?",
+      "a": "<p>Absoluut. Hoewel wij door onze bouwkundige achtergrond en uiterst voorzichtige werkwijze vrijwel altijd schadevrij werken, is uw kostbare inboedel tijdens het transport en de verhuizing volledig verzekerd. Wij behandelen uw eigendommen met de grootste zorg, alsof ze van onszelf zijn. Dat is de zekerheid van een vakkundig verhuisbedrijf.</p>"
+     },
+     {
+      "q": "Beschikken jullie over een verhuislift?",
+      "a": "<p>Ja, wij zetten een moderne verhuislift in voor woningen met nauwe trappunten, appartementen of zware objecten die niet via de trap naar boven kunnen. Dit bespaart veel tijd en minimaliseert het risico op schade aan uw muren en meubilair in Oldebroek. Onze verhuizers zijn vakkundig getraind om de lift veilig te bedienen.</p>"
+     },
+     {
+      "q": "Kunnen jullie ook meubels (de)monteren?",
+      "a": "<p>Dat is onze specialiteit. Dankzij onze ervaring in de bouwsector hebben wij diepgaand bouwkundig inzicht.<a href=\"https://hjverhuizing.nl/diensten/demontage-service/\"> Wij demonteren complexe meubelstukken vakkundig en zetten ze in uw nieuwe woning weer stevig in elkaar.</a></p>"
+     },
+     {
+      "q": "Kan ik ook zelf meehelpen?",
+      "a": "<p>Bij HJ Verhuizing zijn we flexibel. Als u de kosten wilt drukken door zelf in te pakken of mee te helpen met sjouwen, is dat in overleg altijd mogelijk. Wij zorgen voor de vakkundige begeleiding en het veilige transport.</p>"
+     },
+     {
+      "q": "Heeft HJ Verhuizing ook een handige verhuischecklist?",
+      "a": "<p>Zeker! Een vakkundige voorbereiding is het halve werk. Naast onze persoonlijke begeleiding raden we u aan om de <a href=\"https://www.consumentenbond.nl/binaries/content/assets/cbhippowebsite/tests/verhuizen/verhuischecklist-2021.pdf\">verhuischecklist van de Consumentenbond</a> te gebruiken. Zo weet u zeker dat u niks over het hoofd ziet voor, tijdens en na uw verhuizing</p>"
+     }
+    ]
+   }
+  ]
+ },
+ "1776": {
+  "type": "page",
+  "slug": "verhuisbedrijf-heerde",
+  "title": "Verhuisbedrijf Heerde",
+  "parent": "0",
+  "date": "2023-12-28 15:27:54",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2023/12/closeup-man-carrying-cardboard-boxes-while-relocating-into-new-apartment-scaled.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Vakkundig Verhuisbedrijf Heerde"
+   },
+   {
+    "t": "text",
+    "html": "<p><strong>Bent u op zoek naar een betrouwbaar verhuisbedrijf in Heerde? Of u nu verhuist naar een sfeervolle woning in het centrum of een ruim pand in de groene omgeving van de Veluwe; HJ Verhuizing is uw vakkundige partner voor elke stap van het proces.</strong></p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "map",
+    "q": "heerde"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuisbedrijf-meppel.jpeg",
+    "alt": ""
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom HJ Verhuizing de beste keuze is in Heerde"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Vakmanschap vanuit de regio:</strong> Als verhuisbedrijf met de basis in buurgemeente Hattem kennen wij de regio Heerde en Wapenveld op ons duimpje.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/demontage-service/\">Bouwkundige (De)montage</a>:</strong> Dankzij onze achtergrond in de bouw zijn we gespecialiseerd in het vakkundig demonteren en monteren van uw meubilair. Geen kast is ons te complex.</p></li><li><p><strong>Professionele Verhuislift:</strong> Wij beschikken over moderne verhuisliften om uw inboedel veilig en schadevrij naar de juiste verdieping te brengen, ook bij woningen met smalle trapgaten.</p></li><li><p><strong>Persoonlijke Aanpak:</strong> Wij geloven in korte lijnen en eerlijke communicatie. U krijgt een verhuisplan dat precies is afgestemd op uw situatie en budget.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze Diensten in Heerde"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/particuliere-verhuizing/\">Particuliere Verhuizingen</a>:</strong> Uw volledige inboedel met zorg en precisie verhuisd.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/seniorenverhuizing/\">Seniorenverhuizingen</a>:</strong> Rustige begeleiding en volledige ontzorging bij een verhuizing op latere leeftijd.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/ontruiming/\">Woningontruiming</a>:</strong> Discrete ontruiming en bezemschone oplevering van uw oude woning.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/in-en-uitpak-service/\">Inpakservice</a>:</strong> Uw kostbare spullen vakkundig ingepakt in beschermende materialen.</p></li></ul>"
+   },
+   {
+    "t": "box",
+    "title": "Uw verhuizing in Heerde vakkundig geregeld?",
+    "html": "<p>Wilt u schadevrij verhuizen met de hulp van echte vakmensen? Wij komen graag bij u langs in Heerde voor een vrijblijvende taxatie of offerte op maat.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Veelgestelde vragen over verhuizen in Heerde"
+   },
+   {
+    "t": "text",
+    "html": "<p>Toch nog een andere vraag of direct een prijs weten? Bel ons op 06-48577705 of vraag direct uw offerte aan.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "faq",
+    "items": [
+     {
+      "q": "Wat kost een vakkundige verhuizing in Heerde?",
+      "a": "<p>De prijs voor een verhuizing in Heerde is altijd maatwerk. Factoren zoals de omvang van uw inboedel, de bereikbaarheid van de woning en extra wensen zoals (de)montage bepalen het tarief. Bij HJ Verhuizing werken we met eerlijke, transparante prijzen en krijgt u altijd een vrijblijvende offerte vooraf. Zo weet u precies waar u aan toe bent, zonder verrassingen achteraf.</p>"
+     },
+     {
+      "q": "Hoe ver van tevoren moet ik mijn verhuizing aanvragen?",
+      "a": "<p>Omdat steeds meer mensen kiezen voor onze vakkundige aanpak, loopt onze planning vaak snel vol. We raden daarom aan om zo vroeg mogelijk contact met ons op te nemen voor uw gewenste verhuisdatum. Heeft u echter een <a href=\"https://hjverhuizing.nl/diensten/spoedverhuizing/\"><strong>spoedverhuizing</strong></a>? Schroom dan niet om ons direct te bellen op <strong>06-48577705</strong>. We kijken altijd vakkundig hoe we in onze planning kunnen schuiven om u toch zo snel mogelijk te helpen.</p>"
+     },
+     {
+      "q": "Is mijn inboedel verzekerd tijdens de verhuizing?",
+      "a": "<p>Absoluut. Hoewel wij door onze bouwkundige achtergrond en uiterst voorzichtige werkwijze vrijwel altijd schadevrij werken, is uw kostbare inboedel tijdens het transport en de verhuizing volledig verzekerd. Wij behandelen uw eigendommen met de grootste zorg, alsof ze van onszelf zijn. Dat is de zekerheid van een vakkundig verhuisbedrijf.</p>"
+     },
+     {
+      "q": "Beschikken jullie over een verhuislift?",
+      "a": "<p>Ja, wij zetten een moderne verhuislift in voor woningen met nauwe trappunten, appartementen of zware objecten die niet via de trap naar boven kunnen. Dit bespaart veel tijd en minimaliseert het risico op schade aan uw muren en meubilair in Heerde. Onze verhuizers zijn vakkundig getraind om de lift veilig te bedienen.</p>"
+     },
+     {
+      "q": "Kunnen jullie ook meubels (de)monteren?",
+      "a": "<p>Dat is onze specialiteit. Dankzij onze ervaring in de bouwsector hebben wij diepgaand bouwkundig inzicht.<a href=\"https://hjverhuizing.nl/diensten/demontage-service/\"> Wij demonteren complexe meubelstukken vakkundig en zetten ze in uw nieuwe woning weer stevig in elkaar.</a></p>"
+     },
+     {
+      "q": "Kan ik ook zelf meehelpen?",
+      "a": "<p>Bij HJ Verhuizing zijn we flexibel. Als u de kosten wilt drukken door zelf in te pakken of mee te helpen met sjouwen, is dat in overleg altijd mogelijk. Wij zorgen voor de vakkundige begeleiding en het veilige transport.</p>"
+     },
+     {
+      "q": "Heeft HJ Verhuizing ook een handige verhuischecklist?",
+      "a": "<p>Zeker! Een vakkundige voorbereiding is het halve werk. Naast onze persoonlijke begeleiding raden we u aan om de <a href=\"https://www.consumentenbond.nl/binaries/content/assets/cbhippowebsite/tests/verhuizen/verhuischecklist-2021.pdf\">verhuischecklist van de Consumentenbond</a> te gebruiken. Zo weet u zeker dat u niks over het hoofd ziet voor, tijdens en na uw verhuizing</p>"
+     }
+    ]
+   }
+  ]
+ },
+ "1784": {
+  "type": "page",
+  "slug": "verhuisbedrijf-elburg",
+  "title": "Verhuisbedrijf Elburg",
+  "parent": "0",
+  "date": "2023-12-28 15:31:58",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Vakkundig verhuisbedrijf Elburg"
+   },
+   {
+    "t": "text",
+    "html": "<p>Gaat u verhuizen naar, binnen of uit het sfeervolle Elburg? De historische schoonheid van deze stad brengt unieke uitdagingen met zich mee. Het vakkundige team van HJ Verhuizing kent de weg in de vesting en zorgt voor een vlekkeloze overgang naar uw nieuwe plek.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "map",
+    "q": "Elburg"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuizing-zwolle.jpeg",
+    "alt": "verhuizing zwolle"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom kiezen voor ons team in Elburg?"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Specialist in de Vesting:</strong> Elburg staat bekend om zijn eeuwenoude stadsmuren en smalle steegjes. Wij hebben de ervaring en het juiste materieel om ook op lastig bereikbare locaties veilig te manoeuvreren.</p></li><li><p><strong>Verhuislift Service:</strong> Grote meubels en nauwe trapgaten zijn in Elburg vaak een uitdaging. Wij beschikken over moderne verhuisliften die het zware werk aanzienlijk vereenvoudigen en schade voorkomen.</p></li><li><p><strong>Persoonlijk Plan van Aanpak:</strong> Elke woning in Elburg is anders. Wij luisteren naar uw specifieke wensen en maken een verhuisplan dat tot in de puntjes bij uw situatie aansluit.</p></li><li><p><strong>Eerlijk &amp; Transparant:</strong> Geen verrassingen achteraf. U ontvangt een heldere, vrijblijvende offerte met een scherp tarief dat past binnen uw budget.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze diensten in regio Elburg"
+   },
+   {
+    "t": "text",
+    "html": "<p>Naast particuliere en zakelijke verhuizingen is HJ Verhuizing uw partner voor specialistische klussen:</p><ul><li><p><a href=\"https://hjverhuizing.nl/diensten/spoedverhuizing/\"><strong>Spoedverhuizingen:</strong></a> Onverwachts snel weg? Wij reserveren altijd ruimte voor situaties die direct actie vereisen.</p></li><li><p><a href=\"https://hjverhuizing.nl/diensten/ontruiming/\"><strong>Woningontruiming:</strong></a> Wij zorgen voor een respectvolle en bezemschone oplevering van elk pand.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/home\">Transport van Zware Objecten</a>:</strong> Of het nu gaat om een piano of een antieke kast; wij verplaatsen uw waardevolle bezittingen met uiterste precisie.</p></li></ul>"
+   },
+   {
+    "t": "box",
+    "title": "Uw verhuizing in het prachtige Elburg direct regelen?",
+    "html": "<p>Laat het sjouwen over aan de professionals. Ons gemotiveerde team staat klaar om van uw verhuisdag een positieve ervaring te maken. Vanuit onze basis bedienen wij de volledige regio met passie en vakkundigheid.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Veelgestelde vragen over verhuizen in Elburg"
+   },
+   {
+    "t": "text",
+    "html": "<p>Toch nog een andere vraag of direct een prijs weten? Bel ons op 06-48577705 of vraag direct uw offerte aan.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "faq",
+    "items": [
+     {
+      "q": "Wat kost een vakkundige verhuizing in Elburg?",
+      "a": "<p>De prijs voor een verhuizing in Elburg is altijd maatwerk. Factoren zoals de omvang van uw inboedel, de bereikbaarheid van de woning en extra wensen zoals (de)montage bepalen het tarief. Bij HJ Verhuizing werken we met eerlijke, transparante prijzen en krijgt u altijd een vrijblijvende offerte vooraf. Zo weet u precies waar u aan toe bent, zonder verrassingen achteraf.</p>"
+     },
+     {
+      "q": "Hoe ver van tevoren moet ik mijn verhuizing aanvragen?",
+      "a": "<p>Omdat steeds meer mensen kiezen voor onze vakkundige aanpak, loopt onze planning vaak snel vol. We raden daarom aan om zo vroeg mogelijk contact met ons op te nemen voor uw gewenste verhuisdatum. Heeft u echter een <a href=\"https://hjverhuizing.nl/diensten/spoedverhuizing/\"><strong>spoedverhuizing</strong></a>? Schroom dan niet om ons direct te bellen op <strong>06-48577705</strong>. We kijken altijd vakkundig hoe we in onze planning kunnen schuiven om u toch zo snel mogelijk te helpen.</p>"
+     },
+     {
+      "q": "Is mijn inboedel verzekerd tijdens de verhuizing?",
+      "a": "<p>Absoluut. Hoewel wij door onze bouwkundige achtergrond en uiterst voorzichtige werkwijze vrijwel altijd schadevrij werken, is uw kostbare inboedel tijdens het transport en de verhuizing volledig verzekerd. Wij behandelen uw eigendommen met de grootste zorg, alsof ze van onszelf zijn. Dat is de zekerheid van een vakkundig verhuisbedrijf.</p>"
+     },
+     {
+      "q": "Beschikken jullie over een verhuislift?",
+      "a": "<p>Ja, wij zetten een moderne verhuislift in voor woningen met nauwe trappunten, appartementen of zware objecten die niet via de trap naar boven kunnen. Dit bespaart veel tijd en minimaliseert het risico op schade aan uw muren en meubilair in Elburg. Onze verhuizers zijn vakkundig getraind om de lift veilig te bedienen.</p>"
+     },
+     {
+      "q": "Kunnen jullie ook meubels (de)monteren?",
+      "a": "<p>Dat is onze specialiteit. Dankzij onze ervaring in de bouwsector hebben wij diepgaand bouwkundig inzicht.<a href=\"https://hjverhuizing.nl/diensten/demontage-service/\"> Wij demonteren complexe meubelstukken vakkundig en zetten ze in uw nieuwe woning weer stevig in elkaar.</a></p>"
+     },
+     {
+      "q": "Kan ik ook zelf meehelpen?",
+      "a": "<p>Bij HJ Verhuizing zijn we flexibel. Als u de kosten wilt drukken door zelf in te pakken of mee te helpen met sjouwen, is dat in overleg altijd mogelijk. Wij zorgen voor de vakkundige begeleiding en het veilige transport.</p>"
+     },
+     {
+      "q": "Heeft HJ Verhuizing ook een handige verhuischecklist?",
+      "a": "<p>Zeker! Een vakkundige voorbereiding is het halve werk. Naast onze persoonlijke begeleiding raden we u aan om de <a href=\"https://www.consumentenbond.nl/binaries/content/assets/cbhippowebsite/tests/verhuizen/verhuischecklist-2021.pdf\">verhuischecklist van de Consumentenbond</a> te gebruiken. Zo weet u zeker dat u niks over het hoofd ziet voor, tijdens en na uw verhuizing</p>"
+     }
+    ]
+   }
+  ]
+ },
+ "1789": {
+  "type": "page",
+  "slug": "verhuisbedrijf-wapenveld",
+  "title": "Verhuisbedrijf Wapenveld",
+  "parent": "0",
+  "date": "2023-12-28 15:37:38",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Vakkundig Verhuisbedrijf Wapenveld: Zorgeloos verhuizen"
+   },
+   {
+    "t": "text",
+    "html": "<p>Zoekt u een verhuisbedrijf in Wapenveld dat staat voor kwaliteit en vakkundigheid? HJ Verhuizing, gevestigd in buurgemeente Hattem, is uw specialist voor een schadevrije en tot in de puntjes verzorgde verhuizing. Met onze bouwkundige achtergrond bieden wij net dat beetje extra zekerheid dat u zoekt.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "map",
+    "q": "wapenveld"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/zwolle-verhuisdienst.jpeg",
+    "alt": "zwolle verhuisdienst"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom Wapenveld kiest voor HJ Verhuizing"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong><a href=\"https://hjverhuizing.nl/\">Uw buurman uit Hattem</a>:</strong> Wij zijn geworteld in de regio en kennen Wapenveld, van de monumentale panden langs het kanaal tot de moderne woningen in de nieuwbouw.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/demontage-service/\">Vakkundige (De)montage</a>:</strong> Dankzij ons bouwkundig inzicht draaien wij onze hand niet om voor het demonteren en weer stevig monteren van uw (design)meubilair.</p></li><li><p><strong>Professionele Verhuislift:</strong> Ook in Wapenveld zetten wij onze verhuislift in om zware objecten veilig en zonder krassen naar de gewenste verdieping te transporteren.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/over-ons/\">Korte lijnen, eerlijke prijs</a>:</strong> Geen dure voorrijkosten en altijd een transparante offerte. U weet precies waar u aan toe bent.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze verhuisdiensten in Wapenveld"
+   },
+   {
+    "t": "text",
+    "html": "<p>Wij regelen uw verhuizing van A tot Z, precies zoals u dat wilt:</p><ol><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/particuliere-verhuizing/\">Particuliere Verhuizing</a>:</strong> Een vlekkeloze overgang naar uw nieuwe woning op de Veluwe.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/seniorenverhuizing/\">Seniorenverhuizing</a>:</strong> Zorgvuldige en respectvolle ondersteuning bij elke stap.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/ontruiming/\">Woningontruiming</a>:</strong> Wij nemen de zorg uit handen en leveren de woning bezemschoon op.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/in-en-uitpak-service/\">Inpakservice</a>:</strong> Uw kostbare inboedel vakkundig ingepakt in professionele materialen.</p></li></ol>"
+   },
+   {
+    "t": "box",
+    "title": "Direct een vakkundige offerte voor Wapenveld?",
+    "html": "<p>Wilt u weten wat HJ Verhuizing voor u kan betekenen? Wij komen graag bij u langs in Wapenveld voor een vrijblijvend adviesgesprek.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Veelgestelde vragen over verhuizen in Wapenveld"
+   },
+   {
+    "t": "text",
+    "html": "<p>Toch nog een andere vraag of direct een prijs weten? Bel ons op 06-48577705 of vraag direct uw offerte aan.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "faq",
+    "items": [
+     {
+      "q": "Wat kost een vakkundige verhuizing in Wapenveld?",
+      "a": "<p>De prijs voor een verhuizing in Wapenveld is altijd maatwerk. Factoren zoals de omvang van uw inboedel, de bereikbaarheid van de woning en extra wensen zoals (de)montage bepalen het tarief. Bij HJ Verhuizing werken we met eerlijke, transparante prijzen en krijgt u altijd een vrijblijvende offerte vooraf. Zo weet u precies waar u aan toe bent, zonder verrassingen achteraf.</p>"
+     },
+     {
+      "q": "Hoe ver van tevoren moet ik mijn verhuizing aanvragen?",
+      "a": "<p>Omdat steeds meer mensen kiezen voor onze vakkundige aanpak, loopt onze planning vaak snel vol. We raden daarom aan om zo vroeg mogelijk contact met ons op te nemen voor uw gewenste verhuisdatum. Heeft u echter een <a href=\"https://hjverhuizing.nl/diensten/spoedverhuizing/\"><strong>spoedverhuizing</strong></a>? Schroom dan niet om ons direct te bellen op <strong>06-48577705</strong>. We kijken altijd vakkundig hoe we in onze planning kunnen schuiven om u toch zo snel mogelijk te helpen.</p>"
+     },
+     {
+      "q": "Is mijn inboedel verzekerd tijdens de verhuizing?",
+      "a": "<p>Absoluut. Hoewel wij door onze bouwkundige achtergrond en uiterst voorzichtige werkwijze vrijwel altijd schadevrij werken, is uw kostbare inboedel tijdens het transport en de verhuizing volledig verzekerd. Wij behandelen uw eigendommen met de grootste zorg, alsof ze van onszelf zijn. Dat is de zekerheid van een vakkundig verhuisbedrijf.</p>"
+     },
+     {
+      "q": "Beschikken jullie over een verhuislift?",
+      "a": "<p>Ja, wij zetten een moderne verhuislift in voor woningen met nauwe trappunten, appartementen of zware objecten die niet via de trap naar boven kunnen. Dit bespaart veel tijd en minimaliseert het risico op schade aan uw muren en meubilair in Wapenveld. Onze verhuizers zijn vakkundig getraind om de lift veilig te bedienen.</p>"
+     },
+     {
+      "q": "Kunnen jullie ook meubels (de)monteren?",
+      "a": "<p>Dat is onze specialiteit. Dankzij onze ervaring in de bouwsector hebben wij diepgaand bouwkundig inzicht.<a href=\"https://hjverhuizing.nl/diensten/demontage-service/\"> Wij demonteren complexe meubelstukken vakkundig en zetten ze in uw nieuwe woning weer stevig in elkaar.</a></p>"
+     },
+     {
+      "q": "Kan ik ook zelf meehelpen?",
+      "a": "<p>Bij HJ Verhuizing zijn we flexibel. Als u de kosten wilt drukken door zelf in te pakken of mee te helpen met sjouwen, is dat in overleg altijd mogelijk. Wij zorgen voor de vakkundige begeleiding en het veilige transport.</p>"
+     },
+     {
+      "q": "Heeft HJ Verhuizing ook een handige verhuischecklist?",
+      "a": "<p>Zeker! Een vakkundige voorbereiding is het halve werk. Naast onze persoonlijke begeleiding raden we u aan om de <a href=\"https://www.consumentenbond.nl/binaries/content/assets/cbhippowebsite/tests/verhuizen/verhuischecklist-2021.pdf\">verhuischecklist van de Consumentenbond</a> te gebruiken. Zo weet u zeker dat u niks over het hoofd ziet voor, tijdens en na uw verhuizing</p>"
+     }
+    ]
+   }
+  ]
+ },
+ "1794": {
+  "type": "page",
+  "slug": "verhuisbedrijf-zalk",
+  "title": "Verhuisbedrijf Zalk",
+  "parent": "0",
+  "date": "2023-12-28 15:41:50",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Verhuisbedrijf Zalk: Uw inboedel veilig over de IJssel"
+   },
+   {
+    "t": "text",
+    "html": "<p>Zoekt u een verhuisbedrijf in Zalk dat de rust en het karakter van het dorp begrijpt? HJ Verhuizing, uw vakkundige buurman uit Hattem, staat klaar om uw verhuizing tot in de puntjes te verzorgen. Met onze bouwkundige achtergrond en persoonlijke zorg maken wij van uw verhuisdag een zorgeloze ervaring.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "map",
+    "q": "zalk"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuisservice-meppel.jpeg",
+    "alt": "verhuisservice meppel"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom Zalk kiest voor HJ Verhuizing"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Buurman uit de regio:</strong> Wij zijn gevestigd in Hattem en kennen de weg in en rondom Zalk als geen ander.</p></li><li><p><strong>Bouwkundig Inzicht:</strong> Heeft u een antieke kast of een modern bed dat vakkundig gedemonteerd moet worden? Onze technische achtergrond zorgt ervoor dat alles weer stevig en waterpas op zijn nieuwe plek komt te staan.</p></li><li><p><strong>Professionele Verhuislift:</strong> Ook in Zalk zetten wij onze moderne verhuislift in voor lastige hoekjes of zware objecten, zodat uw muren en rug gespaard blijven.</p></li><li><p><strong>Transparante Tarieven:</strong> Wij geloven in eerlijkheid. U ontvangt vooraf een heldere offerte zonder verrassingen achteraf.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze diensten in Zalk"
+   },
+   {
+    "t": "text",
+    "html": "<p>Wij bieden een totaalpakket aan diensten, afgestemd op uw specifieke wensen:</p><ol><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/particuliere-verhuizing/\">Particuliere Verhuizingen</a>:</strong> Van gezinswoningen tot monumentale panden aan de dijk.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/seniorenverhuizing/\">Seniorenverhuizingen</a>:</strong> Wij bieden extra geduld en zorg bij verhuizingen naar een kleinere woning of zorginstelling.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/ontruiming/\">Woningontruiming</a>:</strong> Discrete en snelle ontruiming met een bezemschone oplevering van het pand.</p></li><li><p><strong><a href=\"https://hjverhuizing.nl/diensten/in-en-uitpak-service/\">Inpakservice</a>:</strong> Wij verpakken uw inboedel vakkundig in professionele materialen voor een veilig transport.</p></li></ol>"
+   },
+   {
+    "t": "box",
+    "title": "Vraag nu uw vrijblijvende offerte aan",
+    "html": "<p>Wilt u vakkundig verhuizen in of naar Zalk? Laat het sjouwwerk en de montage over aan de experts van HJ Verhuizing. Wij komen graag bij u langs voor een vakkundige taxatie.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Veelgestelde vragen over verhuizen in Zalk"
+   },
+   {
+    "t": "text",
+    "html": "<p>Toch nog een andere vraag of direct een prijs weten? Bel ons op 06-48577705 of vraag direct uw offerte aan.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "faq",
+    "items": [
+     {
+      "q": "Wat kost een vakkundige verhuizing in Zalk?",
+      "a": "<p>De prijs voor een verhuizing in Zalk is altijd maatwerk. Factoren zoals de omvang van uw inboedel, de bereikbaarheid van de woning en extra wensen zoals (de)montage bepalen het tarief. Bij HJ Verhuizing werken we met eerlijke, transparante prijzen en krijgt u altijd een vrijblijvende offerte vooraf. Zo weet u precies waar u aan toe bent, zonder verrassingen achteraf.</p>"
+     },
+     {
+      "q": "Hoe ver van tevoren moet ik mijn verhuizing aanvragen?",
+      "a": "<p>Omdat steeds meer mensen kiezen voor onze vakkundige aanpak, loopt onze planning vaak snel vol. We raden daarom aan om zo vroeg mogelijk contact met ons op te nemen voor uw gewenste verhuisdatum. Heeft u echter een <a href=\"https://hjverhuizing.nl/diensten/spoedverhuizing/\"><strong>spoedverhuizing</strong></a>? Schroom dan niet om ons direct te bellen op <strong>06-48577705</strong>. We kijken altijd vakkundig hoe we in onze planning kunnen schuiven om u toch zo snel mogelijk te helpen.</p>"
+     },
+     {
+      "q": "Is mijn inboedel verzekerd tijdens de verhuizing?",
+      "a": "<p>Absoluut. Hoewel wij door onze bouwkundige achtergrond en uiterst voorzichtige werkwijze vrijwel altijd schadevrij werken, is uw kostbare inboedel tijdens het transport en de verhuizing volledig verzekerd. Wij behandelen uw eigendommen met de grootste zorg, alsof ze van onszelf zijn. Dat is de zekerheid van een vakkundig verhuisbedrijf.</p>"
+     },
+     {
+      "q": "Beschikken jullie over een verhuislift?",
+      "a": "<p>Ja, wij zetten een moderne verhuislift in voor woningen met nauwe trappunten, appartementen of zware objecten die niet via de trap naar boven kunnen. Dit bespaart veel tijd en minimaliseert het risico op schade aan uw muren en meubilair in Zalk. Onze verhuizers zijn vakkundig getraind om de lift veilig te bedienen.</p>"
+     },
+     {
+      "q": "Kunnen jullie ook meubels (de)monteren?",
+      "a": "<p>Dat is onze specialiteit. Dankzij onze ervaring in de bouwsector hebben wij diepgaand bouwkundig inzicht.<a href=\"https://hjverhuizing.nl/diensten/demontage-service/\"> Wij demonteren complexe meubelstukken vakkundig en zetten ze in uw nieuwe woning weer stevig in elkaar.</a></p>"
+     },
+     {
+      "q": "Kan ik ook zelf meehelpen?",
+      "a": "<p>Bij HJ Verhuizing zijn we flexibel. Als u de kosten wilt drukken door zelf in te pakken of mee te helpen met sjouwen, is dat in overleg altijd mogelijk. Wij zorgen voor de vakkundige begeleiding en het veilige transport.</p>"
+     },
+     {
+      "q": "Heeft HJ Verhuizing ook een handige verhuischecklist?",
+      "a": "<p>Zeker! Een vakkundige voorbereiding is het halve werk. Naast onze persoonlijke begeleiding raden we u aan om de <a href=\"https://www.consumentenbond.nl/binaries/content/assets/cbhippowebsite/tests/verhuizen/verhuischecklist-2021.pdf\">verhuischecklist van de Consumentenbond</a> te gebruiken. Zo weet u zeker dat u niks over het hoofd ziet voor, tijdens en na uw verhuizing</p>"
+     }
+    ]
+   }
+  ]
+ },
+ "2131": {
+  "type": "page",
+  "slug": "ontruiming",
+  "title": "Ontruiming",
+  "parent": "246",
+  "date": "2024-04-26 09:28:34",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Professionele Ontruiming"
+   },
+   {
+    "t": "text",
+    "html": "<p><strong>Een ontruiming is vaak een ingrijpende gebeurtenis die vraagt om rust, structuur en vakkundigheid. Het team van HJ Verhuizing biedt een volledige ontruimingsservice voor zowel particulieren als zakelijke opdrachtgevers door de gehele provincie Overijssel.</strong></p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuizing-zwolle.jpeg",
+    "alt": "verhuizing zwolle"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Waarom kiezen voor de professionele aanpak van ons team?"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Maatwerk voor elke situatie:</strong> Van het discreet leegmaken van een seniorenwoning tot de efficiënte ontruiming van een kantoorpand; wij passen onze werkwijze aan uw behoeften aan.</p></li><li><p><strong>Respect en Discretie:</strong> Wij gaan uiterst zorgvuldig om met uw eigendommen en handelen met de nodige vertrouwelijkheid.</p></li><li><p><strong>Minimale Belasting:</strong> Ons team neemt de volledige regie in handen, inclusief de demontage van meubels en het vakkundig afvoeren van materialen.</p></li><li><p><strong>Bezemschone Oplevering:</strong> Wij zorgen ervoor dat de ruimte volledig schoon en representatief wordt opgeleverd, klaar voor de volgende bestemming.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze werkwijze: Efficiënt en Zorgvuldig"
+   },
+   {
+    "t": "text",
+    "html": "<p>Wij starten elke opdracht met een grondige evaluatie om een helder plan en een transparante offerte op te stellen. Tijdens de ontruiming werkt ons team volgens een strak tijdschema om de klus vlot en volgens afspraak te klaren.</p><p><strong>Duurzaamheid en Recycling</strong> Wij hebben oog voor de wereld om ons heen. Bruikbare items geven we waar mogelijk een tweede leven, terwijl overige materialen op een milieuvriendelijke manier worden gerecycled.</p>"
+   },
+   {
+    "t": "box",
+    "title": "Direct een vakkundige ontruiming regelen?",
+    "html": "<p>Heeft u een pand in Overijssel dat professioneel en snel moet worden ontruimd? Ons team staat voor u klaar met de juiste expertise en middelen.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   }
+  ]
+ },
+ "2140": {
+  "type": "page",
+  "slug": "verhuisbenodigdheden",
+  "title": "Verhuisbenodigdheden",
+  "parent": "246",
+  "date": "2024-04-26 09:36:22",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/deventer-verhuisbedrijf.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Professionele Verhuismaterialen"
+   },
+   {
+    "t": "text",
+    "html": "<p>Waarom zou u investeren in dure verhuisdozen die u na één dag nooit meer gebruikt? Bij HJ Verhuizing bieden we een duurzame en voordelige oplossing. Wij verhuren professionele materialen door, zodat uw inboedel optimaal beschermd is zonder onnodige kosten.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Gratis Offerte"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "text",
+      "label": "Naam",
+      "req": false
+     },
+     {
+      "type": "tel",
+      "label": "Telefoon",
+      "req": true
+     },
+     {
+      "type": "email",
+      "label": "E-mail",
+      "req": true
+     },
+     {
+      "type": "textarea",
+      "label": "Bericht",
+      "req": false
+     }
+    ],
+    "button": "Verzend"
+   },
+   {
+    "t": "cta",
+    "title": "",
+    "html": "",
+    "btn": "contact",
+    "url": "https://hjverhuizing.nl/contact/",
+    "bg": "http://hjverhuizing.nl/wp-content/uploads/2026/01/logo-hj-verhuizing.png"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuizing-hattem.jpeg",
+    "alt": "verhuizing hattem"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze verhuur-benodigdheden"
+   },
+   {
+    "t": "text",
+    "html": "<ul><li><p><strong>Stevige Verhuisdozen:</strong> Vergeet slappe bouwmarkt-dozen. Onze professionele dozen zijn gemaakt voor zwaar gebruik, makkelijk stapelbaar en gaan jarenlang mee. U huurt ze eenvoudig voor de duur van uw verhuizing.</p></li><li><p><strong>Zware Verhuisdekens:</strong> Uw meubels verdienen de beste bescherming. Onze dikke dekens voorkomen krassen en deuken tijdens het transport. Na de verhuisdag nemen wij ze gewoon weer mee.</p></li></ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Verbruiksmaterialen"
+   },
+   {
+    "t": "text",
+    "html": "<p>Sommige materialen zijn voor eenmalig gebruik. Deze leveren wij direct mee voor de beste bescherming:</p><ul><li><p><strong>Noppenfolie &amp; Inpakpapier:</strong> Essentieel voor servies, kunst en andere breekbare items.</p></li><li><p><strong>Hoekbeschermers &amp; Tape:</strong> Voor het stevig vastzetten en beschermen van de kwetsbare randen van uw meubilair.</p></li></ul>"
+   },
+   {
+    "t": "box",
+    "title": "Hoe werkt het?",
+    "html": "<p>Schatting: Wij adviseren u over de hoeveelheid materialen die u nodig heeft voor uw woning of kantoor in Overijssel.<br><br>\n\nLevering: Wij bezorgen de materialen ruim voor de verhuisdag bij u thuis.<br><br>\n\nRetour: Na de verhuizing komen we de dozen en dekens weer ophalen. U krijgt de betaalde borg dan direct weer terug.<br><br>\n\nLiever volledig ontzorgd?<br><br> Ons vakkundige team kan ook het inpakwerk volledig voor u verzorgen. Wij nemen dan alle benodigde materialen mee en zorgen dat alles binnen een mum van tijd veilig in de wagen staat.</p>",
+    "icon": ""
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "eyebrow",
+    "text": "ONZE BELOFTE"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Uw partner voor particulier & zakelijk verhuizen in regio Zwolle"
+   },
+   {
+    "t": "text",
+    "html": "<p>Verhuizen is meer dan alleen spullen sjouwen; het is een nieuwe start voor u of uw onderneming. Wij bieden een persoonlijke aanpak die rust brengt in de chaos, of het nu gaat om een appartement in de binnenstad of een compleet kantoorpand. Als lokaal team kennen we de regio Zwolle, Kampen en de Noord-Veluwe op ons duimpje, waardoor we snel en efficiënt kunnen schakelen. Bij HJ Verhuizing staan zorgvuldigheid, snelheid en een transparante service altijd centraal.</p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "box",
+    "title": "Vakkundige Montage",
+    "html": "<p>Wij demonteren en monteren uw meubels met uiterste zorg en precisie.</p>",
+    "icon": "mdi mdi-check-decagram"
+   },
+   {
+    "t": "box",
+    "title": "Veilig & Verzekerd",
+    "html": "<p>Uw kostbare inboedel is tijdens het hele transport volledig verzekerd.</p>",
+    "icon": "mdi mdi-security"
+   },
+   {
+    "t": "box",
+    "title": "Planning op Maat",
+    "html": "<p>Ook in het weekend of op korte termijn staan wij voor u klaar.</p>",
+    "icon": "mdi mdi-message-cog"
+   },
+   {
+    "t": "box",
+    "title": "Compleet Ontzorgd",
+    "html": "<p>Van inpakservice tot verhuislift: wij regelen alles van A tot Z.</p>",
+    "icon": "mdi mdi-lightbulb-on"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   }
+  ]
+ },
+ "2328": {
+  "type": "page",
+  "slug": "bedankt",
+  "title": "Bedankt",
+  "parent": "0",
+  "date": "2025-04-09 17:32:21",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2024/06/75-1.jpg",
+    "alt": ""
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Wij nemen zo snel mogelijk contact op!"
+   },
+   {
+    "t": "text",
+    "html": "<p>Lees hieronder nog onze kernwaarden, zodat je weet dat je in goede handen bent. </p>"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Onze waarden"
+   },
+   {
+    "t": "text",
+    "html": "<p><h4><strong>Ervaring en Expertise:</strong></h4><p>Met jarenlange ervaring in de verhuisbranche beschikken we over de expertise om elke verhuizing aan te pakken. Ons team van professionals is goed opgeleid en toegewijd aan het leveren van hoogwaardige service.</p><h4><strong>Maatwerk:</strong></h4><p>We begrijpen dat elke verhuizing uniek is. Daarom bieden we maatwerkoplossingen die aansluiten bij uw specifieke behoeften en budget. Of het nu gaat om een kleine verhuizing binnen dezelfde stad of een grootschalige internationale verhuizing, we hebben de middelen en flexibiliteit om aan uw eisen te voldoen.</p><h4><strong>Betrouwbaarheid:</strong></h4><p>Bij HJVERHUIZING kunt u rekenen op betrouwbaarheid en punctualiteit. We komen onze afspraken na en streven ernaar om uw waardevolle bezittingen veilig en op tijd op de plaats van bestemming te krijgen.</p><h4><strong>Klantgerichte Service:</strong></h4><p>Uw tevredenheid staat bij ons centraal. Ons vriendelijke en professionele team staat klaar om al uw vragen te beantwoorden en u te begeleiden door het gehele verhuisproces.</p></p>"
+   }
+  ]
+ },
+ "2382": {
+  "type": "elementor_library",
+  "slug": "moveto-v1-404-page",
+  "title": "Moveto V1 – 404 Page",
+  "parent": "0",
+  "date": "2026-01-12 12:31:05",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "404"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Page Not Found"
+   },
+   {
+    "t": "text",
+    "html": "<p>Apologies, the page you are looking for no longer exists. Perhaps you can return back to the site’s homepage and see if you can find what you are looking for.</p>"
+   }
+  ]
+ },
+ "2405": {
+  "type": "elementor_library",
+  "slug": "moveto-v1-footer",
+  "title": "Moveto V1 – Footer",
+  "parent": "0",
+  "date": "2026-01-12 12:31:10",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": ""
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/01/Logo_Moveto.png",
+    "alt": ""
+   },
+   {
+    "t": "text",
+    "html": "<p>Hendrerit neque sem volutpat ornare bibendum class euismod. Ultricies sociosqu elit rhoncus imperdiet.</p>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Our Services"
+   },
+   {
+    "t": "list",
+    "items": [
+     "International Moves",
+     "Domestic Moves",
+     "Office Moves",
+     "Secure Storage",
+     "Vehicle Transfer"
+    ]
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Our Network"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Asia",
+     "Africa",
+     "Europe",
+     "France",
+     "Middle East"
+    ]
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Subscribe Newsletter"
+   },
+   {
+    "t": "text",
+    "html": "<p>Subscribe to our Newsletter to get important news, amazing offers &amp; inside scoops:</p>"
+   },
+   {
+    "t": "form",
+    "fields": [
+     {
+      "type": "email",
+      "label": "Email",
+      "req": true
+     }
+    ],
+    "button": "Sign Up"
+   },
+   {
+    "t": "section",
+    "bg": ""
+   },
+   {
+    "t": "list",
+    "items": [
+     "Terms of Use",
+     "Privacy Policy"
+    ]
+   }
+  ]
+ },
+ "2410": {
+  "type": "elementor_library",
+  "slug": "moveto-v1-header",
+  "title": "Moveto V1 – Header",
+  "parent": "0",
+  "date": "2026-01-12 12:31:10",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": ""
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/01/Logo_Moveto.png",
+    "alt": ""
+   },
+   {
+    "t": "btn",
+    "text": "Get A Quote",
+    "url": null
+   }
+  ]
+ },
+ "2484": {
+  "type": "elementor_library",
+  "slug": "moveto-v1-header-2",
+  "title": "Moveto V1 – Header",
+  "parent": "0",
+  "date": "2026-01-21 14:02:02",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "btn",
+    "text": "Bel ons",
+    "url": "tel:+31648577705"
+   }
+  ]
+ },
+ "2497": {
+  "type": "elementor_library",
+  "slug": "elementor-footer-2497",
+  "title": "Elementor Footer #2497",
+  "parent": "0",
+  "date": "2026-01-21 15:17:47",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/cropped-logo-hj-verhuizing-no-background.webp",
+    "alt": ""
+   },
+   {
+    "t": "text",
+    "html": "<ul>\n \t<li><a href=\"mailto:info@hjverhuizing.nl\">info@hjverhuizing.nl</a></li>\n \t<li><a href=\"tel:+31648577705\">+31 6 48577705</a></li>\n \t<li>Kerkstraat 40, <br>8051GN Hattem</li>\n \t<li>Openingstijden: Ma t/m Za: 9:00-20:00</li>\n</ul>"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Navigatie"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Home",
+     "Over ons",
+     "Diensten",
+     "Contact",
+     "Kennisbank"
+    ]
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Diensten"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Particuliere Verhuizing",
+     "Zakelijke Verhuizing",
+     "Spoed Verhuizing",
+     "Senioren Verhuizing",
+     "Ontruiming",
+     "Verhuisbenodigdheden",
+     "In- en Uitpak Service",
+     "(De)montage Service"
+    ]
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Verhuisbedrijf in de regio"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Elburg",
+     "Hattem",
+     "Heerde",
+     "Kampen",
+     "Oldebroek",
+     "Wapenveld",
+     "Wezep",
+     "Zalk",
+     "Zwolle"
+    ]
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "list",
+    "items": [
+     "Cookiebeleid",
+     "Privacybeleid"
+    ]
+   }
+  ]
+ },
+ "2654": {
+  "type": "page",
+  "slug": "cookie-policy-eu",
+  "title": "Cookie Policy (EU)",
+  "parent": "0",
+  "date": "2026-01-24 10:16:43",
+  "blocks": []
+ },
+ "2658": {
+  "type": "elementor_library",
+  "slug": "elementor-error-404-2658",
+  "title": "Elementor Error 404 #2658",
+  "parent": "0",
+  "date": "2026-01-24 10:24:52",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving.jpg"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/cropped-logo-hj-verhuizing-no-background.webp",
+    "alt": ""
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "404"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Even de weg kwijt?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Waarschijnlijk hebben we deze pagina in de verkeerde verhuisdoos gestopt. Of hij staat nog achterin de verhuiswagen. Kan gebeuren.</p><p>Geen stress, we helpen u weer op weg naar de juiste kamer:</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Home",
+    "url": "https://hjverhuizing.nl/"
+   },
+   {
+    "t": "btn",
+    "text": "Diensten",
+    "url": "https://hjverhuizing.nl/diensten/"
+   },
+   {
+    "t": "btn",
+    "text": "contact",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "bel ons",
+    "url": "tel:+31648577705"
+   }
+  ]
+ },
+ "2816": {
+  "type": "page",
+  "slug": "privacybeleid",
+  "title": "Privacybeleid",
+  "parent": "0",
+  "date": "2026-01-29 08:13:29",
+  "blocks": []
+ },
+ "2829": {
+  "type": "page",
+  "slug": "kennisbank",
+  "title": "Kennisbank",
+  "parent": "0",
+  "date": "2026-06-13 08:54:59",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuizing-e1781340699453.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Kennisbank"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Home",
+     "Blog"
+    ]
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/boxes-in-new-home.jpg"
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Spoedverhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem contact met ons op en wij staan direct voor u klaar!</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Bel direct",
+    "url": "tel:+31648577705"
+   },
+   {
+    "t": "img",
+    "url": "http://hjverhuizing.nl/wp-content/uploads/2026/01/IMG_6479.png",
+    "alt": ""
+   }
+  ]
+ },
+ "2912": {
+  "type": "post",
+  "slug": "internationaal-verhuizen",
+  "title": "Internationaal verhuizen vanuit Nederland",
+  "parent": "0",
+  "date": "2026-06-13 10:14:49",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/06/verhuizing-e1781340699453.jpeg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "list",
+    "items": [
+     "Home",
+     "Blog",
+     ""
+    ]
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Internationaal verhuizen vanuit Nederland: Vakkundig en zorgeloos naar het buitenland"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "text",
+    "html": "<p>Gaat u de sprong wagen en verhuizen naar het buitenland? Een fantastisch avontuur. Of u nu voor de rust naar Duitsland vertrekt, voor het werk naar België verhuist, of nog verder over de grens trekt: er komt ontzettend veel op u af. Een internationale verhuizing is immers heel wat anders dan een ritje binnen Zwolle.</p><p>Bij <strong>HJ Verhuizing</strong> begrijpen we dat uw inboedel niet zomaar vracht is, maar uw hele hebben en houden. Hier leest u waar u op moet letten bij een verhuizing over de grens en hoe wij u vakkundig ondersteunen.</p>"
+   },
+   {
+    "t": "img",
+    "url": "https://hjverhuizing.nl/wp-content/uploads/2026/06/senioren-verhuis.jpeg",
+    "alt": "senioren verhuis"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "text",
+    "html": "<p>Waarom internationaal verhuizen een vak apart is<p>Als u binnen de regio Zwolle verhuist, is een extra ritje met de verhuisbus snel gemaakt. Bij een internationale verhuizing moet alles in één keer perfect passen en vakkundig worden gezekerd. De kilometers op de snelweg vragen om een strakke planning en een professionele laadtechniek.</p><p>Daarnaast krijgt u te maken met wet- en regelgeving. Verhuist u binnen de Europese Unie (zoals Duitsland of Frankrijk)? Dan is er vrij verkeer van goederen, maar gelden er nog steeds specifieke regels voor bijvoorbeeld het transport van voertuigen of grote hoeveelheden vloeistoffen.</p>Populaire bestemmingen: Verhuizen naar Duitsland of België<p>Veel inwoners uit Overijssel die de grens oversteken, kiezen voor onze directe buren. <strong>Verhuizen van Zwolle naar Duitsland of België</strong> is een route die wij regelmatig vakkundig uitvoeren.</p><ul><li><p><strong>Verhuizen naar Duitsland:</strong> Denk aan de invoer van uw auto en de strenge regels rondom parkeervergunningen (Halteverbot) voor de verhuiswagen in Duitse steden.</p></li><li><p><strong>Verhuizen naar België:</strong> Hoewel de taal vaak hetzelfde is, zijn de toegangswegen en appartementen in steden als Antwerpen of Brussel vaak compact. Een goede voorbereiding (en eventueel een verhuislift) is hier cruciaal.</p></li></ul>Tips voor een strakke buitenlandse verhuizing<ol><li><p><strong>Begin ruim op tijd met sorteren:</strong> Elke kubieke meter die u niet meeneemt naar het buitenland, scheelt direct in de transportkosten.</p></li><li><p><strong>Kies voor vakkundig inpakwerk:</strong> Uw meubels staan urenlang in een rijdende vrachtwagen. Goed inpakmateriaal en professionele demontage voorkomen schade door trillingen op de snelweg.</p></li><li><p><strong>Check de bereikbaarheid:</strong> Kan een grote verhuisbus wel voor uw nieuwe woning in het buitenland parkeren? Soms moeten er lokaal ontheffingen worden aangevraagd.</p></li></ol>HJ Verhuizing: Uw verhuizer over de grens<p>Waarom kiezen voor HJ Verhuizing voor uw internationale avontuur? Grote, logge verhuisbedrijven rekenen vaak de hoofdprijs voor buitenlands transport. Wij geloven in een andere aanpak: <strong>sneller, flexibeler en met direct, persoonlijk contact.</strong></p><p>Wij plannen de route vakkundig, zorgen dat uw kostbare bezittingen snaarstrak verzekerd onderweg zijn, en begeleiden u van de eerste verhuisdoos in Zwolle tot de oplevering in uw nieuwe thuisland.</p></p>"
+   },
+   {
+    "t": "section",
+    "bg": "https://hjverhuizing.nl/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618.jpg"
+   },
+   {
+    "t": "section",
+    "bg": null
+   },
+   {
+    "t": "h",
+    "tag": "h2",
+    "text": "Klaar voor een zorgeloze verhuizing?"
+   },
+   {
+    "t": "text",
+    "html": "<p>Neem vandaag nog contact op. Wij komen graag vrijblijvend langs om uw situatie te bekijken en een scherpe offerte op maat te maken.</p>"
+   },
+   {
+    "t": "btn",
+    "text": "Gratis Offerte",
+    "url": "https://hjverhuizing.nl/contact/"
+   },
+   {
+    "t": "btn",
+    "text": "Bel Direct",
+    "url": "tel:+31648577705"
+   }
+  ]
+ },
+ "3022": {
+  "type": "post",
+  "slug": "verhuislift-nodig",
+  "title": "Verhuislift nodig? Wanneer het loont en waar u op let",
+  "parent": "0",
+  "date": "2026-10-09 12:55:39",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": null
+   }
+  ]
+ },
+ "3028": {
+  "type": "post",
+  "slug": "verhuischecklist",
+  "title": "Verhuischecklist: alles op volgorde | HJ Verhuizing",
+  "parent": "0",
+  "date": "2026-10-09 13:04:19",
+  "blocks": [
+   {
+    "t": "section",
+    "bg": null
+   }
+  ]
+ }
+}
