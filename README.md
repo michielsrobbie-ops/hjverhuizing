@@ -20,9 +20,10 @@ Zelfde look, URL's en teksten, zonder WordPress en plugins.
 `cd site && php -S localhost:8000` (met PHP werkt ook het formulier; zonder: `python3 -m http.server`)
 
 ## Live zetten (Hostinger)
-1. Maak in hPanel eerst een volledige backup van de huidige site.
-2. Verplaats de WordPress-bestanden in `public_html` naar een map buiten `public_html` (bijv. `wp-oud`), of verwijder ze na de backup.
-3. Upload de inhoud van `site/` naar `public_html` (inclusief het verborgen bestand `.htaccess`).
-4. Zet in hPanel de LiteSpeed Cache uit of leeg hem.
-5. Test: homepage, een dienstpagina, een plaatspagina, een oude afbeeldings-URL (moet doorsturen), en verstuur één testformulier.
-6. Search Console: dien `https://hjverhuizing.nl/sitemap.xml` in.
+De site staat sinds 5 nov 2026 live en deployt automatisch:
+1. Wijzigen, `python3 build/build.py`, committen en pushen naar `main`.
+2. De GitHub Action (`.github/workflows/live.yml`) zet de inhoud van `site/` op de branch `live`.
+3. Hostinger (hPanel > Geavanceerd > GIT, automatische implementatie) zet de branch `live` in `public_html`.
+
+Handmatig opnieuw uitrollen: hPanel > Geavanceerd > GIT > Herimplementeren.
+De oude WordPress-bestanden staan in `wp-oud/` naast `public_html` (terugzetten = inhoud terug verplaatsen).
