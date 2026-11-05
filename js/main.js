@@ -51,6 +51,10 @@
   }
   $$("[data-consent-open]").forEach(function (b) { b.addEventListener("click", function () { if (banner) { banner.hidden = false; $("button", banner).focus(); } }); });
 
+  /* ---------- mobiele balk: offerteknop springt naar het formulier op deze pagina ---------- */
+  var doel = document.getElementById("offerte") || document.getElementById("prijsopgave");
+  if (doel) document.querySelectorAll("[data-offerte]").forEach(function (a) { a.setAttribute("href", "#" + doel.id); });
+
   /* ---------- klikken op bellen / WhatsApp meten ---------- */
   document.addEventListener("click", function (e) {
     var a = e.target.closest("[data-track]");

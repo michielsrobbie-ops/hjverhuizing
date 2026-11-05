@@ -348,6 +348,18 @@ ul,ol{margin:0 0 1em;padding-left:1.25em}
   .consent .btn-row .btn{min-height:42px;padding:.35em .6em;font-size:.9rem}
   .bottom .wrap{padding-bottom:88px}
 }
+/* vaste balk onderaan op mobiel: bellen + offerte */
+.mbar{display:none}
+@media (max-width:700px){
+  .mbar{display:grid;grid-template-columns:1fr 1fr;gap:8px;position:fixed;left:0;right:0;bottom:0;z-index:45;padding:8px 10px calc(8px + env(safe-area-inset-bottom));background:#fff;box-shadow:0 -8px 22px -12px rgba(7,44,80,.45)}
+  .mbar .btn{min-height:48px;padding:.4em .6em;font-size:1.05rem}
+  body{padding-bottom:calc(64px + env(safe-area-inset-bottom))}
+  .float-wa{bottom:78px}
+  .consent{bottom:72px}
+  /* toetsenbord open: balk en WhatsApp-knop uit de weg */
+  body:has(.hj-form :focus) .mbar,body:has(.hj-form :focus) .float-wa{display:none}
+}
+@media print{.mbar{display:none}}
 
 /* tekstpagina's */
 .legal{max-width:780px}
