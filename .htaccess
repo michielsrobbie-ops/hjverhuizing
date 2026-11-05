@@ -29,6 +29,10 @@ RewriteRule ^(feed|comments/feed)/?$ /kennisbank/ [R=301,L]
 RewriteRule ^[^/]+/feed/?$ /kennisbank/ [R=301,L]
 RewriteRule ^(category/.*|author/.*|blog/?)$ /kennisbank/ [R=301,L]
 RewriteRule ^(home|homepage)/?$ / [R=301,L]
+# korte dienstadressen: WordPress stuurde /bedrijfsverhuizing vanzelf door naar /diensten/bedrijfsverhuizing/
+# (een sitelink in Google Ads gebruikt zo'n adres en werd afgekeurd met een 404)
+RewriteRule ^(particuliere-verhuizing|bedrijfsverhuizing|spoedverhuizing|seniorenverhuizing|in-en-uitpak-service|demontage-service|ontruiming|verhuisbenodigdheden)/?$ /diensten/$1/ [R=301,L]
+RewriteRule ^index\.php$ / [R=301,L]
 RewriteRule ^(sitemap_index|page-sitemap|post-sitemap|author-sitemap)\.xml$ /sitemap.xml [R=301,L]
 RewriteRule ^(wp-admin|wp-login\.php|xmlrpc\.php|wp-json|wp-includes) - [G,L]
 RewriteCond %{QUERY_STRING} ^p=[0-9]+ [OR]
