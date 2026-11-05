@@ -12,12 +12,12 @@
 date_default_timezone_set('Europe/Amsterdam');
 
 // ---------------------------------------------------------------- instellingen
-$AAN  = 'livlifley@gmail.com';                  // hier komen de aanvragen binnen
+$AAN  = 'info@hjverhuizing.nl';                 // hier komen de aanvragen binnen (staat gekoppeld met Gmail)
 $BCC  = [];                                     // eventueel extra ontvangers
 $INFO = 'info@hjverhuizing.nl';                 // afzender van de automatische bevestiging aan de klant
 $BEVESTIGING = true;                            // false = geen automatische bevestiging sturen
 $MAX_BEVESTIGINGEN_PER_UUR = 3;                 // per IP-adres, tegen misbruik
-$AFZENDER   = 'website@hjverhuizing.nl';        // moet een adres op het eigen domein zijn
+$AFZENDER   = 'info@hjverhuizing.nl';           // bestaand mailadres op het eigen domein (Hostinger eist dat)
 $BEDANKT    = '/bedankt/';
 $MIN_SECONDEN = 3;
 
