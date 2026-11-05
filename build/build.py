@@ -20,7 +20,7 @@ DATA = ROOT / "build" / "data"
 C = json.load(open(DATA / "content.json"))
 IMG = json.load(open(ROOT / "build" / "images.json"))
 TODAY = datetime.date.today().isoformat()
-VERSION = "20261105d"  # ophogen bij elke wijziging aan css/js (cache)
+VERSION = "20261105e"  # ophogen bij elke wijziging aan css/js (cache)
 
 # ------------------------------------------------------------------ bedrijfsgegevens
 BASE = "https://hjverhuizing.nl"
@@ -31,6 +31,7 @@ EMAIL = "info@hjverhuizing.nl"
 STREET, ZIP, CITY = "Kerkstraat 40", "8051 GN", "Hattem"
 HOURS = "Ma t/m za: 9:00 - 20:00"
 WA = "https://wa.me/31648577705?text=" + "Hallo%20team%20van%20HJ%20Verhuizing%2C%20ik%20zoek%20een%20vakkundig%20verhuisbedrijf.%20Kunt%20u%20contact%20met%20mij%20opnemen%3F"
+WA_NA = "https://wa.me/31648577705?text=" + "Hallo%2C%20ik%20heb%20zojuist%20een%20aanvraag%20gedaan%20via%20de%20website.%20Hierbij%20alvast%20wat%20extra%20informatie%3A%20"
 # Google-tags die op de huidige site draaien (Site Kit, MonsterInsights, PixelYourSite)
 # AW-8464378947 is weggehaald: dat was het klantnummer van het Ads-account (846-437-8947), geen tag-ID
 GTAGS = ["GT-MK4HJNPV", "G-W2LXQPG225", "AW-16718229948"]
@@ -138,7 +139,7 @@ SEO = {
  "verhuisbedrijf-zalk": ("Verhuisbedrijf Zalk: vakkundige hulp | HJ Verhuizing", "Verhuisbedrijf Zalk? Kies voor de vakkundige service van HJ Verhuizing. Wij regelen uw verhuizing in de IJsseldelta zorgeloos en snel. Vraag uw offerte aan."),
  "internationaal-verhuizen": ("Internationaal verhuizen vanuit Nederland | HJ Verhuizing", "Internationale verhuizing vanuit Zwolle? Van Duitsland tot België regelt HJ Verhuizing uw transport over de grens vakkundig. Vraag een offerte aan."),
  "verhuislift-nodig": ("Verhuislift nodig? Wanneer het loont | HJ Verhuizing", "Wanneer heeft u een verhuislift nodig, wat is er op straat en aan de gevel voor nodig en is zelf huren slim? HJ Verhuizing legt het uit."),
- "wat-kost-een-verhuizing": ("Wat kost een verhuizing? Hier hangt de prijs van af | HJ Verhuizing", "Wat kost een verhuizing? Lees welke zes factoren de prijs bepalen, hoe een offerte op maat tot stand komt en hoe u zelf bespaart op uw verhuizing."),
+ "wat-kost-een-verhuizing": ("Wat kost een verhuizing? De prijs uitgelegd | HJ Verhuizing", "Wat kost een verhuizing? Lees welke zes factoren de prijs bepalen, hoe een offerte op maat tot stand komt en hoe u zelf bespaart op uw verhuizing."),
  "verhuischecklist": ("Verhuischecklist: alles op volgorde | HJ Verhuizing", "Verhuizen zonder stress? Deze verhuischecklist zet alles op volgorde, van acht weken vooraf tot de sleuteloverdracht. Vink af wat u geregeld heeft."),
  "privacybeleid": ("Privacybeleid | HJ Verhuizing", "Lees hoe HJ Verhuizing omgaat met uw persoonsgegevens: welke gegevens we verzamelen, waarom, hoe lang we ze bewaren en wat uw rechten zijn."),
  "cookie-policy-eu": ("Cookiebeleid | HJ Verhuizing", "Welke cookies gebruikt hjverhuizing.nl en waarvoor? Lees ons cookiebeleid en pas uw keuze op elk moment aan."),
@@ -271,6 +272,7 @@ def footer():
 <nav aria-label="Juridisch"><a href="/cookie-policy-eu/">Cookiebeleid</a><a href="/privacybeleid/">Privacybeleid</a><button type="button" data-consent-open>Cookie-instellingen</button></nav></div></div>
 </footer>
 <a class="float-wa" href="{WA}" target="_blank" rel="noopener" data-track="whatsapp" aria-label="Stuur ons een WhatsApp-bericht">{WA_SVG}</a>
+<div class="mbar"><a class="btn btn--navy" href="tel:{PHONE}" data-track="bellen">{icon("phone")}Bel direct</a><a class="btn" href="/contact/#offerte" data-offerte>Gratis offerte</a></div>
 <div class="consent" id="consent" role="dialog" aria-labelledby="consent-title" hidden>
 <h2 id="consent-title">Cookies op deze website</h2>
 <p>Wij gebruiken cookies om te meten hoe de site gebruikt wordt en om onze advertenties te verbeteren. Dat doen we alleen als u akkoord gaat. <a href="/cookie-policy-eu/">Meer over cookies</a></p>
@@ -556,6 +558,9 @@ pages = {}  # pad -> html
 sitemap = []  # (pad, lastmod, prioriteit)
 
 def add(path, html_, lastmod=TODAY, prio="0.7", index=True):
+    # geen formulier op deze pagina: de offerteknop gaat dan naar het formulier op de contactpagina
+    if 'id="offerte"' not in html_:
+        html_ = html_.replace('href="#offerte"', 'href="/contact/#offerte"')
     pages[path] = html_
     if index: sitemap.append((path, lastmod, prio))
 
@@ -568,7 +573,7 @@ def build_home():
     hero = f'''<section class="hero hero--home"><div class="hero__media">{img("kennismaking-voordeur", eager=True, alt="")}</div><div class="wrap">
 <h1>Uw vakkundig <span class="hl">verhuisbedrijf<svg viewBox="0 0 300 20" preserveAspectRatio="none" aria-hidden="true"><path d="M4 14C60 5 170 3 296 9"/></svg></span> regio Zwolle</h1>
 <p class="hero__lead">HJ Verhuizing: uw vakkundige partner voor particuliere en zakelijke verhuizingen. Regio Zwolle en Noord-Veluwe; wij regelen het zware werk met zorg en precisie.</p>
-<div class="btn-row"><a class="btn" href="/contact/">Contacteer ons</a><a class="btn btn--ghost" href="tel:{PHONE}" data-track="bellen">{icon("phone")}Bel {PHONE_SHOW}</a></div>
+<div class="btn-row"><a class="btn" href="#prijsopgave">Gratis offerte aanvragen</a><a class="btn btn--ghost" href="tel:{PHONE}" data-track="bellen">{icon("phone")}Bel {PHONE_SHOW}</a></div>
 </div></section>
 <section class="quote-bar" aria-labelledby="prijsopgave"><div class="wrap"><div class="quote-bar__card">
 <div><h2 id="prijsopgave">Ontvang een prijsopgave op maat</h2><p>Wij nemen binnen 24 uur contact met u op.</p></div>
@@ -701,7 +706,7 @@ def build_diensten():
     intro = f'''<section class="section"><div class="wrap split">
 <div>{eyebrow("Onze werkwijze")}<h2>Vakkundige verhuizing met een persoonlijke aanpak</h2>
 <p>HJ Verhuizing staat voor kwaliteit en betrouwbaarheid. Ons team van ervaren verhuizers begrijpt dat uw inboedel meer is dan alleen spullen; het zijn uw herinneringen. Wij werken dagelijks in de wijde regio rondom Zwolle, Kampen en de Veluwe, maar verzorgen ook met plezier verhuizingen in plaatsen als Meppel, Nunspeet en Raalte. Of u nu lokaal verhuist of naar de andere kant van het land, ons team regelt het zware werk met de grootste zorg.</p>
-<a class="btn btn--navy" href="/contact/">Contacteer ons</a></div>
+<a class="btn btn--navy" href="/contact/">Gratis offerte aanvragen</a></div>
 <div class="photo-stat">{img("verhuizers-voordeur", "(max-width:900px) 100vw, 50vw")}</div></div></section>
 <section class="section section--mist" aria-labelledby="alle"><div class="wrap services-split">
 {img("verhuizer-met-doos-staand", "(max-width:900px) 100vw, 40vw")}
@@ -740,7 +745,7 @@ def build_contact():
 <p>Ons vakkundige team staat voor u klaar. Vul uw gegevens in en wij nemen binnen 24 uur contact met u op voor een verhuizing op maat.</p>
 {form("contact", path, "Offerte aanvragen")}</div>
 <aside class="aside" aria-label="Contactgegevens">
-<div class="card"><h2 class="h3">Contacteer ons</h2><ul class="contact-list">
+<div class="card"><h2 class="h3">Neem contact op</h2><ul class="contact-list">
 <li><span class="ico">{icon("phone")}</span><span><a href="tel:{PHONE}" data-track="bellen">{PHONE_SHOW}</a><small>Bellen of WhatsApp</small></span></li>
 <li><span class="ico">{icon("mail")}</span><span><a href="mailto:{EMAIL}">{EMAIL}</a></span></li>
 <li><span class="ico">{icon("pin")}</span><span>{STREET}<br>{ZIP} {CITY}</span></li>
@@ -813,7 +818,11 @@ def build_misc():
     path = "/bedankt/"
     body = hero_page("Bedankt!", "Wij nemen zo snel mogelijk contact met u op.", [("Home", "/"), ("Bedankt", path)], "verhuizer-met-doos", buttons=False, facts=False) + f'''
 <section class="section"><div class="wrap split split--top">
-<div class="prose"><h2>Onze waarden</h2><p>Lees hieronder nog onze kernwaarden, zodat u weet dat u in goede handen bent.</p>
+<div class="prose"><h2>Hoe gaat het nu verder?</h2>
+<p>We hebben uw aanvraag goed ontvangen en nemen binnen 24 uur contact met u op om uw verhuizing door te nemen. U krijgt ook een bevestiging per e-mail.</p>
+<p>Wilt u alvast iets doorgeven, zoals de gewenste verhuisdatum of foto's van de inboedel? Stuur ons een WhatsApp-bericht of bel ons.</p>
+<div class="btn-row" style="margin-bottom:2.2em"><a class="btn" href="{WA_NA}" target="_blank" rel="noopener" data-track="whatsapp">Stuur een WhatsApp-bericht</a><a class="btn btn--navy" href="tel:{PHONE}" data-track="bellen">{icon("phone")}Bel {PHONE_SHOW}</a></div>
+<h2>Onze waarden</h2><p>Lees hieronder nog onze kernwaarden, zodat u weet dat u in goede handen bent.</p>
 <h3>Ervaring en expertise</h3><p>Met jarenlange ervaring in de verhuisbranche beschikken we over de expertise om elke verhuizing aan te pakken. Ons team van professionals is goed opgeleid en toegewijd aan het leveren van hoogwaardige service.</p>
 <h3>Maatwerk</h3><p>We begrijpen dat elke verhuizing uniek is. Daarom bieden we maatwerkoplossingen die aansluiten bij uw specifieke behoeften en budget. Of het nu gaat om een kleine verhuizing binnen dezelfde stad of een grootschalige internationale verhuizing, we hebben de middelen en flexibiliteit om aan uw eisen te voldoen.</p>
 <h3>Betrouwbaarheid</h3><p>Bij HJ Verhuizing kunt u rekenen op betrouwbaarheid en punctualiteit. We komen onze afspraken na en streven ernaar om uw waardevolle bezittingen veilig en op tijd op de plaats van bestemming te krijgen.</p>

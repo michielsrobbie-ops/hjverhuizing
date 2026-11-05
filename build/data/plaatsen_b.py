@@ -71,10 +71,10 @@ PLAATSEN["nieuwleusen"] = {
   ("Wat is Palthelanden?", "<p>Een nieuwe woonwijk die de gemeente Dalfsen voorbereidt in Nieuwleusen, tussen de Burgemeester Backxlaan, het Molenpad en de Paltheweg. Er komen ongeveer 600 woningen, te bouwen in de periode 2026 tot 2035.</p>"),
  ],
  "bronnen": [
-  ("Gemeente Dalfsen: raadsmemo ontwikkeling Palthelanden Nieuwleusen (mei 2025)", "https://secure-dalfsen.gemeenteoplossingen.nl/Raadsinformatie/Raadsmemo-Ontwikkeling-Palthelanden-Nieuwleusen-20250501.pdf"),
   ("Gemeente Dalfsen: verhuizing doorgeven", "https://www.dalfsen.nl/verhuizing-doorgeven"),
   ("Gemeente Dalfsen: GRIP (Grondstoffen Inleverpunt)", "https://www.dalfsen.nl/grip-grondstoffen-inleverpunt"),
   ("Gemeente Dalfsen: parkeren van grote voertuigen", "https://www.dalfsen.nl/parkeren-van-grote-voertuigen"),
+  ("Gemeente Dalfsen: Palthelanden", "https://www.dalfsen.nl/palthelanden"),
   ("Gemeente Dalfsen: voorwerp plaatsen op of aan de weg", "https://www.dalfsen.nl/voorwerp-plaatsen-op-of-aan-de-weg"),
   ("Gemeente Dalfsen: Uitvoeringsbesluit Afvalstoffenverordening 2022", "https://lokaleregelgeving.overheid.nl/CVDR665660"),
   ("Wikipedia: Nieuwleusen (geschiedenis, Den Hulst, coördinaten)", "https://en.wikipedia.org/wiki/Nieuwleusen"),

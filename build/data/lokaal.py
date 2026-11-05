@@ -172,7 +172,7 @@ LOKAAL["kampen"] = {
   ("Gemeente Kampen: voorwerpen op de openbare weg plaatsen", "https://www.kampen.nl/voorwerpen-op-de-openbare-weg-plaatsen"),
   ("Gemeente Kampen: milieustraat", "https://www.kampen.nl/milieustraat"),
   ("Recycling Kampen", "https://recyclingkampen.nl/"),
-  ("Gemeente Kampen: gebiedsvisie Reevedelta", "https://www.kampen.nl/file/gebiedsvisie-reevedelta-samenvatting"),
+  ("Gemeente Kampen: Reevedelta", "https://www.kampen.nl/reevedelta-samen-het-mooiste-gebied-van-kampen-ontwikkelen"),
   ("Bestemmingsplan Kampen: beschermd stadsgezicht", "https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.0166.00991274-VB02/b_NL.IMRO.0166.00991274-VB02_tb7.pdf"),
  ],
 }

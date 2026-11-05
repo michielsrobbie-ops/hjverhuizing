@@ -116,7 +116,6 @@ PLAATSEN["ijsselmuiden"] = {
  "bronnen": [
   ("Gemeente Kampen: De Bakkerij", "https://www.kampen.nl/de-bakkerij"),
   ("Gemeente Kampen: werkzaamheden De Bakkerij van start", "https://www.kampen.nl/werkzaamheden-voor-nieuwe-woonwijk-de-bakkerij-in-ijsselmuiden-van-start"),
-  ("Gemeente Kampen: Sonnenbergkwartier", "https://www.kampen.nl/sonnenbergkwartier"),
   ("Gemeente Kampen: Drostenerf", "https://www.kampen.nl/drostenerf"),
   ("Gemeente Kampen: verhuizing doorgeven", "https://www.kampen.nl/verhuizing-doorgeven"),
   ("Gemeente Kampen: voorwerpen op de openbare weg plaatsen", "https://www.kampen.nl/voorwerpen-op-de-openbare-weg-plaatsen"),
