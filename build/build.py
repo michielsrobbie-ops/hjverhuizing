@@ -20,7 +20,7 @@ DATA = ROOT / "build" / "data"
 C = json.load(open(DATA / "content.json"))
 IMG = json.load(open(ROOT / "build" / "images.json"))
 TODAY = datetime.date.today().isoformat()
-VERSION = "20261031"  # ophogen bij elke wijziging aan css/js (cache)
+VERSION = "20261105"  # ophogen bij elke wijziging aan css/js (cache)
 
 # ------------------------------------------------------------------ bedrijfsgegevens
 BASE = "https://hjverhuizing.nl"
@@ -32,7 +32,8 @@ STREET, ZIP, CITY = "Kerkstraat 40", "8051 GN", "Hattem"
 HOURS = "Ma t/m za: 9:00 - 20:00"
 WA = "https://wa.me/31648577705?text=" + "Hallo%20team%20van%20HJ%20Verhuizing%2C%20ik%20zoek%20een%20vakkundig%20verhuisbedrijf.%20Kunt%20u%20contact%20met%20mij%20opnemen%3F"
 # Google-tags die op de huidige site draaien (Site Kit, MonsterInsights, PixelYourSite)
-GTAGS = ["GT-MK4HJNPV", "G-W2LXQPG225", "AW-16718229948", "AW-8464378947"]
+# AW-8464378947 is weggehaald: dat was het klantnummer van het Ads-account (846-437-8947), geen tag-ID
+GTAGS = ["GT-MK4HJNPV", "G-W2LXQPG225", "AW-16718229948"]
 
 SERVICES = [  # slug, menunaam, korte omschrijving (van de huidige homepage), icoon, pagina-id
     ("particuliere-verhuizing", "Particuliere verhuizing", "Zorgeloos overstappen naar uw nieuwe thuis met onze vakkundige en persoonlijke aanpak.", "home", "1577"),
