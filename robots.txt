@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /verzend.php
+Disallow: /bedankt/
+
+Sitemap: https://hjverhuizing.nl/sitemap.xml
