@@ -20,7 +20,7 @@ DATA = ROOT / "build" / "data"
 C = json.load(open(DATA / "content.json"))
 IMG = json.load(open(ROOT / "build" / "images.json"))
 TODAY = datetime.date.today().isoformat()
-VERSION = "20261105"  # ophogen bij elke wijziging aan css/js (cache)
+VERSION = "20261105b"  # ophogen bij elke wijziging aan css/js (cache)
 
 # ------------------------------------------------------------------ bedrijfsgegevens
 BASE = "https://hjverhuizing.nl"

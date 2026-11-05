@@ -54,7 +54,11 @@
   /* ---------- klikken op bellen / WhatsApp meten ---------- */
   document.addEventListener("click", function (e) {
     var a = e.target.closest("[data-track]");
-    if (a) track(a.getAttribute("data-track") === "whatsapp" ? "whatsapp_klik" : "bel_klik", { link_url: a.href, pagina: location.pathname });
+    if (!a) return;
+    var wa = a.getAttribute("data-track") === "whatsapp";
+    track(wa ? "whatsapp_klik" : "bel_klik", { link_url: a.href, pagina: location.pathname });
+    // Google Ads-conversies "WhatsApp-klik website" en "Bel-klik website" (account 846-437-8947)
+    track("conversion", { send_to: wa ? "AW-16718229948/-uaHCPHX0LIdELzj76M-" : "AW-16718229948/c90PCO7X0LIdELzj76M-" });
   });
 
   /* ---------- formulieren: tijdscheck + nette foutmelding ---------- */
