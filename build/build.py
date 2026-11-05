@@ -288,6 +288,7 @@ def head(title, desc, path, og_img="team-laadt-verhuiswagen", schema=None, noind
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="s4vVQVV3n0cSMQYwHKbhDIfkVoGnxXrPpo7ZTuNKd9o">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
 {robots}
