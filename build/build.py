@@ -61,7 +61,7 @@ PLACES = [{"slug": s_, "naam": n_, "regio": OUD_REGIO[s_], "coord": COORD.get(s_
          [{"slug": k, "naam": v["naam"], "regio": v["regio"], "coord": tuple(v["coord"])} for k, v in NIEUW.items()]
 PLACES.sort(key=lambda x: x["naam"])
 REGIO_ORDER = ["Regio Zwolle", "Veluwe", "Noord-Veluwe", "Salland", "Kop van Overijssel"]
-TOP = ["zwolle", "kampen", "hattem", "apeldoorn", "deventer", "harderwijk", "meppel", "elburg", "heerde", "raalte"]
+TOP = ["zwolle", "kampen", "hattem", "elburg", "wezep", "heerde", "oldebroek", "apeldoorn", "deventer", "meppel"]
 HOME_C = COORD.get("hattem")
 
 def km(a, b):
@@ -115,7 +115,7 @@ SERVICE_FAQ = {
 
 # Titels en meta-omschrijvingen (Rank Math-waarden, opgeschoond waar ze kapot of leeg waren)
 SEO = {
- "home": ("Verhuisbedrijf regio Zwolle | Vakkundig & schadevrij", "Vakkundig verhuisbedrijf in regio Zwolle, Hattem en Kampen. (De)montage, inpakservice en verhuislift, schadevrij en transparant. Vraag een offerte aan."),
+ "home": ("Verhuisbedrijf Zwolle en omgeving | HJ Verhuizing uit Hattem", "Verhuisbedrijf in Zwolle, Kampen en de Veluwe. Eigen verhuislift, (de)montage en inpakservice, schadevrij en ook in het weekend. Binnen 24 uur reactie op uw aanvraag."),
  "over-ons": ("Over ons | Uw verhuizer in regio Zwolle | HJ Verhuizing", "Maak kennis met HJ Verhuizing: twee gedreven ondernemers met een vakkundig team in regio Zwolle, Kampen en de Noord-Veluwe. Persoonlijk, snel en flexibel."),
  "diensten": ("Verhuisdiensten: particulier, zakelijk & spoed | HJ Verhuizing", "Alle verhuisdiensten van HJ Verhuizing: particuliere en zakelijke verhuizingen, spoed, senioren, ontruiming, inpakservice, (de)montage en verhuismaterialen."),
  "contact": ("Contact & offerte aanvragen | HJ Verhuizing", "Neem contact op met HJ Verhuizing voor een vrijblijvende offerte op maat. Bel 06 48 57 77 05, mail info@hjverhuizing.nl of vul het formulier in."),
@@ -128,13 +128,13 @@ SEO = {
  "demontage-service": ("(De)montageservice voor meubels | HJ Verhuizing", "Meubels laten demonteren en monteren bij uw verhuizing? Dankzij onze bouwkundige achtergrond staat alles weer stevig en kaarsrecht in uw nieuwe woning."),
  "ontruiming": ("Woningontruiming, bezemschoon opgeleverd | HJ Verhuizing", "Woningontruiming of bedrijfspand ontruimen? HJ Verhuizing zorgt voor een respectvolle en discrete ontruiming met bezemschone oplevering."),
  "verhuisbenodigdheden": ("Verhuisdozen en verhuisdekens huren | HJ Verhuizing", "Verhuisbenodigdheden nodig? Huur stevige verhuisdozen en verhuisdekens bij HJ Verhuizing en krijg noppenfolie, tape en hoekbeschermers erbij."),
- "verhuisbedrijf-zwolle": ("Verhuisbedrijf Zwolle | Vakkundig & schadevrij | HJ Verhuizing", "Verhuisbedrijf Zwolle nodig? HJ Verhuizing biedt vakkundige (de)montage, inpakservice en verhuislift. Schadevrij en transparant. Vraag direct een offerte aan."),
- "verhuisbedrijf-hattem": ("Verhuisbedrijf Hattem: vakkundige hulp | HJ Verhuizing", "Verhuisbedrijf Hattem nodig? Kies voor de vakkundige hulp van HJ Verhuizing, met lokale kennis van de Hanzestad en een verhuislift. Vraag een offerte aan."),
- "verhuisbedrijf-wezep": ("Verhuisbedrijf Wezep: vakkundige hulp | HJ Verhuizing", "Verhuisbedrijf Wezep? Kies voor de vakkundige service van HJ Verhuizing. Wij regelen uw verhuizing op de Veluwe zorgeloos en snel. Vraag nu uw offerte aan."),
- "verhuisbedrijf-kampen": ("Verhuisbedrijf Kampen: vakkundige hulp | HJ Verhuizing", "Verhuisbedrijf Kampen nodig? HJ Verhuizing is uw vakkundige partner in Overijssel. Van de binnenstad tot de nieuwbouw: hulp bij elke verhuizing."),
- "verhuisbedrijf-oldebroek": ("Verhuisbedrijf Oldebroek: vakkundige hulp | HJ Verhuizing", "Verhuisbedrijf Oldebroek? Kies voor de vakkundige service van HJ Verhuizing. Wij regelen uw verhuizing op de Veluwe zorgeloos en snel. Vraag uw offerte aan."),
- "verhuisbedrijf-heerde": ("Verhuisbedrijf Heerde: vakkundige hulp | HJ Verhuizing", "Verhuisbedrijf Heerde nodig? HJ Verhuizing is uw vakkundige partner op de Veluwe. Van inpakservice tot verhuislift: wij regelen alles. Vraag een offerte aan."),
- "verhuisbedrijf-elburg": ("Verhuisbedrijf Elburg: zorg voor uw inboedel | HJ Verhuizing", "Verhuisbedrijf Elburg nodig? HJ Verhuizing biedt vakkundige (de)montage, inpakservice en verhuislift. Schadevrij en zorgeloos verhuizen. Vraag een offerte aan."),
+ "verhuisbedrijf-zwolle": ("Verhuizen in Zwolle: milieuzone, parkeren en wijken | HJ Verhuizing", "Gaat u verhuizen in Zwolle? Lees wat u regelt rond de zero-emissiezone, de pollers en het parkeren in de binnenstad, en hoe HJ Verhuizing uit Hattem uw verhuizing uitvoert."),
+ "verhuisbedrijf-hattem": ("Verhuisbedrijf Hattem | Het verhuisbedrijf uit Hattem zelf", "HJ Verhuizing is gevestigd in Hattem en kent de Hanzestad als geen ander. Eigen verhuislift, (de)montage en inpakservice, schadevrij en ook in het weekend. Vraag een gratis offerte aan."),
+ "verhuisbedrijf-wezep": ("Verhuisbedrijf Wezep | Vakkundig en dichtbij | HJ Verhuizing", "Verhuizen in Wezep? HJ Verhuizing uit Hattem is binnen tien minuten bij u: eigen verhuislift, (de)montage en inpakservice, ook in het weekend. Vraag een gratis offerte aan."),
+ "verhuisbedrijf-kampen": ("Verhuisbedrijf Kampen | Vakkundig en dichtbij | HJ Verhuizing", "Verhuizen in Kampen of IJsselmuiden? HJ Verhuizing uit Hattem zit om de hoek: eigen verhuislift, (de)montage en inpakservice, ook in het weekend. Vraag een gratis offerte aan."),
+ "verhuisbedrijf-oldebroek": ("Verhuisbedrijf Oldebroek | Vakkundig en dichtbij | HJ Verhuizing", "Verhuizen in Oldebroek? HJ Verhuizing uit Hattem is zo bij u: eigen verhuislift, (de)montage en inpakservice, schadevrij en ook in het weekend. Vraag een gratis offerte aan."),
+ "verhuisbedrijf-heerde": ("Verhuisbedrijf Heerde | Vakkundig en dichtbij | HJ Verhuizing", "Verhuizen in Heerde of Wapenveld? HJ Verhuizing uit Hattem zit vlakbij: eigen verhuislift, (de)montage en inpakservice, schadevrij en ook in het weekend. Vraag een gratis offerte aan."),
+ "verhuisbedrijf-elburg": ("Verhuisbedrijf Elburg | Schadevrij verhuizen, dichtbij | HJ Verhuizing", "Verhuizen in Elburg? HJ Verhuizing uit Hattem verhuist u schadevrij: eigen verhuislift, (de)montage en inpakservice, ook in het weekend. Binnen 24 uur reactie op uw aanvraag."),
  "verhuisbedrijf-wapenveld": ("Verhuisbedrijf Wapenveld: vakkundige hulp | HJ Verhuizing", "Verhuisbedrijf Wapenveld? Kies voor de vakkundige service van HJ Verhuizing. Wij regelen uw verhuizing op de Veluwe zorgeloos en snel. Vraag uw offerte aan."),
  "verhuisbedrijf-zalk": ("Verhuisbedrijf Zalk: vakkundige hulp | HJ Verhuizing", "Verhuisbedrijf Zalk? Kies voor de vakkundige service van HJ Verhuizing. Wij regelen uw verhuizing in de IJsseldelta zorgeloos en snel. Vraag uw offerte aan."),
  "internationaal-verhuizen": ("Internationaal verhuizen vanuit Nederland | HJ Verhuizing", "Internationale verhuizing vanuit Zwolle? Van Duitsland tot België regelt HJ Verhuizing uw transport over de grens vakkundig. Vraag een offerte aan."),
@@ -453,7 +453,7 @@ def werkgebied_svg(highlight=None, compact=False):
 def areas_section(mist=False, exclude=None, title="Verhuisbedrijf in uw regio"):
     groups = []
     for r in REGIO_ORDER:
-        ps = [p for p in PLACES if p["regio"] == r and p["slug"] != exclude]
+        ps = sorted([p for p in PLACES if p["regio"] == r and p["slug"] != exclude], key=lambda p: km(HOME_C, p["coord"]))
         if ps:
             groups.append(f'<div class="area-group"><h3>{r}</h3><ul class="areas">' + "".join(f'<li><a href="{place_link(p)}">{icon("pin")}{p["naam"]}</a></li>' for p in ps) + "</ul></div>")
     return f'''<section class="section section--tight{" section--mist" if mist else ""}" aria-labelledby="werkgebied"><div class="wrap">
@@ -571,7 +571,7 @@ def post_title(slug):
 # ---- home
 def build_home():
     hero = f'''<section class="hero hero--home"><div class="hero__media">{img("kennismaking-voordeur", eager=True, alt="")}</div><div class="wrap">
-<h1>Uw vakkundig <span class="hl">verhuisbedrijf<svg viewBox="0 0 300 20" preserveAspectRatio="none" aria-hidden="true"><path d="M4 14C60 5 170 3 296 9"/></svg></span> regio Zwolle</h1>
+<h1>Uw vakkundig <span class="hl">verhuisbedrijf<svg viewBox="0 0 300 20" preserveAspectRatio="none" aria-hidden="true"><path d="M4 14C60 5 170 3 296 9"/></svg></span> in Zwolle en omgeving</h1>
 <p class="hero__lead">HJ Verhuizing: uw vakkundige partner voor particuliere en zakelijke verhuizingen. Regio Zwolle en Noord-Veluwe; wij regelen het zware werk met zorg en precisie.</p>
 <div class="btn-row"><a class="btn" href="#prijsopgave">Gratis offerte aanvragen</a><a class="btn btn--ghost" href="tel:{PHONE}" data-track="bellen">{icon("phone")}Bel {PHONE_SHOW}</a></div>
 </div></section>
@@ -640,7 +640,7 @@ def build_city(slug, city, pid):
     mp = f'<figure class="map-fig">{werkgebied_svg(slug)}<figcaption>{city} in ons werkgebied rond Hattem. <a href="/werkgebied/">Bekijk alle plaatsen</a></figcaption></figure>'
     L = LOKAAL.get(slug)
     article = f'''<section class="section"><div class="wrap page-grid">
-<article class="prose">{img(D["img"], "(max-width:1000px) 100vw, 60vw", cls="article-img")}{render_parts(D["parts"])}
+<article class="prose">{img(D["img"], "(max-width:1000px) 100vw, 60vw", cls="article-img")}{'<p>Zoekt u een <a href="/">verhuisbedrijf voor Zwolle en omgeving</a>? HJ Verhuizing uit Hattem verhuist dagelijks in Zwolle. Op deze pagina leest u wat er in Zwolle zelf komt kijken bij een verhuizing: de zero-emissiezone, de pollers en het parkeren in de binnenstad.</p>' if slug == "zwolle" else ''}{render_parts(D["parts"])}
 <p class="also">Ook voor {city}: {", ".join(f'<a href="/diensten/{s}/">{n.lower() if not n.startswith("(") else n}</a>' for s, n, *_ in SERVICES)}.</p></article>
 {sidebar(path, links)}
 </div></section>
@@ -652,7 +652,8 @@ def build_city(slug, city, pid):
     else:
         faq = D["faq"]
         faq = [(q, FAQ_GENERAL["checklist"][1] if "checklist" in q.lower() else a) for q, a in faq]
-    body = hero_page(tidy_title(D["title"]), D["lead"], crumbs, D["bg"]) + article
+    h1 = "Verhuizen in Zwolle: lokale kennis van HJ Verhuizing" if slug == "zwolle" else tidy_title(D["title"])
+    body = hero_page(h1, D["lead"], crumbs, D["bg"]) + article
     if faq: body += faq_section(faq, D["faq_title"], re.sub(r"06-48577705", f'<a href="tel:{PHONE}" data-track="bellen">06-48577705</a>', D["faq_intro"] or ""), mist=True)
     body += reviews_section() + cta_band("verhuiswagen-dozen")
     t, d = SEO[f"verhuisbedrijf-{slug}"]
