@@ -6,7 +6,12 @@
  *  1. honeypot: het verborgen veld "website" moet leeg zijn
  *  2. tijdscheck: wie binnen 3 seconden na het laden verstuurt, is een bot
  *  3. linkfilter: berichten met meer dan 3 links worden niet doorgestuurd
+ *  4. herkomst: de aanvraag moet vanaf hjverhuizing.nl zelf komen (Origin/Referer)
+ *  5. limiet: hoogstens 3 aanvragen per uur per IP-adres
+ *  6. blokkadelijst: IP-adressen in $BLOKKEER_IP worden altijd geweigerd
  * Bots krijgen gewoon de bedankpagina te zien, zodat ze niet merken dat ze zijn tegengehouden.
+ * Elke poging (ook de geblokkeerde) komt met IP, browser en reden in het logbestand
+ * ../hj-formulier.log (buiten public_html, dus niet via de site op te vragen).
  */
 
 date_default_timezone_set('Europe/Amsterdam');
@@ -20,6 +25,10 @@ $MAX_BEVESTIGINGEN_PER_UUR = 3;                 // per IP-adres, tegen misbruik
 $AFZENDER   = 'info@hjverhuizing.nl';           // bestaand mailadres op het eigen domein (Hostinger eist dat)
 $BEDANKT    = '/bedankt/';
 $MIN_SECONDEN = 3;
+$MAX_AANVRAGEN_PER_UUR = 3;                     // per IP-adres
+$BLOKKEER_IP = [                                // exacte adressen of een begin zoals '185.220.'
+];
+$LOG = dirname(__DIR__) . '/hj-formulier.log';  // naast public_html
 
 // ---------------------------------------------------------------- helpers
 function veld($naam, $max = 2000) {
@@ -35,6 +44,23 @@ function terug($pad, $fout = null) {
     header('Location: ' . $doel, true, 303);
     exit;
 }
+function ip() { return $_SERVER['REMOTE_ADDR'] ?? '?'; }
+function kop($naam) { return enkel((string) ($_SERVER[$naam] ?? '')); }
+function log_poging($status) {
+    global $LOG;
+    $r = [date('Y-m-d H:i:s'), $status, ip(), enkel(veld('formulier', 30)), enkel(veld('naam', 120)), enkel(veld('email', 200)),
+          enkel(veld('telefoon', 40)), kop('HTTP_REFERER'), kop('HTTP_USER_AGENT')];
+    @file_put_contents($LOG, implode("\t", str_replace("\t", ' ', $r)) . "\n", FILE_APPEND | LOCK_EX);
+}
+function blokkeer($status) { log_poging($status); terug($GLOBALS['BEDANKT']); }    // bot: stil naar de bedankpagina
+function teller($soort, $max) {                                                    // pogingen per IP per uur
+    $f = sys_get_temp_dir() . '/hj_' . $soort . '_' . md5(ip());
+    $nu = time(); $lijst = [];
+    if (is_file($f)) { $lijst = array_filter(array_map('intval', explode(',', (string) @file_get_contents($f))), fn($t) => $t > $nu - 3600); }
+    if (count($lijst) >= $max) return false;
+    $lijst[] = $nu; @file_put_contents($f, implode(',', $lijst));
+    return true;
+}
 
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') { header('Location: /', true, 302); exit; }
 
@@ -43,9 +69,14 @@ $honeypot = veld('website', 200);
 $ts = (int) veld('ts', 20);
 $nu = (int) round(microtime(true) * 1000);
 
-if ($honeypot !== '') { terug($BEDANKT); }                                        // bot
-if ($ts > 0 && ($nu - $ts) < $MIN_SECONDEN * 1000) { terug($BEDANKT); }            // te snel
-// ts ontbreekt (javascript uit): toegestaan, de honeypot vangt de meeste bots al af
+foreach ($BLOKKEER_IP as $b) { if ($b !== '' && strpos(ip(), $b) === 0) blokkeer('geblokkeerd-ip'); }
+if ($honeypot !== '') blokkeer('honeypot');
+if ($ts <= 0) blokkeer('geen-tijdstempel');                                        // formulier niet via de pagina (javascript) verstuurd
+if (($nu - $ts) < $MIN_SECONDEN * 1000) blokkeer('te-snel');
+if (($nu - $ts) > 86400 * 1000) blokkeer('tijdstempel-oud');                       // ouder dan een dag of hergebruikt
+$herkomst = kop('HTTP_ORIGIN') ?: kop('HTTP_REFERER');
+if ($herkomst !== '' && !preg_match('#^https?://(www\.)?hjverhuizing\.nl(/|$)#i', $herkomst)) blokkeer('andere-site');
+if (!teller('aanvraag', $MAX_AANVRAGEN_PER_UUR)) blokkeer('limiet');
 
 // ---------------------------------------------------------------- velden
 $formulier = enkel(veld('formulier', 30));
@@ -58,7 +89,7 @@ $onderwerp = enkel(veld('onderwerp', 150));
 $bedrijf   = enkel(veld('bedrijf', 150));
 $bericht   = veld('bericht', 5000);
 
-if (preg_match_all('#https?://|www\.#i', $bericht) > 3) { terug($BEDANKT); }       // linkspam
+if (preg_match_all('#https?://|www\.#i', $bericht) > 3) blokkeer('linkspam');
 
 if ($telefoon === '' || !filter_var($email, FILTER_VALIDATE_EMAIL) || ($formulier !== 'quick' && $naam === '')) {
     terug(null, 'velden');
@@ -81,7 +112,13 @@ $regels = [
 $tekst = '';
 foreach ($regels as $k => $v) { if ($v !== '') $tekst .= str_pad($k . ':', 11) . $v . "\n"; }
 if ($bericht !== '') $tekst .= "\nBericht:\n" . $bericht . "\n";
-$tekst .= "\n--\nVerzonden op " . date('d-m-Y H:i') . " vanaf IP " . ($_SERVER['REMOTE_ADDR'] ?? '?') . "\n";
+$verdacht = $herkomst === '' || kop('HTTP_USER_AGENT') === '' || preg_match('#https?://|www\.#i', $naam . $telefoon . $postcode);
+if ($verdacht) $onderwerpMail = '[Verdacht] ' . $onderwerpMail;
+$tekst .= "\n--\nVerzonden op " . date('d-m-Y H:i') . " vanaf IP " . ip()
+        . "\nBrowser:   " . (kop('HTTP_USER_AGENT') ?: '(leeg)')
+        . "\nTaal:      " . (kop('HTTP_ACCEPT_LANGUAGE') ?: '(leeg)')
+        . "\nHerkomst:  " . ($herkomst ?: '(leeg)')
+        . "\nWie is dit IP: https://ipinfo.io/" . ip() . "\n";
 
 $headers = [
     'From: HJ Verhuizing website <' . $AFZENDER . '>',
@@ -95,20 +132,13 @@ $subject = '=?UTF-8?B?' . base64_encode($onderwerpMail) . '?=';
 
 if ($BCC) { $headers[] = 'Bcc: ' . implode(', ', $BCC); }
 $ok = mail($AAN, $subject, $tekst, implode("\r\n", $headers), '-f' . $AFZENDER);
-if (!$ok) { terug(null, 'mail'); }
+if (!$ok) { log_poging('mail-mislukt'); terug(null, 'mail'); }
+log_poging($verdacht ? 'verdacht' : 'ok');
 
 // ---------------------------------------------------------------- automatische bevestiging aan de klant
 // Bewust zonder de ingevulde tekst van de klant: zo kan het formulier niet misbruikt worden om
 // willekeurige berichten naar andermans adres te sturen. Plus een limiet per IP-adres.
-function mag_bevestigen($ip, $max) {
-    $f = sys_get_temp_dir() . '/hj_bevestiging_' . md5($ip);
-    $nu = time(); $lijst = [];
-    if (is_file($f)) { $lijst = array_filter(array_map('intval', explode(',', (string) @file_get_contents($f))), fn($t) => $t > $nu - 3600); }
-    if (count($lijst) >= $max) return false;
-    $lijst[] = $nu; @file_put_contents($f, implode(',', $lijst));
-    return true;
-}
-if ($BEVESTIGING && mag_bevestigen($_SERVER['REMOTE_ADDR'] ?? '', $MAX_BEVESTIGINGEN_PER_UUR)) {
+if ($BEVESTIGING && teller('bevestiging', $MAX_BEVESTIGINGEN_PER_UUR)) {
     $voornaam = preg_match('/^[\p{L} .\'-]{2,60}$/u', $naam) ? $naam : '';
     $aanhef = $voornaam !== '' ? 'Beste ' . $voornaam . ',' : 'Goedendag,';
     $bericht_klant = $aanhef . "\n\n"
