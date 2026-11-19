@@ -98,6 +98,15 @@ if (preg_match_all('#https?://|www\.#i', $bericht) > 3) blokkeer('linkspam');
 if ($telefoon === '' || !filter_var($email, FILTER_VALIDATE_EMAIL) || ($formulier !== 'quick' && $naam === '')) {
     terug(null, 'velden');
 }
+// telefoonnummer: Nederlands = 10 cijfers met 0 vooraan, of +31/0031 en 9 cijfers; buitenlands = + en 8 tot 15 cijfers
+function telefoon_ok($v) {
+    $v = trim($v); $d = preg_replace('/\D/', '', $v);
+    if (strpos($d, '0031') === 0) $d = '0' . substr($d, 4);
+    elseif (strpos($d, '31') === 0 && $v[0] === '+') $d = '0' . substr($d, 2);
+    if ($d !== '' && $d[0] === '0') return strlen($d) === 10;
+    return $v[0] === '+' && strlen($d) >= 8 && strlen($d) <= 15;
+}
+if (!telefoon_ok($telefoon)) { log_poging('telefoon-ongeldig'); terug(null, 'telefoon'); }
 
 // ---------------------------------------------------------------- mail
 $soort = ['quick' => 'Prijsopgave (homepage)', 'offerte' => 'Offerteaanvraag', 'contact' => 'Contactformulier'][$formulier] ?? 'Formulier';

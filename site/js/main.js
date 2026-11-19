@@ -65,7 +65,16 @@
     track("conversion", { send_to: wa ? "AW-16718229948/-uaHCPHX0LIdELzj76M-" : "AW-16718229948/c90PCO7X0LIdELzj76M-" });
   });
 
-  /* ---------- formulieren: tijdscheck + nette foutmelding ---------- */
+  /* ---------- formulieren: tijdscheck + telefooncontrole + nette foutmelding ---------- */
+  // Nederlands nummer: 10 cijfers die met 0 beginnen, of +31/0031 en dan 9 cijfers; buitenlands: + en 8 tot 15 cijfers
+  var TEL_FOUT = "Controleer uw telefoonnummer: een Nederlands nummer heeft 10 cijfers, bijvoorbeeld 06 12 34 56 78.";
+  function telefoonOk(v) {
+    var d = v.replace(/\D/g, "");
+    if (/^0031/.test(d)) d = "0" + d.slice(4);
+    else if (/^31/.test(d) && /^\+/.test(v.trim())) d = "0" + d.slice(2);
+    if (/^0/.test(d)) return d.length === 10;
+    return /^\+/.test(v.trim()) && d.length >= 8 && d.length <= 15;
+  }
   var started = Date.now();
   $$(".hj-form").forEach(function (f) {
     var ts = $("input[name=ts]", f);
@@ -73,6 +82,8 @@
     f.addEventListener("submit", function (e) {
       var status = $(".form-status", f);
       if (!f.checkValidity()) { e.preventDefault(); f.reportValidity(); return; }
+      var tel = $("input[name=telefoon]", f);
+      if (tel && !telefoonOk(tel.value)) { e.preventDefault(); if (status) status.textContent = TEL_FOUT; tel.focus(); return; }
       if (Date.now() - started < 3000) { e.preventDefault(); if (status) status.textContent = "Een moment geduld, probeer het over een paar seconden opnieuw."; return; }
       var btn = $("button[type=submit]", f);
       if (btn) { btn.disabled = true; btn.textContent = "Bezig met versturen…"; }
@@ -86,7 +97,7 @@
   // foutmelding van de server (verzend.php stuurt terug met ?fout=...)
   var fout = new URLSearchParams(location.search).get("fout");
   if (fout) {
-    var msg = { velden: "Vul alstublieft uw naam, telefoonnummer en een geldig e-mailadres in.", mail: "Het versturen is niet gelukt. Bel ons gerust op 06 48 57 77 05 of mail naar info@hjverhuizing.nl." }[fout];
+    var msg = { velden: "Vul alstublieft uw naam, telefoonnummer en een geldig e-mailadres in.", telefoon: TEL_FOUT, mail: "Het versturen is niet gelukt. Bel ons gerust op 06 48 57 77 05 of mail naar info@hjverhuizing.nl." }[fout];
     var f1 = $(".hj-form"); if (msg && f1) { $(".form-status", f1).textContent = msg; f1.scrollIntoView({ block: "center" }); }
   }
 
