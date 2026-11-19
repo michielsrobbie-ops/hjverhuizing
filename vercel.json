@@ -1,0 +1,75 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": "site",
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/:path*", "has": [{ "type": "host", "value": "www.hjverhuizing.nl" }], "destination": "https://hjverhuizing.nl/:path*", "permanent": true },
+    { "source": "/index.html", "destination": "/", "permanent": true },
+    { "source": "/:path*/index.html", "destination": "/:path*/", "permanent": true },
+    { "source": "/verzend.php", "destination": "/", "permanent": false },
+
+    { "source": "/feed", "destination": "/kennisbank/", "permanent": true },
+    { "source": "/comments/feed", "destination": "/kennisbank/", "permanent": true },
+    { "source": "/:slug/feed", "destination": "/kennisbank/", "permanent": true },
+    { "source": "/category/:path*", "destination": "/kennisbank/", "permanent": true },
+    { "source": "/author/:path*", "destination": "/kennisbank/", "permanent": true },
+    { "source": "/blog", "destination": "/kennisbank/", "permanent": true },
+    { "source": "/home", "destination": "/", "permanent": true },
+    { "source": "/homepage", "destination": "/", "permanent": true },
+    { "source": "/elementor-:id(\\d+)", "destination": "/", "permanent": true },
+    { "source": "/index.php", "destination": "/", "permanent": true },
+    { "source": "/:slug(particuliere-verhuizing|bedrijfsverhuizing|spoedverhuizing|seniorenverhuizing|in-en-uitpak-service|demontage-service|ontruiming|verhuisbenodigdheden)", "destination": "/diensten/:slug/", "permanent": true },
+    { "source": "/:naam(sitemap_index|page-sitemap|post-sitemap|author-sitemap).xml", "destination": "/sitemap.xml", "permanent": true },
+
+    { "source": "/wp-content/uploads/2023/12/closeup-man-carrying-cardboard-boxes-while-relocating-into-new-apartment-scaled:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuisdozen-dragen-1600.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2024/06/002:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuizers-voordeur-1393.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2024/06/003-1:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/kennismaking-voordeur-1600.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2024/06/75-1:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuizer-met-doos-1600.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2024/06/75-scaled:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuizer-met-doos-staand-1600.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/01/IMG_6479:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuizer-uitgesneden-704.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/01/boxes-in-new-home:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/dozen-nieuwe-woning-1280.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/01/moving-a-young-couple-3-e1670171915618:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/stel-tussen-verhuisdozen-1280.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/01/moving:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/stel-lege-woning-1280.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/deventer-verhuisbedrijf:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuizer-steekwagen-woonkamer-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/senioren-verhuis:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuiswagen-laden-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/verhuis-zwolle:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuiswagen-laden-2-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/verhuisbedrijf-hattem:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuiswagen-laden-3-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/verhuisbedrijf-meppel:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuizer-draagt-doos-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/verhuisbedrijf-zwolle:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/team-laadt-verhuiswagen-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/verhuisservice-hattem:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuizer-verhuisdoos-binnen-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/verhuisservice-meppel:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/spiegel-dragen-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/verhuisservice-zwolle:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/kast-dragen-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/verhuizing-1:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/meubel-dragen-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/verhuizing-e1781340699453:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/hj-verhuizing-shirt-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/verhuizing-hattem:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuiswagen-dozen-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/verhuizing-zwolle:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuiswagen-laden-4-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/zwolle-verhuisdienst:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/verhuiswagen-vol-1536.webp", "permanent": true },
+    { "source": "/wp-content/uploads/2026/06/zwolle-verhuisservice:maat(-\\d+x\\d+)?.:ext(jpe?g|png|webp)", "destination": "/img/steekwagen-dozen-1536.webp", "permanent": true }
+  ],
+  "rewrites": [
+    { "source": "/verzend.php", "destination": "/api/verzend" },
+    { "source": "/wp-admin/:path*", "destination": "/api/weg" },
+    { "source": "/wp-login.php", "destination": "/api/weg" },
+    { "source": "/xmlrpc.php", "destination": "/api/weg" },
+    { "source": "/wp-json/:path*", "destination": "/api/weg" },
+    { "source": "/wp-includes/:path*", "destination": "/api/weg" },
+    { "source": "/wp-content/:path*", "destination": "/api/weg" }
+  ],
+  "headers": [
+    { "source": "/(.*)", "headers": [
+      { "key": "Strict-Transport-Security", "value": "max-age=31536000; includeSubDomains" },
+      { "key": "X-Content-Type-Options", "value": "nosniff" },
+      { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
+      { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+      { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=()" }
+    ] },
+    { "source": "/:map(css|js|img|fonts)/:path*", "headers": [
+      { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+    ] },
+    { "source": "/:bestand(favicon.ico|favicon-32.png|apple-touch-icon.png|icon-192.png|icon-512.png)", "headers": [
+      { "key": "Cache-Control", "value": "public, max-age=2592000" }
+    ] }
+  ]
+}

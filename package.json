@@ -1,0 +1,9 @@
+{
+  "name": "hjverhuizing-website",
+  "private": true,
+  "description": "hjverhuizing.nl: statische site (site/, gebouwd met build/build.py) plus het formulier als Vercel-functie (api/verzend.js).",
+  "engines": { "node": "22.x" },
+  "dependencies": {
+    "nodemailer": "^7.0.0"
+  }
+}

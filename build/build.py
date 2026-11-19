@@ -874,6 +874,6 @@ for p, lm, pr in sorted(sitemap, key=lambda x: (-float(x[2]), x[0])):
     sm.append(f"<url><loc>{BASE}{p}</loc><lastmod>{lm}</lastmod><priority>{pr}</priority></url>")
 sm.append("</urlset>")
 (SITE / "sitemap.xml").write_text("\n".join(sm) + "\n")
-(SITE / "robots.txt").write_text(f"User-agent: *\nDisallow: /verzend.php\nDisallow: /bedankt/\n\nSitemap: {BASE}/sitemap.xml\n")
+(SITE / "robots.txt").write_text(f"User-agent: *\nDisallow: /api/\nDisallow: /verzend.php\nDisallow: /bedankt/\n\nSitemap: {BASE}/sitemap.xml\n")
 (SITE / "site.webmanifest").write_text(json.dumps({"name": NAME, "short_name": "HJ Verhuizing", "icons": [{"src": "/icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png"}], "theme_color": "#072C50", "background_color": "#ffffff", "display": "browser"}))
 print(f"{len(pages)} pagina's gebouwd, {len(sitemap)} in sitemap")

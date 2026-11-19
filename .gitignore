@@ -11,3 +11,7 @@ __pycache__/
 # lokaal workflow-bestand (hoort in .github/workflows/)
 /live.yml
 /.gitignore.tmp
+
+# Vercel-functie
+node_modules/
+.vercel/

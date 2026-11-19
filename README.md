@@ -27,3 +27,6 @@ De site staat sinds 5 nov 2026 live en deployt automatisch:
 
 Handmatig opnieuw uitrollen: hPanel > Geavanceerd > GIT > Herimplementeren.
 De oude WordPress-bestanden staan in `wp-oud/` naast `public_html` (terugzetten = inhoud terug verplaatsen).
+
+## Vercel (sinds nov 2026)
+De site kan ook op Vercel draaien: `vercel.json` (statisch uit `site/`, redirects, headers) en `api/verzend.js` (formulier, vervangt `site/verzend.php`). Env op Vercel: `SMTP_USER`, `SMTP_PASS` (mailbox info@ op Hostinger) of `RESEND_API_KEY`; optioneel `BLOKKEER_IP` (komma-gescheiden). Lokaal testen met `MAIL_DRYRUN=1`.

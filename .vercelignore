@@ -1,0 +1,7 @@
+build/
+docs/
+*.zip
+.github/
+README.md
+site/verzend.php
+site/.htaccess
