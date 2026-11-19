@@ -46,11 +46,15 @@ EXTRA = {
 <li><strong>Geef beide adressen en de verdiepingen door.</strong> Daarmee bepalen we hoeveel mensen en welk materieel nodig zijn, bijvoorbeeld een verhuislift.</li>
 <li><strong>Houd rekening met de straat.</strong> Een ontheffing van de gemeente voor parkeren of laden in de binnenstad heeft vaak een aanvraagtermijn. Bij spoed zoeken we samen naar een plek waar de wagen wel mag staan.</li>
 <li><strong>Laat inpakken aan ons over.</strong> Bij weinig tijd is inpakken vaak het knelpunt. Ons team kan dat voor u doen, met het juiste verhuismateriaal.</li>
-</ul>""",
+</ul>
+<h3>Spoedverhuizing in Zwolle, Kampen, Apeldoorn en op de Veluwe</h3>
+<p>Vanuit Hattem zijn wij snel ter plaatse in <a href="/verhuisbedrijf-zwolle/">Zwolle</a>, <a href="/verhuisbedrijf-kampen/">Kampen</a>, <a href="/verhuisbedrijf-heerde/">Heerde</a>, <a href="/verhuisbedrijf-elburg/">Elburg</a> en <a href="/verhuisbedrijf-wezep/">Wezep</a>, en werken we dagelijks in <a href="/verhuisbedrijf-apeldoorn/">Apeldoorn</a>, <a href="/verhuisbedrijf-deventer/">Deventer</a>, <a href="/verhuisbedrijf-meppel/">Meppel</a> en <a href="/verhuisbedrijf-harderwijk/">Harderwijk</a>. Korte rijtijden maken het verschil als het snel moet. Bekijk <a href="/werkgebied/">ons hele werkgebied</a>.</p>
+<p>Ook een <a href="/diensten/seniorenverhuizing/">seniorenverhuizing</a> moet soms ineens snel, bijvoorbeeld als er onverwacht een plek in een zorginstelling vrijkomt. Dan kunnen we de verhuizing combineren met het <a href="/diensten/ontruiming/">leeghalen van de oude woning</a>.</p>""",
  "faq": [
   ("Hoe snel kunnen jullie verhuizen?", "<p>Soms al binnen 24 uur. Het hangt af van onze planning op dat moment, maar we kijken altijd hoe we kunnen schuiven om u zo snel mogelijk te helpen. Bel ons direct op <a href=\"tel:+31648577705\">06 48 57 77 05</a>.</p>"),
   ("Is een spoedverhuizing minder zorgvuldig?", "<p>Nee. Snelheid gaat bij ons nooit ten koste van uw spullen. Onze verhuizers werken efficiënt en uiterst voorzichtig, ook onder tijdsdruk.</p>"),
   ("Kunnen jullie bij spoed ook meteen meubels monteren?", "<p>Ja. Naast het transport kunnen wij direct meubels monteren, zodat u meteen rust vindt in uw nieuwe woning.</p>"),
+  ("Verhuizen jullie met spoed ook in het weekend?", "<p>Ja, wij werken ook in het weekend. Bel ons met de gewenste dag en beide adressen, dan hoort u binnen een paar minuten of het past.</p>"),
  ],
 },
 "seniorenverhuizing": {
@@ -62,12 +66,15 @@ EXTRA = {
 <li><strong>Neem de tijd voor persoonlijke spullen.</strong> Foto's, boeken en herinneringen kosten de meeste tijd. Begin daar ruim van tevoren mee, eventueel samen met familie.</li>
 <li><strong>Bespreek wat er met de rest gebeurt.</strong> Wat niet meegaat kan naar familie, een kringloopwinkel of worden afgevoerd. Met onze <a href="/diensten/ontruiming/">ontruimingsservice</a> leveren we de oude woning bezemschoon op.</li>
 <li><strong>Zorg voor een vast aanspreekpunt.</strong> Vanaf het eerste contact heeft u bij ons één aanspreekpunt, zodat u niet steeds alles opnieuw hoeft uit te leggen.</li>
-</ul>""",
+</ul>
+<h3>Seniorenverhuizing in Zwolle, Kampen, Meppel en op de Veluwe</h3>
+<p>Wij begeleiden seniorenverhuizingen in <a href="/verhuisbedrijf-zwolle/">Zwolle</a>, <a href="/verhuisbedrijf-kampen/">Kampen</a>, <a href="/verhuisbedrijf-hattem/">Hattem</a>, <a href="/verhuisbedrijf-heerde/">Heerde</a>, <a href="/verhuisbedrijf-meppel/">Meppel</a>, <a href="/verhuisbedrijf-apeldoorn/">Apeldoorn</a> en <a href="/verhuisbedrijf-harderwijk/">Harderwijk</a>, en verder in heel Overijssel en op de Veluwe. Vaak gaat de verhuizing naar een zorgappartement of aanleunwoning in dezelfde gemeente, soms dichter bij de kinderen in een andere plaats. Ook die verhuizing regelen wij van deur tot deur.</p>""",
  "faq": [
   ("Wat is een seniorenverhuizing?", "<p>Een verhuizing waarbij de begeleiding net zo belangrijk is als het transport. Bij HJ Verhuizing krijgt u een vast aanspreekpunt, een planning op uw tempo en kunt u alles uit handen geven: inpakken, (de)montage, verhuizen en de oude woning bezemschoon opleveren.</p>"),
   ("Kan de familie meekijken of meebeslissen?", "<p>Natuurlijk. Het is vaak prettig als kinderen of andere betrokkenen bij het eerste gesprek zijn. Plan het gerust op een moment dat iedereen kan.</p>"),
   ("Wat als de nieuwe woning nog niet klaar is?", "<p>Is de nieuwe woning nog niet direct klaar, dan bieden wij veilige opslagmogelijkheden voor uw inboedel.</p>"),
   ("Kunnen jullie de oude woning ook leeghalen?", "<p>Ja. Wij kunnen de oude woning ontruimen en bezemschoon opleveren, zodat u daar niet zelf mee bezig hoeft te zijn.</p>"),
+  ("Helpen jullie ook bij de verhuizing van ouderen naar een verzorgingshuis?", "<p>Ja. Naar een verzorgingshuis of zorgappartement gaat meestal maar een klein deel van de inboedel mee. Wij pakken in wat meegaat, zetten de meubels op de nieuwe kamer in elkaar en kunnen met onze <a href=\"/diensten/ontruiming/\">ontruimingsservice</a> de oude woning bezemschoon opleveren. Familie kan meekijken en meebeslissen, in het tempo dat prettig is.</p>"),
  ],
 },
 "ontruiming": {
@@ -83,11 +90,14 @@ EXTRA = {
 <p>Na een overlijden komt er veel tegelijk op nabestaanden af. Bij een huurwoning spreekt u met de verhuurder af wanneer de woning leeg moet zijn; bij een koopwoning hangt het af van de verkoop. Neem de tijd om met familie door de spullen te gaan voordat de ontruiming start, en houd belangrijke papieren apart: testament, verzekeringen, bankzaken en de sleutels.</p>
 <h3>Ontruiming bij verhuizing naar een zorginstelling</h3>
 <p>Vaak gaat er maar een klein deel mee naar de nieuwe kamer of het appartement. Wij kunnen de <a href="/diensten/seniorenverhuizing/">seniorenverhuizing</a> en de ontruiming van de oude woning combineren, zodat er één planning en één aanspreekpunt is.</p>
-<p>Let op: woningcorporaties stellen vaak eigen eisen aan de oplevering, bijvoorbeeld over vloerbedekking, gaten in muren en zelf aangebrachte voorzieningen. Vraag hun opleverlijst op, dan nemen we die mee in de planning.</p>""",
+<p>Let op: woningcorporaties stellen vaak eigen eisen aan de oplevering, bijvoorbeeld over vloerbedekking, gaten in muren en zelf aangebrachte voorzieningen. Vraag hun opleverlijst op, dan nemen we die mee in de planning.</p>
+<h3>Woningontruiming in Zwolle, Hattem, Kampen en omgeving</h3>
+<p>Wij ontruimen woningen en bedrijfspanden in <a href="/verhuisbedrijf-zwolle/">Zwolle</a>, <a href="/verhuisbedrijf-hattem/">Hattem</a>, <a href="/verhuisbedrijf-kampen/">Kampen</a>, <a href="/verhuisbedrijf-heerde/">Heerde</a>, <a href="/verhuisbedrijf-elburg/">Elburg</a>, <a href="/verhuisbedrijf-apeldoorn/">Apeldoorn</a>, <a href="/verhuisbedrijf-deventer/">Deventer</a> en <a href="/verhuisbedrijf-meppel/">Meppel</a>, en verder in heel Overijssel en op de Veluwe. Moet de woning op een vaste datum leeg zijn, bijvoorbeeld aan het einde van een huurcontract, dan plannen we de ontruiming daar omheen. Op onze plaatspagina's leest u per gemeente hoe grofvuil en een container op straat geregeld zijn.</p>""",
  "faq": [
   ("Wat betekent bezemschoon opleveren?", "<p>De woning is leeg en grof schoongemaakt: geen spullen meer, vloeren geveegd en geen afval achtergelaten. Sommige verhuurders vragen meer, zoals het verwijderen van vloerbedekking. Kijk daarvoor in de opleverlijst van uw verhuurder.</p>"),
   ("Wie betaalt de ontruiming na een overlijden?", "<p>Meestal worden de kosten uit de nalatenschap betaald. Overleg dat met de andere erfgenamen of de notaris voordat u een opdracht geeft.</p>"),
   ("Ontruimen jullie ook bedrijfspanden?", "<p>Ja. Van het discreet leegmaken van een seniorenwoning tot de efficiënte ontruiming van een kantoorpand; wij passen onze werkwijze aan uw situatie aan.</p>"),
+  ("Hoe snel kunnen jullie een woning ontruimen?", "<p>Dat hangt af van de omvang van de inboedel en van onze planning. Bel ons met de opleverdatum; bij een huurwoning staat die meestal in de opzegging, en daar plannen we de ontruiming omheen. Ook een ontruiming op korte termijn bespreken we graag telefonisch.</p>"),
  ],
 },
 "verhuisbenodigdheden": {

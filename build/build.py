@@ -122,11 +122,11 @@ SEO = {
  "kennisbank": ("Kennisbank: tips voor uw verhuizing | HJ Verhuizing", "Praktische uitleg over verhuizen: een verhuischecklist, wanneer een verhuislift loont en waar u op let bij internationaal verhuizen."),
  "particuliere-verhuizing": ("Particuliere verhuizing: vakkundige hulp | HJ Verhuizing", "Kies voor de vakkundige service van HJ Verhuizing. Wij regelen uw particuliere verhuizing van A tot Z, zorgeloos en betaalbaar. Vraag een gratis offerte aan."),
  "bedrijfsverhuizing": ("Bedrijfsverhuizing zonder downtime | HJ Verhuizing", "Bedrijfsverhuizing? HJ Verhuizing regelt uw zakelijke verhuizing met een strakke planning, minimale downtime en uiterste zorg voor uw inventaris."),
- "spoedverhuizing": ("Spoedverhuizing nodig? Direct vakkundige hulp | HJ Verhuizing", "Spoedverhuizing nodig? HJ Verhuizing staat direct voor u klaar voor een vakkundige verhuizing op korte termijn, ook binnen 24 uur. Bel ons direct."),
- "seniorenverhuizing": ("Seniorenverhuizing met geduld en zorg | HJ Verhuizing", "Seniorenverhuizing? HJ Verhuizing ontzorgt u volledig, met een vast aanspreekpunt en een planning op uw tempo. Vraag een vrijblijvende offerte aan."),
+ "spoedverhuizing": ("Spoedverhuizing regio Zwolle, binnen 24 uur | HJ Verhuizing", "Spoedverhuizing nodig in Zwolle, Kampen, Apeldoorn of op de Veluwe? HJ Verhuizing uit Hattem verhuist u op korte termijn, binnen 24 uur mogelijk, ook in het weekend."),
+ "seniorenverhuizing": ("Seniorenverhuizing regio Zwolle, met zorg | HJ Verhuizing", "Hulp bij verhuizen voor ouderen in Zwolle, Kampen, Meppel en op de Veluwe. HJ Verhuizing ontzorgt volledig: vast aanspreekpunt, planning op uw tempo, inpakken en de oude woning leeg."),
  "in-en-uitpak-service": ("Inpakservice bij uw verhuizing | HJ Verhuizing", "Inpakservice nodig? Laat uw inboedel vakkundig in- en uitpakken door HJ Verhuizing. Gelabeld per kamer en met de juiste materialen voor breekbare spullen."),
  "demontage-service": ("(De)montageservice voor meubels | HJ Verhuizing", "Meubels laten demonteren en monteren bij uw verhuizing? Dankzij onze bouwkundige achtergrond staat alles weer stevig en kaarsrecht in uw nieuwe woning."),
- "ontruiming": ("Woningontruiming, bezemschoon opgeleverd | HJ Verhuizing", "Woningontruiming of bedrijfspand ontruimen? HJ Verhuizing zorgt voor een respectvolle en discrete ontruiming met bezemschone oplevering."),
+ "ontruiming": ("Woningontruiming Zwolle en omgeving | HJ Verhuizing", "Woningontruiming in Zwolle, Hattem, Kampen of Apeldoorn? HJ Verhuizing ontruimt respectvol en discreet, ook na een overlijden, en levert de woning bezemschoon op."),
  "verhuisbenodigdheden": ("Verhuisdozen en verhuisdekens huren | HJ Verhuizing", "Verhuisbenodigdheden nodig? Huur stevige verhuisdozen en verhuisdekens bij HJ Verhuizing en krijg noppenfolie, tape en hoekbeschermers erbij."),
  "verhuisbedrijf-zwolle": ("Verhuizen in Zwolle: milieuzone en parkeren | HJ Verhuizing", "Gaat u verhuizen in Zwolle? Lees wat u regelt rond de zero-emissiezone, pollers en parkeren in de binnenstad, en hoe HJ Verhuizing uit Hattem u helpt."),
  "verhuisbedrijf-hattem": ("Verhuisbedrijf Hattem | Het verhuisbedrijf uit Hattem zelf", "HJ Verhuizing is gevestigd in Hattem en kent de Hanzestad als geen ander. Eigen verhuislift, (de)montage en inpakservice, ook in het weekend."),
@@ -138,7 +138,7 @@ SEO = {
  "verhuisbedrijf-wapenveld": ("Verhuisbedrijf Wapenveld: vakkundige hulp | HJ Verhuizing", "Verhuisbedrijf Wapenveld? Kies voor de vakkundige service van HJ Verhuizing. Wij regelen uw verhuizing op de Veluwe zorgeloos en snel. Vraag uw offerte aan."),
  "verhuisbedrijf-zalk": ("Verhuisbedrijf Zalk: vakkundige hulp | HJ Verhuizing", "Verhuisbedrijf Zalk? Kies voor de vakkundige service van HJ Verhuizing. Wij regelen uw verhuizing in de IJsseldelta zorgeloos en snel. Vraag uw offerte aan."),
  "internationaal-verhuizen": ("Internationaal verhuizen vanuit Nederland | HJ Verhuizing", "Internationale verhuizing vanuit Zwolle? Van Duitsland tot België regelt HJ Verhuizing uw transport over de grens vakkundig. Vraag een offerte aan."),
- "verhuislift-nodig": ("Verhuislift nodig? Wanneer het loont | HJ Verhuizing", "Wanneer heeft u een verhuislift nodig, wat is er op straat en aan de gevel voor nodig en is zelf huren slim? HJ Verhuizing legt het uit."),
+ "verhuislift-nodig": ("Verhuislift huren of nodig? Wanneer het loont | HJ Verhuizing", "Verhuislift in Zwolle, Deventer, Apeldoorn of Kampen? Lees wanneer een lift nodig is, wat er op straat geregeld moet worden en of zelf huren loont."),
  "wat-kost-een-verhuizing": ("Wat kost een verhuizing? De prijs uitgelegd | HJ Verhuizing", "Wat kost een verhuizing? Lees welke zes factoren de prijs bepalen, hoe een offerte op maat tot stand komt en hoe u zelf bespaart op uw verhuizing."),
  "verhuischecklist": ("Verhuischecklist: alles op volgorde | HJ Verhuizing", "Verhuizen zonder stress? Deze verhuischecklist zet alles op volgorde, van acht weken vooraf tot de sleuteloverdracht. Vink af wat u geregeld heeft."),
  "privacybeleid": ("Privacybeleid | HJ Verhuizing", "Lees hoe HJ Verhuizing omgaat met uw persoonsgegevens: welke gegevens we verzamelen, waarom, hoe lang we ze bewaren en wat uw rechten zijn."),
@@ -147,7 +147,7 @@ SEO = {
 POSTS = [  # slug, id, datum, laatst gewijzigd, afbeelding, korte intro
     ("wat-kost-een-verhuizing", "kosten", "2026-10-31", "2026-10-31", "stel-lege-woning", "Waar hangt de prijs van een verhuizing van af, hoe komt een offerte tot stand en hoe bespaart u kosten?"),
     ("verhuischecklist", "3028", "2026-10-09", "2026-10-09", "dozen-nieuwe-woning", "Een verhuischecklist die alles op volgorde zet, van acht weken vooraf tot de sleuteloverdracht."),
-    ("verhuislift-nodig", "3022", "2026-10-09", "2026-10-09", "verhuiswagen-vol", "Wanneer heeft u een verhuislift nodig, wat is er op straat en aan de gevel voor nodig en is zelf huren slim?"),
+    ("verhuislift-nodig", "3022", "2026-10-09", "2026-11-19", "verhuiswagen-vol", "Wanneer heeft u een verhuislift nodig, wat is er op straat en aan de gevel voor nodig en is zelf huren slim?"),
     ("internationaal-verhuizen", "2912", "2026-06-13", "2026-10-09", "verhuiswagen-laden", "Verhuizen naar Duitsland, België of verder? Waar u op let bij een verhuizing over de grens."),
 ]
 
@@ -605,6 +605,11 @@ def build_home():
     add("/", page(t, d, "/", body, preload="kennismaking-voordeur", schema=[{"@type": "WebPage", "@id": BASE + "/#webpage", "url": BASE + "/", "name": t, "isPartOf": {"@id": BASE + "/#website"}, "about": {"@id": ORG_ID}}, faq_schema(faq)]), prio="1.0")
 
 # ---- dienstpagina's
+H1_DIENST = {  # eigen kop waar de oude paginatitel te kaal was
+ "spoedverhuizing": "Spoedverhuizing in regio Zwolle: binnen 24 uur mogelijk",
+ "ontruiming": "Woningontruiming in Zwolle en omgeving, bezemschoon opgeleverd",
+ "seniorenverhuizing": "Seniorenverhuizing in regio Zwolle en op de Veluwe",
+}
 def build_service(slug, name, short, ico, pid):
     D = parse_detail(pid)
     path = f"/diensten/{slug}/"
@@ -616,7 +621,7 @@ def build_service(slug, name, short, ico, pid):
 {sidebar(path, links)}
 </div></section>'''
     faq = EXTRA[slug]["faq"]  # eigen vragen per dienst, geen kopie van de algemene FAQ
-    body = hero_page(tidy_title(D["title"]), D["lead"], crumbs, D["bg"]) + article + promise_section()
+    body = hero_page(H1_DIENST.get(slug) or tidy_title(D["title"]), D["lead"], crumbs, D["bg"]) + article + promise_section()
     if faq: body += faq_section(faq, f"Vragen over {name.lower() if not name.startswith('(') else name}")
     body += cta_band("verhuiswagen-laden-3") + areas_section(mist=True)
     t, d = SEO[slug]
@@ -641,7 +646,7 @@ def build_city(slug, city, pid):
     L = LOKAAL.get(slug)
     article = f'''<section class="section"><div class="wrap page-grid">
 <article class="prose">{img(D["img"], "(max-width:1000px) 100vw, 60vw", cls="article-img")}{'<p>Zoekt u een <a href="/">verhuisbedrijf voor Zwolle en omgeving</a>? HJ Verhuizing uit Hattem verhuist dagelijks in Zwolle. Op deze pagina leest u wat er in Zwolle zelf komt kijken bij een verhuizing: de zero-emissiezone, de pollers en het parkeren in de binnenstad.</p>' if slug == "zwolle" else ''}{render_parts(D["parts"])}
-<p class="also">Ook voor {city}: {", ".join(f'<a href="/diensten/{s}/">{n.lower() if not n.startswith("(") else n}</a>' for s, n, *_ in SERVICES)}.</p></article>
+<p class="also">HJ Verhuizing is uw verhuizer in {city} voor: {", ".join(f'<a href="/diensten/{s}/">{n.lower() if not n.startswith("(") else n}</a>' for s, n, *_ in SERVICES)}.</p></article>
 {sidebar(path, links)}
 </div></section>
 <section class="section section--tight section--mist" aria-labelledby="lokaal"><div class="wrap split split--top"><div class="prose">{eyebrow("Lokaal")}{local_html(L, city)}</div>{mp}</div></section>'''
@@ -673,7 +678,7 @@ def build_new_city(i, slug, P):
     mp = f'<figure class="map-fig">{werkgebied_svg(slug)}<figcaption>{city} ligt hemelsbreed zo\'n {round(d_km)} km van onze thuisbasis in Hattem. <a href="/werkgebied/">Bekijk alle plaatsen</a></figcaption></figure>'
     article = f'''<section class="section"><div class="wrap page-grid">
 <article class="prose">{img(art, "(max-width:1000px) 100vw, 60vw", cls="article-img")}{P["intro_html"]}
-<p class="also">Ook voor {city}: {", ".join(f'<a href="/diensten/{s}/">{n.lower() if not n.startswith("(") else n}</a>' for s, n, *_ in SERVICES)}.</p></article>
+<p class="also">HJ Verhuizing is uw verhuizer in {city} voor: {", ".join(f'<a href="/diensten/{s}/">{n.lower() if not n.startswith("(") else n}</a>' for s, n, *_ in SERVICES)}.</p></article>
 {sidebar(path, links)}
 </div></section>
 <section class="section section--tight section--mist" aria-labelledby="lokaal"><div class="wrap split split--top"><div class="prose">{eyebrow("Lokaal")}<h2 id="lokaal">{P["h2"]}</h2>{P["html"]}<details class="sources"><summary>Bronnen</summary><ul>{src}</ul></details></div>{mp}</div></section>'''
