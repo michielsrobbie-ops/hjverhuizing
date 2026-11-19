@@ -94,7 +94,7 @@
   window.addEventListener("pageshow", function () { $$(".hj-form button[type=submit][disabled]").forEach(function (b) { b.disabled = false; b.textContent = b.getAttribute("data-label") || "Versturen"; }); });
   $$(".hj-form button[type=submit]").forEach(function (b) { b.setAttribute("data-label", b.textContent); });
 
-  // foutmelding van de server (verzend.php stuurt terug met ?fout=...)
+  // foutmelding van de server (api/verzend stuurt terug met ?fout=...)
   var fout = new URLSearchParams(location.search).get("fout");
   if (fout) {
     var msg = { velden: "Vul alstublieft uw naam, telefoonnummer en een geldig e-mailadres in.", telefoon: TEL_FOUT, mail: "Het versturen is niet gelukt. Bel ons gerust op 06 48 57 77 05 of mail naar info@hjverhuizing.nl." }[fout];
