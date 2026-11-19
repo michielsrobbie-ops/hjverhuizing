@@ -9,6 +9,8 @@
  *  4. herkomst: de aanvraag moet vanaf hjverhuizing.nl zelf komen (Origin/Referer)
  *  5. limiet: hoogstens 3 aanvragen per uur per IP-adres
  *  6. blokkadelijst: IP-adressen in $BLOKKEER_IP worden altijd geweigerd
+ *  7. verdachtscore: nep-postcode 1234 AB, 1234 in het telefoonnummer, browser zonder Nederlands;
+ *     2 punten of meer = geblokkeerd, 1 punt = doorgestuurd met "[Verdacht]" in het onderwerp
  * Bots krijgen gewoon de bedankpagina te zien, zodat ze niet merken dat ze zijn tegengehouden.
  * Elke poging (ook de geblokkeerde) komt met IP, browser en reden in het logbestand
  * ../hj-formulier.log (buiten public_html, dus niet via de site op te vragen).
@@ -27,6 +29,8 @@ $BEDANKT    = '/bedankt/';
 $MIN_SECONDEN = 3;
 $MAX_AANVRAGEN_PER_UUR = 3;                     // per IP-adres
 $BLOKKEER_IP = [                                // exacte adressen of een begin zoals '185.220.'
+    '31.171.130.48',                            // nepaanvraag 13 nov 2026 (VPN, F.N.S. Holdings, Londen)
+    '66.56.86.7',                               // nepaanvraag 15 nov 2026 (VPN, Datacamp, Bratislava)
 ];
 $LOG = dirname(__DIR__) . '/hj-formulier.log';  // naast public_html
 
@@ -112,12 +116,22 @@ $regels = [
 $tekst = '';
 foreach ($regels as $k => $v) { if ($v !== '') $tekst .= str_pad($k . ':', 11) . $v . "\n"; }
 if ($bericht !== '') $tekst .= "\nBericht:\n" . $bericht . "\n";
-$verdacht = $herkomst === '' || kop('HTTP_USER_AGENT') === '' || preg_match('#https?://|www\.#i', $naam . $telefoon . $postcode);
+// verdachtscore: de nepaanvragen van nov 2026 hadden postcode "1234 AB", een 06-nummer met 1234 erin en kwamen via een VPN
+$score = 0; $redenen = [];
+$cijfers = preg_replace('/\D/', '', $telefoon);
+if (preg_match('/^1234\s?AB$/', $postcode))                   { $score += 2; $redenen[] = 'postcode 1234 AB'; }
+if (strpos($cijfers, '1234') !== false)                        { $score += 1; $redenen[] = '1234 in telefoonnummer'; }
+if (stripos(kop('HTTP_ACCEPT_LANGUAGE'), 'nl') === false)      { $score += 1; $redenen[] = 'browser zonder Nederlands'; }
+if ($herkomst === '' || kop('HTTP_USER_AGENT') === '')         { $score += 1; $redenen[] = 'herkomst of browser ontbreekt'; }
+if (preg_match('#https?://|www\.#i', $naam . $telefoon . $postcode)) { $score += 2; $redenen[] = 'link in naam/telefoon/postcode'; }
+if ($score >= 2) blokkeer('nep-score-' . $score);
+$verdacht = $score > 0;
 if ($verdacht) $onderwerpMail = '[Verdacht] ' . $onderwerpMail;
 $tekst .= "\n--\nVerzonden op " . date('d-m-Y H:i') . " vanaf IP " . ip()
         . "\nBrowser:   " . (kop('HTTP_USER_AGENT') ?: '(leeg)')
         . "\nTaal:      " . (kop('HTTP_ACCEPT_LANGUAGE') ?: '(leeg)')
         . "\nHerkomst:  " . ($herkomst ?: '(leeg)')
+        . ($verdacht ? "\nVerdacht:  " . implode(', ', $redenen) : '')
         . "\nWie is dit IP: https://ipinfo.io/" . ip() . "\n";
 
 $headers = [
